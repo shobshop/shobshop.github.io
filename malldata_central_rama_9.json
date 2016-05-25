@@ -1,0 +1,1376 @@
+{
+  "maps": [
+    {
+      "name": "G",
+      "index": 2,
+      "svgUrl": "http://piwigo.shobshop.co/upload/2016/05/24/20160524052506-be380a58.svg",
+      "locationId": "5510ea8eb1dc771200e08335",
+      "createdAt": "2016-05-24T09:26:53.248Z",
+      "updatedAt": "2016-05-24T09:26:53.248Z",
+      "id": "57441e5d3a644049093cb0f1"
+    },
+    {
+      "name": "1",
+      "index": 3,
+      "svgUrl": "http://piwigo.shobshop.co/upload/2016/05/24/20160524052504-d690f3e4.svg",
+      "locationId": "5510ea8eb1dc771200e08335",
+      "createdAt": "2016-05-24T09:26:56.655Z",
+      "updatedAt": "2016-05-24T09:26:56.655Z",
+      "id": "57441e603a644049093cb0f2"
+    }
+  ],
+  "shops": [
+    {
+      "svgId": "g15",
+      "type": "room",
+      "name": "Uniqlo",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.399Z",
+      "updatedAt": "2016-05-24T10:27:17.399Z",
+      "id": "57442c853a644049093cb0fb"
+    },
+    {
+      "svgId": "kg01-kg02",
+      "type": "room",
+      "name": "Wash Me",
+      "directories": [
+        "574419fb3a644049093cb0ed"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.400Z",
+      "updatedAt": "2016-05-24T10:27:17.400Z",
+      "id": "57442c853a644049093cb0fc"
+    },
+    {
+      "svgId": "kg03",
+      "type": "room",
+      "name": "Time Clinic",
+      "directories": [
+        "574419fb3a644049093cb0ed"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.400Z",
+      "updatedAt": "2016-05-24T10:27:17.400Z",
+      "id": "57442c853a644049093cb0fd"
+    },
+    {
+      "svgId": "kg04",
+      "type": "room",
+      "name": "ASA Service",
+      "directories": [
+        "574419fb3a644049093cb0ed"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.401Z",
+      "updatedAt": "2016-05-24T10:27:17.401Z",
+      "id": "57442c853a644049093cb0fe"
+    },
+    {
+      "svgId": "g10-1",
+      "type": "room",
+      "name": "Body Glove",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.401Z",
+      "updatedAt": "2016-05-24T10:27:17.401Z",
+      "id": "57442c853a644049093cb0ff"
+    },
+    {
+      "svgId": "g10-2",
+      "type": "room",
+      "name": "Oakley",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.515Z",
+      "updatedAt": "2016-05-24T10:27:17.515Z",
+      "id": "57442c853a644049093cb100"
+    },
+    {
+      "svgId": "g07",
+      "type": "room",
+      "name": "Quiksilver & Roxy",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.515Z",
+      "updatedAt": "2016-05-24T10:27:17.515Z",
+      "id": "57442c853a644049093cb101"
+    },
+    {
+      "svgId": "g03",
+      "type": "room",
+      "name": "YEAH!",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.516Z",
+      "updatedAt": "2016-05-24T10:27:17.516Z",
+      "id": "57442c853a644049093cb102"
+    },
+    {
+      "svgId": "g04",
+      "type": "room",
+      "name": "Levi's",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.516Z",
+      "updatedAt": "2016-05-24T10:27:17.516Z",
+      "id": "57442c853a644049093cb103"
+    },
+    {
+      "svgId": "g02",
+      "type": "room",
+      "name": "DC",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.517Z",
+      "updatedAt": "2016-05-24T10:27:17.517Z",
+      "id": "57442c853a644049093cb104"
+    },
+    {
+      "svgId": "g05",
+      "type": "room",
+      "name": "Billabong",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.625Z",
+      "updatedAt": "2016-05-24T10:27:17.625Z",
+      "id": "57442c853a644049093cb105"
+    },
+    {
+      "svgId": "g06",
+      "type": "room",
+      "name": "CIO-Check It Out",
+      "directories": [
+        "574419ef3a644049093cb0e5"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.626Z",
+      "updatedAt": "2016-05-24T10:27:17.626Z",
+      "id": "57442c853a644049093cb106"
+    },
+    {
+      "svgId": "g11-2",
+      "type": "room",
+      "name": "Lee",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.626Z",
+      "updatedAt": "2016-05-24T10:27:17.626Z",
+      "id": "57442c853a644049093cb107"
+    },
+    {
+      "svgId": "g08-g09",
+      "type": "room",
+      "name": "Adidas",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.627Z",
+      "updatedAt": "2016-05-24T10:27:17.627Z",
+      "id": "57442c853a644049093cb108"
+    },
+    {
+      "svgId": "g11-1",
+      "type": "room",
+      "name": "Pronto",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.628Z",
+      "updatedAt": "2016-05-24T10:27:17.628Z",
+      "id": "57442c853a644049093cb109"
+    },
+    {
+      "svgId": "g13-g14",
+      "type": "room",
+      "name": "MUJI",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.730Z",
+      "updatedAt": "2016-05-24T10:27:17.730Z",
+      "id": "57442c853a644049093cb10a"
+    },
+    {
+      "svgId": "g12",
+      "type": "room",
+      "name": "DeFry01",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.732Z",
+      "updatedAt": "2016-05-24T10:27:17.732Z",
+      "id": "57442c853a644049093cb10b"
+    },
+    {
+      "svgId": "kg06",
+      "type": "room",
+      "name": "Simply W",
+      "directories": [
+        "574419c73a644049093cb0df"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.732Z",
+      "updatedAt": "2016-05-24T10:27:17.732Z",
+      "id": "57442c853a644049093cb10c"
+    },
+    {
+      "svgId": "kg11",
+      "type": "room",
+      "name": "Sanuk",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.733Z",
+      "updatedAt": "2016-05-24T10:27:17.733Z",
+      "id": "57442c853a644049093cb10d"
+    },
+    {
+      "svgId": "kg10-2",
+      "type": "room",
+      "name": "Feiyue",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.734Z",
+      "updatedAt": "2016-05-24T10:27:17.734Z",
+      "id": "57442c853a644049093cb10f"
+    },
+    {
+      "svgId": "kg10-1",
+      "type": "room",
+      "name": "Ice Watch",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.734Z",
+      "updatedAt": "2016-05-24T10:27:17.734Z",
+      "id": "57442c853a644049093cb10e"
+    },
+    {
+      "svgId": "kg07",
+      "type": "room",
+      "name": "G shock + Guess Watch",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.840Z",
+      "updatedAt": "2016-05-24T10:27:17.840Z",
+      "id": "57442c853a644049093cb110"
+    },
+    {
+      "svgId": "kg12",
+      "type": "room",
+      "name": "Native",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.840Z",
+      "updatedAt": "2016-05-24T10:27:17.840Z",
+      "id": "57442c853a644049093cb111"
+    },
+    {
+      "svgId": "kg08",
+      "type": "room",
+      "name": "",
+      "directories": [
+        ""
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": true,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.840Z",
+      "updatedAt": "2016-05-24T10:27:17.840Z",
+      "id": "57442c853a644049093cb112"
+    },
+    {
+      "svgId": "kg09",
+      "type": "room",
+      "name": "",
+      "directories": [
+        ""
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": true,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.841Z",
+      "updatedAt": "2016-05-24T10:27:17.841Z",
+      "id": "57442c853a644049093cb113"
+    },
+    {
+      "svgId": "kg05-2",
+      "type": "room",
+      "name": "",
+      "directories": [
+        ""
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": true,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.841Z",
+      "updatedAt": "2016-05-24T10:27:17.841Z",
+      "id": "57442c853a644049093cb114"
+    },
+    {
+      "svgId": "kg05-1",
+      "type": "room",
+      "name": "Teddy House",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.950Z",
+      "updatedAt": "2016-05-24T10:27:17.950Z",
+      "id": "57442c853a644049093cb115"
+    },
+    {
+      "svgId": "g01",
+      "type": "room",
+      "name": "Robinson",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.951Z",
+      "updatedAt": "2016-05-24T10:27:17.951Z",
+      "id": "57442c853a644049093cb116"
+    },
+    {
+      "svgId": "entrance",
+      "type": "sign",
+      "name": "Entrance",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.952Z",
+      "updatedAt": "2016-05-24T10:27:17.952Z",
+      "id": "57442c853a644049093cb117"
+    },
+    {
+      "svgId": "driver-waiting-room",
+      "type": "sign",
+      "name": "Driver Waiting Room",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.953Z",
+      "updatedAt": "2016-05-24T10:27:17.953Z",
+      "id": "57442c853a644049093cb118"
+    },
+    {
+      "svgId": "call-point-service",
+      "type": "sign",
+      "name": "Call Point Service",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:17.955Z",
+      "updatedAt": "2016-05-24T10:27:17.955Z",
+      "id": "57442c853a644049093cb119"
+    },
+    {
+      "svgId": "parking",
+      "type": "sign",
+      "name": "Parking",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.070Z",
+      "updatedAt": "2016-05-24T10:27:18.070Z",
+      "id": "57442c863a644049093cb11a"
+    },
+    {
+      "svgId": "reserved-parking",
+      "type": "sign",
+      "name": "VIP Parking",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.071Z",
+      "updatedAt": "2016-05-24T10:27:18.071Z",
+      "id": "57442c863a644049093cb11b"
+    },
+    {
+      "svgId": "dropoff",
+      "type": "sign",
+      "name": "Drop Off Area",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.071Z",
+      "updatedAt": "2016-05-24T10:27:18.071Z",
+      "id": "57442c863a644049093cb11c"
+    },
+    {
+      "svgId": "elevator",
+      "type": "sign",
+      "name": "Elevator",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.073Z",
+      "updatedAt": "2016-05-24T10:27:18.073Z",
+      "id": "57442c863a644049093cb11d"
+    },
+    {
+      "svgId": "atm",
+      "type": "sign",
+      "name": "ATM",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.073Z",
+      "updatedAt": "2016-05-24T10:27:18.073Z",
+      "id": "57442c863a644049093cb11e"
+    },
+    {
+      "svgId": "telephone",
+      "type": "sign",
+      "name": "Telephone",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.074Z",
+      "updatedAt": "2016-05-24T10:27:18.074Z",
+      "id": "57442c863a644049093cb11f"
+    },
+    {
+      "svgId": "handicapped-toilet",
+      "type": "sign",
+      "name": "Handicapped Toilet",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.202Z",
+      "updatedAt": "2016-05-24T10:27:18.203Z",
+      "id": "57442c863a644049093cb120"
+    },
+    {
+      "svgId": "baby-change-room",
+      "type": "sign",
+      "name": "Baby Change Room",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.204Z",
+      "updatedAt": "2016-05-24T10:27:18.204Z",
+      "id": "57442c863a644049093cb121"
+    },
+    {
+      "svgId": "toilet",
+      "type": "sign",
+      "name": "Toilet",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.204Z",
+      "updatedAt": "2016-05-24T10:27:18.204Z",
+      "id": "57442c863a644049093cb122"
+    },
+    {
+      "svgId": "escalator",
+      "type": "sign",
+      "name": "Escalator",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.205Z",
+      "updatedAt": "2016-05-24T10:27:18.205Z",
+      "id": "57442c863a644049093cb123"
+    },
+    {
+      "svgId": "r104",
+      "type": "room",
+      "name": "Jurlique",
+      "directories": [
+        "574419d93a644049093cb0e1"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.205Z",
+      "updatedAt": "2016-05-24T10:27:18.205Z",
+      "id": "57442c863a644049093cb124"
+    },
+    {
+      "svgId": "r101-103",
+      "type": "room",
+      "name": "GAP",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.280Z",
+      "updatedAt": "2016-05-24T10:27:18.280Z",
+      "id": "57442c863a644049093cb125"
+    },
+    {
+      "svgId": "r105",
+      "type": "room",
+      "name": "GC",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.281Z",
+      "updatedAt": "2016-05-24T10:27:18.281Z",
+      "id": "57442c863a644049093cb126"
+    },
+    {
+      "svgId": "jw107",
+      "type": "room",
+      "name": "Calinan",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.281Z",
+      "updatedAt": "2016-05-24T10:27:18.281Z",
+      "id": "57442c863a644049093cb127"
+    },
+    {
+      "svgId": "jw101",
+      "type": "room",
+      "name": "ASAWA",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.282Z",
+      "updatedAt": "2016-05-24T10:27:18.282Z",
+      "id": "57442c863a644049093cb128"
+    },
+    {
+      "svgId": "jw102",
+      "type": "room",
+      "name": "New Brand by Buasuwan",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.283Z",
+      "updatedAt": "2016-05-24T10:27:18.283Z",
+      "id": "57442c863a644049093cb129"
+    },
+    {
+      "svgId": "jw103",
+      "type": "room",
+      "name": "Rose Jewelry Studio",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.360Z",
+      "updatedAt": "2016-05-24T10:27:18.360Z",
+      "id": "57442c863a644049093cb12a"
+    },
+    {
+      "svgId": "jw104",
+      "type": "room",
+      "name": "Millenium Star",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.360Z",
+      "updatedAt": "2016-05-24T10:27:18.360Z",
+      "id": "57442c863a644049093cb12b"
+    },
+    {
+      "svgId": "jw105",
+      "type": "room",
+      "name": "Rejent Diamond Master",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.361Z",
+      "updatedAt": "2016-05-24T10:27:18.361Z",
+      "id": "57442c863a644049093cb12c"
+    },
+    {
+      "svgId": "jw106",
+      "type": "room",
+      "name": "Jubilee",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.361Z",
+      "updatedAt": "2016-05-24T10:27:18.361Z",
+      "id": "57442c863a644049093cb12d"
+    },
+    {
+      "svgId": "r126",
+      "type": "room",
+      "name": "Pandora",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.361Z",
+      "updatedAt": "2016-05-24T10:27:18.361Z",
+      "id": "57442c863a644049093cb12e"
+    },
+    {
+      "svgId": "r106-107",
+      "type": "room",
+      "name": "CPS CHAPS",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.438Z",
+      "updatedAt": "2016-05-24T10:27:18.438Z",
+      "id": "57442c863a644049093cb12f"
+    },
+    {
+      "svgId": "r109",
+      "type": "room",
+      "name": "Pedro",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.438Z",
+      "updatedAt": "2016-05-24T10:27:18.438Z",
+      "id": "57442c863a644049093cb130"
+    },
+    {
+      "svgId": "r108",
+      "type": "room",
+      "name": "Pull & Bear",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.439Z",
+      "updatedAt": "2016-05-24T10:27:18.439Z",
+      "id": "57442c863a644049093cb131"
+    },
+    {
+      "svgId": "r114",
+      "type": "room",
+      "name": "NaRaYa",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.439Z",
+      "updatedAt": "2016-05-24T10:27:18.439Z",
+      "id": "57442c863a644049093cb132"
+    },
+    {
+      "svgId": "r113",
+      "type": "room",
+      "name": "Dorothy Perkins",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.439Z",
+      "updatedAt": "2016-05-24T10:27:18.439Z",
+      "id": "57442c863a644049093cb133"
+    },
+    {
+      "svgId": "r111",
+      "type": "room",
+      "name": "Accessorize",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.520Z",
+      "updatedAt": "2016-05-24T10:27:18.520Z",
+      "id": "57442c863a644049093cb134"
+    },
+    {
+      "svgId": "r110",
+      "type": "room",
+      "name": "Lacoste",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.521Z",
+      "updatedAt": "2016-05-24T10:27:18.521Z",
+      "id": "57442c863a644049093cb135"
+    },
+    {
+      "svgId": "k104",
+      "type": "room",
+      "name": "Farm Design",
+      "directories": [
+        "574419c73a644049093cb0df"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.522Z",
+      "updatedAt": "2016-05-24T10:27:18.522Z",
+      "id": "57442c863a644049093cb136"
+    },
+    {
+      "svgId": "k102",
+      "type": "room",
+      "name": "",
+      "directories": [
+        ""
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": true,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.522Z",
+      "updatedAt": "2016-05-24T10:27:18.522Z",
+      "id": "57442c863a644049093cb137"
+    },
+    {
+      "svgId": "k103",
+      "type": "room",
+      "name": "",
+      "directories": [
+        ""
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": true,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.522Z",
+      "updatedAt": "2016-05-24T10:27:18.522Z",
+      "id": "57442c863a644049093cb138"
+    },
+    {
+      "svgId": "r118",
+      "type": "room",
+      "name": "Lyn Around",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.523Z",
+      "updatedAt": "2016-05-24T10:27:18.523Z",
+      "id": "57442c863a644049093cb139"
+    },
+    {
+      "svgId": "r115",
+      "type": "room",
+      "name": "Starbucks Coffee",
+      "directories": [
+        "574419c73a644049093cb0df"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.618Z",
+      "updatedAt": "2016-05-24T10:27:18.618Z",
+      "id": "57442c863a644049093cb13a"
+    },
+    {
+      "svgId": "r116",
+      "type": "room",
+      "name": "Krispy Kreme Doughnuts",
+      "directories": [
+        "574419c73a644049093cb0df"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.619Z",
+      "updatedAt": "2016-05-24T10:27:18.619Z",
+      "id": "57442c863a644049093cb13b"
+    },
+    {
+      "svgId": "r117",
+      "type": "room",
+      "name": "F Fashion",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.620Z",
+      "updatedAt": "2016-05-24T10:27:18.620Z",
+      "id": "57442c863a644049093cb13c"
+    },
+    {
+      "svgId": "r119-120",
+      "type": "room",
+      "name": "Jaspal",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.620Z",
+      "updatedAt": "2016-05-24T10:27:18.620Z",
+      "id": "57442c863a644049093cb13d"
+    },
+    {
+      "svgId": "r121",
+      "type": "room",
+      "name": "H.E by MNG",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.621Z",
+      "updatedAt": "2016-05-24T10:27:18.621Z",
+      "id": "57442c863a644049093cb13e"
+    },
+    {
+      "svgId": "r122",
+      "type": "room",
+      "name": "Miss Selfridge",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.706Z",
+      "updatedAt": "2016-05-24T10:27:18.706Z",
+      "id": "57442c863a644049093cb13f"
+    },
+    {
+      "svgId": "k101",
+      "type": "room",
+      "name": "L'OCCITANE",
+      "directories": [
+        "574419d93a644049093cb0e1"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.706Z",
+      "updatedAt": "2016-05-24T10:27:18.706Z",
+      "id": "57442c863a644049093cb140"
+    },
+    {
+      "svgId": "r125",
+      "type": "room",
+      "name": "Swarovski",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.706Z",
+      "updatedAt": "2016-05-24T10:27:18.706Z",
+      "id": "57442c863a644049093cb141"
+    },
+    {
+      "svgId": "r123",
+      "type": "room",
+      "name": "Mango Touch",
+      "directories": [
+        "574419e03a644049093cb0e3"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.707Z",
+      "updatedAt": "2016-05-24T10:27:18.707Z",
+      "id": "57442c863a644049093cb142"
+    },
+    {
+      "svgId": "r124",
+      "type": "room",
+      "name": "Mango",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.707Z",
+      "updatedAt": "2016-05-24T10:27:18.707Z",
+      "id": "57442c863a644049093cb143"
+    },
+    {
+      "svgId": "r127",
+      "type": "room",
+      "name": "Robinson",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.792Z",
+      "updatedAt": "2016-05-24T10:27:18.792Z",
+      "id": "57442c863a644049093cb144"
+    },
+    {
+      "svgId": "entrance",
+      "type": "sign",
+      "name": "Entrance",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.792Z",
+      "updatedAt": "2016-05-24T10:27:18.792Z",
+      "id": "57442c863a644049093cb145"
+    },
+    {
+      "svgId": "mrt",
+      "type": "sign",
+      "name": "MRT Entrance",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.793Z",
+      "updatedAt": "2016-05-24T10:27:18.793Z",
+      "id": "57442c863a644049093cb146"
+    },
+    {
+      "svgId": "bus-stop",
+      "type": "sign",
+      "name": "Bus Stop",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.793Z",
+      "updatedAt": "2016-05-24T10:27:18.793Z",
+      "id": "57442c863a644049093cb147"
+    },
+    {
+      "svgId": "taxi",
+      "type": "sign",
+      "name": "Taxi",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.793Z",
+      "updatedAt": "2016-05-24T10:27:18.793Z",
+      "id": "57442c863a644049093cb148"
+    },
+    {
+      "svgId": "first-aid",
+      "type": "sign",
+      "name": "First Aid",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.794Z",
+      "updatedAt": "2016-05-24T10:27:18.794Z",
+      "id": "57442c863a644049093cb149"
+    },
+    {
+      "svgId": "baby-stroller",
+      "type": "sign",
+      "name": "Baby Stroller",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.894Z",
+      "updatedAt": "2016-05-24T10:27:18.894Z",
+      "id": "57442c863a644049093cb14a"
+    },
+    {
+      "svgId": "information",
+      "type": "sign",
+      "name": "Information",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.895Z",
+      "updatedAt": "2016-05-24T10:27:18.895Z",
+      "id": "57442c863a644049093cb14b"
+    },
+    {
+      "svgId": "call-point-service",
+      "type": "sign",
+      "name": "Call Point Service",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.896Z",
+      "updatedAt": "2016-05-24T10:27:18.896Z",
+      "id": "57442c863a644049093cb14c"
+    },
+    {
+      "svgId": "parking",
+      "type": "sign",
+      "name": "Parking",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.897Z",
+      "updatedAt": "2016-05-24T10:27:18.897Z",
+      "id": "57442c863a644049093cb14d"
+    },
+    {
+      "svgId": "elevator",
+      "type": "sign",
+      "name": "Elevator",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.898Z",
+      "updatedAt": "2016-05-24T10:27:18.898Z",
+      "id": "57442c863a644049093cb14e"
+    },
+    {
+      "svgId": "smoking",
+      "type": "sign",
+      "name": "Smoking Area",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.995Z",
+      "updatedAt": "2016-05-24T10:27:18.995Z",
+      "id": "57442c863a644049093cb14f"
+    },
+    {
+      "svgId": "telephone",
+      "type": "sign",
+      "name": "Telephone",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.995Z",
+      "updatedAt": "2016-05-24T10:27:18.995Z",
+      "id": "57442c863a644049093cb150"
+    },
+    {
+      "svgId": "handicapped-toilet",
+      "type": "sign",
+      "name": "Handicapped Toilet",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.995Z",
+      "updatedAt": "2016-05-24T10:27:18.995Z",
+      "id": "57442c863a644049093cb151"
+    },
+    {
+      "svgId": "baby-change-room",
+      "type": "sign",
+      "name": "Baby Change Room",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.996Z",
+      "updatedAt": "2016-05-24T10:27:18.996Z",
+      "id": "57442c863a644049093cb152"
+    },
+    {
+      "svgId": "toilet",
+      "type": "sign",
+      "name": "Toilet",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:18.997Z",
+      "updatedAt": "2016-05-24T10:27:18.997Z",
+      "id": "57442c863a644049093cb153"
+    },
+    {
+      "svgId": "escalator",
+      "type": "sign",
+      "name": "Escalator",
+      "directories": [
+        "57441bfc3a644049093cb0ef"
+      ],
+      "map": "57441e603a644049093cb0f2",
+      "hidden": false,
+      "clickable": true,
+      "createdAt": "2016-05-24T10:27:21.628Z",
+      "updatedAt": "2016-05-24T10:27:21.628Z",
+      "id": "57442c893a644049093cb154"
+    }
+  ],
+  "directories": [
+    {
+      "name": "Root",
+      "isRoot": true,
+      "createdAt": "2016-05-24T06:11:32.145Z",
+      "updatedAt": "2016-05-24T10:33:13.344Z",
+      "order": [
+        "5743f0b94b88a19403d7cacb",
+        "574419d93a644049093cb0e1",
+        "574419e03a644049093cb0e3",
+        "574419c73a644049093cb0df",
+        "574419ef3a644049093cb0e5",
+        "574419ef3a644049093cb0e6",
+        "574419ef3a644049093cb0e7",
+        "574419ef3a644049093cb0e8",
+        "574419fb3a644049093cb0ed",
+        "57441bfc3a644049093cb0ef"
+      ],
+      "id": "5743f0944b88a19403d7caca"
+    },
+    {
+      "name": "Fashion",
+      "isRoot": false,
+      "createdAt": "2016-05-24T06:12:09.175Z",
+      "updatedAt": "2016-05-24T06:12:09.182Z",
+      "id": "5743f0b94b88a19403d7cacb"
+    },
+    {
+      "name": "Cafe & Restaurant",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:19.698Z",
+      "updatedAt": "2016-05-24T09:07:19.716Z",
+      "id": "574419c73a644049093cb0df"
+    },
+    {
+      "name": "Beauty",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:37.842Z",
+      "updatedAt": "2016-05-24T09:07:37.846Z",
+      "id": "574419d93a644049093cb0e1"
+    },
+    {
+      "name": "Watch & Jewelry",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:44.966Z",
+      "updatedAt": "2016-05-24T09:07:44.971Z",
+      "id": "574419e03a644049093cb0e3"
+    },
+    {
+      "name": "Lifestyle",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:59.885Z",
+      "updatedAt": "2016-05-24T09:07:59.892Z",
+      "id": "574419ef3a644049093cb0e5"
+    },
+    {
+      "name": "IT & Gadget",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:59.887Z",
+      "updatedAt": "2016-05-24T09:07:59.895Z",
+      "id": "574419ef3a644049093cb0e6"
+    },
+    {
+      "name": "Bank & Financials",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:59.888Z",
+      "updatedAt": "2016-05-24T09:07:59.898Z",
+      "id": "574419ef3a644049093cb0e7"
+    },
+    {
+      "name": "Entertainment",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:07:59.889Z",
+      "updatedAt": "2016-05-24T09:07:59.901Z",
+      "id": "574419ef3a644049093cb0e8"
+    },
+    {
+      "name": "Services",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:08:11.599Z",
+      "updatedAt": "2016-05-24T09:08:11.602Z",
+      "id": "574419fb3a644049093cb0ed"
+    },
+    {
+      "name": "Signs",
+      "isRoot": false,
+      "createdAt": "2016-05-24T09:16:44.192Z",
+      "updatedAt": "2016-05-24T09:16:44.195Z",
+      "id": "57441bfc3a644049093cb0ef"
+    }
+  ],
+  "locationId": "5510ea8eb1dc771200e08335"
+}
