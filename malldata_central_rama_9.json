@@ -22,392 +22,392 @@
   "shops": [
     {
       "svgId": "g15",
-      "type": "room",
+      "type": "shop",
       "name": "Uniqlo",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.399Z",
       "updatedAt": "2016-05-24T10:27:17.399Z",
       "id": "57442c853a644049093cb0fb"
     },
     {
       "svgId": "kg01-kg02",
-      "type": "room",
+      "type": "shop",
       "name": "Wash Me",
       "directories": [
         "574419fb3a644049093cb0ed"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.400Z",
       "updatedAt": "2016-05-24T10:27:17.400Z",
       "id": "57442c853a644049093cb0fc"
     },
     {
       "svgId": "kg03",
-      "type": "room",
+      "type": "shop",
       "name": "Time Clinic",
       "directories": [
         "574419fb3a644049093cb0ed"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.400Z",
       "updatedAt": "2016-05-24T10:27:17.400Z",
       "id": "57442c853a644049093cb0fd"
     },
     {
       "svgId": "kg04",
-      "type": "room",
+      "type": "shop",
       "name": "ASA Service",
       "directories": [
         "574419fb3a644049093cb0ed"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.401Z",
       "updatedAt": "2016-05-24T10:27:17.401Z",
       "id": "57442c853a644049093cb0fe"
     },
     {
       "svgId": "g10-1",
-      "type": "room",
+      "type": "shop",
       "name": "Body Glove",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.401Z",
       "updatedAt": "2016-05-24T10:27:17.401Z",
       "id": "57442c853a644049093cb0ff"
     },
     {
       "svgId": "g10-2",
-      "type": "room",
+      "type": "shop",
       "name": "Oakley",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.515Z",
       "updatedAt": "2016-05-24T10:27:17.515Z",
       "id": "57442c853a644049093cb100"
     },
     {
       "svgId": "g07",
-      "type": "room",
+      "type": "shop",
       "name": "Quiksilver & Roxy",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.515Z",
       "updatedAt": "2016-05-24T10:27:17.515Z",
       "id": "57442c853a644049093cb101"
     },
     {
       "svgId": "g03",
-      "type": "room",
+      "type": "shop",
       "name": "YEAH!",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.516Z",
       "updatedAt": "2016-05-24T10:27:17.516Z",
       "id": "57442c853a644049093cb102"
     },
     {
       "svgId": "g04",
-      "type": "room",
+      "type": "shop",
       "name": "Levi's",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.516Z",
       "updatedAt": "2016-05-24T10:27:17.516Z",
       "id": "57442c853a644049093cb103"
     },
     {
       "svgId": "g02",
-      "type": "room",
+      "type": "shop",
       "name": "DC",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.517Z",
       "updatedAt": "2016-05-24T10:27:17.517Z",
       "id": "57442c853a644049093cb104"
     },
     {
       "svgId": "g05",
-      "type": "room",
+      "type": "shop",
       "name": "Billabong",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.625Z",
       "updatedAt": "2016-05-24T10:27:17.625Z",
       "id": "57442c853a644049093cb105"
     },
     {
       "svgId": "g06",
-      "type": "room",
+      "type": "shop",
       "name": "CIO-Check It Out",
       "directories": [
         "574419ef3a644049093cb0e5"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.626Z",
       "updatedAt": "2016-05-24T10:27:17.626Z",
       "id": "57442c853a644049093cb106"
     },
     {
       "svgId": "g11-2",
-      "type": "room",
+      "type": "shop",
       "name": "Lee",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.626Z",
       "updatedAt": "2016-05-24T10:27:17.626Z",
       "id": "57442c853a644049093cb107"
     },
     {
       "svgId": "g08-g09",
-      "type": "room",
+      "type": "shop",
       "name": "Adidas",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.627Z",
       "updatedAt": "2016-05-24T10:27:17.627Z",
       "id": "57442c853a644049093cb108"
     },
     {
       "svgId": "g11-1",
-      "type": "room",
+      "type": "shop",
       "name": "Pronto",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.628Z",
       "updatedAt": "2016-05-24T10:27:17.628Z",
       "id": "57442c853a644049093cb109"
     },
     {
       "svgId": "g13-g14",
-      "type": "room",
+      "type": "shop",
       "name": "MUJI",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.730Z",
       "updatedAt": "2016-05-24T10:27:17.730Z",
       "id": "57442c853a644049093cb10a"
     },
     {
       "svgId": "g12",
-      "type": "room",
+      "type": "shop",
       "name": "DeFry01",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.732Z",
       "updatedAt": "2016-05-24T10:27:17.732Z",
       "id": "57442c853a644049093cb10b"
     },
     {
       "svgId": "kg06",
-      "type": "room",
+      "type": "shop",
       "name": "Simply W",
       "directories": [
         "574419c73a644049093cb0df"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.732Z",
       "updatedAt": "2016-05-24T10:27:17.732Z",
       "id": "57442c853a644049093cb10c"
     },
     {
       "svgId": "kg11",
-      "type": "room",
+      "type": "shop",
       "name": "Sanuk",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.733Z",
       "updatedAt": "2016-05-24T10:27:17.733Z",
       "id": "57442c853a644049093cb10d"
     },
     {
       "svgId": "kg10-2",
-      "type": "room",
+      "type": "shop",
       "name": "Feiyue",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.734Z",
       "updatedAt": "2016-05-24T10:27:17.734Z",
       "id": "57442c853a644049093cb10f"
     },
     {
       "svgId": "kg10-1",
-      "type": "room",
+      "type": "shop",
       "name": "Ice Watch",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.734Z",
       "updatedAt": "2016-05-24T10:27:17.734Z",
       "id": "57442c853a644049093cb10e"
     },
     {
       "svgId": "kg07",
-      "type": "room",
+      "type": "shop",
       "name": "G shock + Guess Watch",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.840Z",
       "updatedAt": "2016-05-24T10:27:17.840Z",
       "id": "57442c853a644049093cb110"
     },
     {
       "svgId": "kg12",
-      "type": "room",
+      "type": "shop",
       "name": "Native",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.840Z",
       "updatedAt": "2016-05-24T10:27:17.840Z",
       "id": "57442c853a644049093cb111"
     },
     {
       "svgId": "kg08",
-      "type": "room",
+      "type": "shop",
       "name": "",
       "directories": [
         ""
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": true,
-      "clickable": true,
+      "inDirectory": false,
+      "inMap": false,
       "createdAt": "2016-05-24T10:27:17.840Z",
       "updatedAt": "2016-05-24T10:27:17.840Z",
       "id": "57442c853a644049093cb112"
     },
     {
       "svgId": "kg09",
-      "type": "room",
+      "type": "shop",
       "name": "",
       "directories": [
         ""
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": true,
-      "clickable": true,
+      "inDirectory": false,
+      "inMap": false,
       "createdAt": "2016-05-24T10:27:17.841Z",
       "updatedAt": "2016-05-24T10:27:17.841Z",
       "id": "57442c853a644049093cb113"
     },
     {
       "svgId": "kg05-2",
-      "type": "room",
+      "type": "shop",
       "name": "",
       "directories": [
         ""
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": true,
-      "clickable": true,
+      "inDirectory": false,
+      "inMap": false,
       "createdAt": "2016-05-24T10:27:17.841Z",
       "updatedAt": "2016-05-24T10:27:17.841Z",
       "id": "57442c853a644049093cb114"
     },
     {
       "svgId": "kg05-1",
-      "type": "room",
+      "type": "shop",
       "name": "Teddy House",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.950Z",
       "updatedAt": "2016-05-24T10:27:17.950Z",
       "id": "57442c853a644049093cb115"
     },
     {
       "svgId": "g01",
-      "type": "room",
+      "type": "shop",
       "name": "Robinson",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.951Z",
       "updatedAt": "2016-05-24T10:27:17.951Z",
       "id": "57442c853a644049093cb116"
@@ -420,22 +420,22 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.952Z",
       "updatedAt": "2016-05-24T10:27:17.952Z",
       "id": "57442c853a644049093cb117"
     },
     {
-      "svgId": "driver-waiting-room",
+      "svgId": "driver-waiting-shop",
       "type": "sign",
-      "name": "Driver Waiting Room",
+      "name": "Driver Waiting shop",
       "directories": [
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.953Z",
       "updatedAt": "2016-05-24T10:27:17.953Z",
       "id": "57442c853a644049093cb118"
@@ -448,8 +448,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:17.955Z",
       "updatedAt": "2016-05-24T10:27:17.955Z",
       "id": "57442c853a644049093cb119"
@@ -462,8 +462,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.070Z",
       "updatedAt": "2016-05-24T10:27:18.070Z",
       "id": "57442c863a644049093cb11a"
@@ -476,8 +476,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.071Z",
       "updatedAt": "2016-05-24T10:27:18.071Z",
       "id": "57442c863a644049093cb11b"
@@ -490,8 +490,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.071Z",
       "updatedAt": "2016-05-24T10:27:18.071Z",
       "id": "57442c863a644049093cb11c"
@@ -504,8 +504,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.073Z",
       "updatedAt": "2016-05-24T10:27:18.073Z",
       "id": "57442c863a644049093cb11d"
@@ -518,8 +518,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.073Z",
       "updatedAt": "2016-05-24T10:27:18.073Z",
       "id": "57442c863a644049093cb11e"
@@ -532,8 +532,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.074Z",
       "updatedAt": "2016-05-24T10:27:18.074Z",
       "id": "57442c863a644049093cb11f"
@@ -546,22 +546,22 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.202Z",
       "updatedAt": "2016-05-24T10:27:18.203Z",
       "id": "57442c863a644049093cb120"
     },
     {
-      "svgId": "baby-change-room",
+      "svgId": "baby-change-shop",
       "type": "sign",
-      "name": "Baby Change Room",
+      "name": "Baby Change shop",
       "directories": [
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.204Z",
       "updatedAt": "2016-05-24T10:27:18.204Z",
       "id": "57442c863a644049093cb121"
@@ -574,8 +574,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.204Z",
       "updatedAt": "2016-05-24T10:27:18.204Z",
       "id": "57442c863a644049093cb122"
@@ -588,470 +588,470 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e5d3a644049093cb0f1",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.205Z",
       "updatedAt": "2016-05-24T10:27:18.205Z",
       "id": "57442c863a644049093cb123"
     },
     {
       "svgId": "r104",
-      "type": "room",
+      "type": "shop",
       "name": "Jurlique",
       "directories": [
         "574419d93a644049093cb0e1"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.205Z",
       "updatedAt": "2016-05-24T10:27:18.205Z",
       "id": "57442c863a644049093cb124"
     },
     {
       "svgId": "r101-103",
-      "type": "room",
+      "type": "shop",
       "name": "GAP",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.280Z",
       "updatedAt": "2016-05-24T10:27:18.280Z",
       "id": "57442c863a644049093cb125"
     },
     {
       "svgId": "r105",
-      "type": "room",
+      "type": "shop",
       "name": "GC",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.281Z",
       "updatedAt": "2016-05-24T10:27:18.281Z",
       "id": "57442c863a644049093cb126"
     },
     {
       "svgId": "jw107",
-      "type": "room",
+      "type": "shop",
       "name": "Calinan",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.281Z",
       "updatedAt": "2016-05-24T10:27:18.281Z",
       "id": "57442c863a644049093cb127"
     },
     {
       "svgId": "jw101",
-      "type": "room",
+      "type": "shop",
       "name": "ASAWA",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.282Z",
       "updatedAt": "2016-05-24T10:27:18.282Z",
       "id": "57442c863a644049093cb128"
     },
     {
       "svgId": "jw102",
-      "type": "room",
+      "type": "shop",
       "name": "New Brand by Buasuwan",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.283Z",
       "updatedAt": "2016-05-24T10:27:18.283Z",
       "id": "57442c863a644049093cb129"
     },
     {
       "svgId": "jw103",
-      "type": "room",
+      "type": "shop",
       "name": "Rose Jewelry Studio",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.360Z",
       "updatedAt": "2016-05-24T10:27:18.360Z",
       "id": "57442c863a644049093cb12a"
     },
     {
       "svgId": "jw104",
-      "type": "room",
+      "type": "shop",
       "name": "Millenium Star",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.360Z",
       "updatedAt": "2016-05-24T10:27:18.360Z",
       "id": "57442c863a644049093cb12b"
     },
     {
       "svgId": "jw105",
-      "type": "room",
+      "type": "shop",
       "name": "Rejent Diamond Master",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.361Z",
       "updatedAt": "2016-05-24T10:27:18.361Z",
       "id": "57442c863a644049093cb12c"
     },
     {
       "svgId": "jw106",
-      "type": "room",
+      "type": "shop",
       "name": "Jubilee",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.361Z",
       "updatedAt": "2016-05-24T10:27:18.361Z",
       "id": "57442c863a644049093cb12d"
     },
     {
       "svgId": "r126",
-      "type": "room",
+      "type": "shop",
       "name": "Pandora",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.361Z",
       "updatedAt": "2016-05-24T10:27:18.361Z",
       "id": "57442c863a644049093cb12e"
     },
     {
       "svgId": "r106-107",
-      "type": "room",
+      "type": "shop",
       "name": "CPS CHAPS",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.438Z",
       "updatedAt": "2016-05-24T10:27:18.438Z",
       "id": "57442c863a644049093cb12f"
     },
     {
       "svgId": "r109",
-      "type": "room",
+      "type": "shop",
       "name": "Pedro",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.438Z",
       "updatedAt": "2016-05-24T10:27:18.438Z",
       "id": "57442c863a644049093cb130"
     },
     {
       "svgId": "r108",
-      "type": "room",
+      "type": "shop",
       "name": "Pull & Bear",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.439Z",
       "updatedAt": "2016-05-24T10:27:18.439Z",
       "id": "57442c863a644049093cb131"
     },
     {
       "svgId": "r114",
-      "type": "room",
+      "type": "shop",
       "name": "NaRaYa",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.439Z",
       "updatedAt": "2016-05-24T10:27:18.439Z",
       "id": "57442c863a644049093cb132"
     },
     {
       "svgId": "r113",
-      "type": "room",
+      "type": "shop",
       "name": "Dorothy Perkins",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.439Z",
       "updatedAt": "2016-05-24T10:27:18.439Z",
       "id": "57442c863a644049093cb133"
     },
     {
       "svgId": "r111",
-      "type": "room",
+      "type": "shop",
       "name": "Accessorize",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.520Z",
       "updatedAt": "2016-05-24T10:27:18.520Z",
       "id": "57442c863a644049093cb134"
     },
     {
       "svgId": "r110",
-      "type": "room",
+      "type": "shop",
       "name": "Lacoste",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.521Z",
       "updatedAt": "2016-05-24T10:27:18.521Z",
       "id": "57442c863a644049093cb135"
     },
     {
       "svgId": "k104",
-      "type": "room",
+      "type": "shop",
       "name": "Farm Design",
       "directories": [
         "574419c73a644049093cb0df"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.522Z",
       "updatedAt": "2016-05-24T10:27:18.522Z",
       "id": "57442c863a644049093cb136"
     },
     {
       "svgId": "k102",
-      "type": "room",
+      "type": "shop",
       "name": "",
       "directories": [
         ""
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": true,
-      "clickable": true,
+      "inDirectory": false,
+      "inMap": false,
       "createdAt": "2016-05-24T10:27:18.522Z",
       "updatedAt": "2016-05-24T10:27:18.522Z",
       "id": "57442c863a644049093cb137"
     },
     {
       "svgId": "k103",
-      "type": "room",
+      "type": "shop",
       "name": "",
       "directories": [
         ""
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": true,
-      "clickable": true,
+      "inDirectory": false,
+      "inMap": false,
       "createdAt": "2016-05-24T10:27:18.522Z",
       "updatedAt": "2016-05-24T10:27:18.522Z",
       "id": "57442c863a644049093cb138"
     },
     {
       "svgId": "r118",
-      "type": "room",
+      "type": "shop",
       "name": "Lyn Around",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.523Z",
       "updatedAt": "2016-05-24T10:27:18.523Z",
       "id": "57442c863a644049093cb139"
     },
     {
       "svgId": "r115",
-      "type": "room",
+      "type": "shop",
       "name": "Starbucks Coffee",
       "directories": [
         "574419c73a644049093cb0df"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.618Z",
       "updatedAt": "2016-05-24T10:27:18.618Z",
       "id": "57442c863a644049093cb13a"
     },
     {
       "svgId": "r116",
-      "type": "room",
+      "type": "shop",
       "name": "Krispy Kreme Doughnuts",
       "directories": [
         "574419c73a644049093cb0df"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.619Z",
       "updatedAt": "2016-05-24T10:27:18.619Z",
       "id": "57442c863a644049093cb13b"
     },
     {
       "svgId": "r117",
-      "type": "room",
+      "type": "shop",
       "name": "F Fashion",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.620Z",
       "updatedAt": "2016-05-24T10:27:18.620Z",
       "id": "57442c863a644049093cb13c"
     },
     {
       "svgId": "r119-120",
-      "type": "room",
+      "type": "shop",
       "name": "Jaspal",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.620Z",
       "updatedAt": "2016-05-24T10:27:18.620Z",
       "id": "57442c863a644049093cb13d"
     },
     {
       "svgId": "r121",
-      "type": "room",
+      "type": "shop",
       "name": "H.E by MNG",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.621Z",
       "updatedAt": "2016-05-24T10:27:18.621Z",
       "id": "57442c863a644049093cb13e"
     },
     {
       "svgId": "r122",
-      "type": "room",
+      "type": "shop",
       "name": "Miss Selfridge",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.706Z",
       "updatedAt": "2016-05-24T10:27:18.706Z",
       "id": "57442c863a644049093cb13f"
     },
     {
       "svgId": "k101",
-      "type": "room",
+      "type": "shop",
       "name": "L'OCCITANE",
       "directories": [
         "574419d93a644049093cb0e1"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.706Z",
       "updatedAt": "2016-05-24T10:27:18.706Z",
       "id": "57442c863a644049093cb140"
     },
     {
       "svgId": "r125",
-      "type": "room",
+      "type": "shop",
       "name": "Swarovski",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.706Z",
       "updatedAt": "2016-05-24T10:27:18.706Z",
       "id": "57442c863a644049093cb141"
     },
     {
       "svgId": "r123",
-      "type": "room",
+      "type": "shop",
       "name": "Mango Touch",
       "directories": [
         "574419e03a644049093cb0e3"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.707Z",
       "updatedAt": "2016-05-24T10:27:18.707Z",
       "id": "57442c863a644049093cb142"
     },
     {
       "svgId": "r124",
-      "type": "room",
+      "type": "shop",
       "name": "Mango",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.707Z",
       "updatedAt": "2016-05-24T10:27:18.707Z",
       "id": "57442c863a644049093cb143"
     },
     {
       "svgId": "r127",
-      "type": "room",
+      "type": "shop",
       "name": "Robinson",
       "directories": [
         "5743f0b94b88a19403d7cacb"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.792Z",
       "updatedAt": "2016-05-24T10:27:18.792Z",
       "id": "57442c863a644049093cb144"
@@ -1064,8 +1064,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.792Z",
       "updatedAt": "2016-05-24T10:27:18.792Z",
       "id": "57442c863a644049093cb145"
@@ -1078,8 +1078,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.793Z",
       "updatedAt": "2016-05-24T10:27:18.793Z",
       "id": "57442c863a644049093cb146"
@@ -1092,8 +1092,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.793Z",
       "updatedAt": "2016-05-24T10:27:18.793Z",
       "id": "57442c863a644049093cb147"
@@ -1106,8 +1106,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.793Z",
       "updatedAt": "2016-05-24T10:27:18.793Z",
       "id": "57442c863a644049093cb148"
@@ -1120,8 +1120,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.794Z",
       "updatedAt": "2016-05-24T10:27:18.794Z",
       "id": "57442c863a644049093cb149"
@@ -1134,8 +1134,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.894Z",
       "updatedAt": "2016-05-24T10:27:18.894Z",
       "id": "57442c863a644049093cb14a"
@@ -1148,8 +1148,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.895Z",
       "updatedAt": "2016-05-24T10:27:18.895Z",
       "id": "57442c863a644049093cb14b"
@@ -1162,8 +1162,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.896Z",
       "updatedAt": "2016-05-24T10:27:18.896Z",
       "id": "57442c863a644049093cb14c"
@@ -1176,8 +1176,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.897Z",
       "updatedAt": "2016-05-24T10:27:18.897Z",
       "id": "57442c863a644049093cb14d"
@@ -1190,8 +1190,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.898Z",
       "updatedAt": "2016-05-24T10:27:18.898Z",
       "id": "57442c863a644049093cb14e"
@@ -1204,8 +1204,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.995Z",
       "updatedAt": "2016-05-24T10:27:18.995Z",
       "id": "57442c863a644049093cb14f"
@@ -1218,8 +1218,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.995Z",
       "updatedAt": "2016-05-24T10:27:18.995Z",
       "id": "57442c863a644049093cb150"
@@ -1232,22 +1232,22 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.995Z",
       "updatedAt": "2016-05-24T10:27:18.995Z",
       "id": "57442c863a644049093cb151"
     },
     {
-      "svgId": "baby-change-room",
+      "svgId": "baby-change-shop",
       "type": "sign",
-      "name": "Baby Change Room",
+      "name": "Baby Change shop",
       "directories": [
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.996Z",
       "updatedAt": "2016-05-24T10:27:18.996Z",
       "id": "57442c863a644049093cb152"
@@ -1260,8 +1260,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:18.997Z",
       "updatedAt": "2016-05-24T10:27:18.997Z",
       "id": "57442c863a644049093cb153"
@@ -1274,8 +1274,8 @@
         "57441bfc3a644049093cb0ef"
       ],
       "map": "57441e603a644049093cb0f2",
-      "hidden": false,
-      "clickable": true,
+      "inDirectory": true,
+      "inMap": true,
       "createdAt": "2016-05-24T10:27:21.628Z",
       "updatedAt": "2016-05-24T10:27:21.628Z",
       "id": "57442c893a644049093cb154"
