@@ -1279,6 +1279,34 @@
       "createdAt": "2016-05-24T10:27:21.628Z",
       "updatedAt": "2016-05-24T10:27:21.628Z",
       "id": "57442c893a644049093cb154"
+    },
+    {
+      "svgId": "g01",
+      "type": "shop",
+      "name": "Nike",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "inDirectory": true,
+      "inMap": false,
+      "createdAt": "2016-05-24T10:27:17.951Z",
+      "updatedAt": "2016-05-24T10:27:17.951Z",
+      "id": "57441bfc3a644049093cb0eg"
+    },
+    {
+      "svgId": "g01",
+      "type": "shop",
+      "name": "New Balance",
+      "directories": [
+        "5743f0b94b88a19403d7cacb"
+      ],
+      "map": "57441e5d3a644049093cb0f1",
+      "inDirectory": true,
+      "inMap": false,
+      "createdAt": "2016-05-24T10:27:17.951Z",
+      "updatedAt": "2016-05-24T10:27:17.951Z",
+      "id": "57441bfc3a644049093cb0eh"
     }
   ],
   "directories": [
@@ -1370,34 +1398,6 @@
       "createdAt": "2016-05-24T09:16:44.192Z",
       "updatedAt": "2016-05-24T09:16:44.195Z",
       "id": "57441bfc3a644049093cb0ef"
-    },
-    {
-      "svgId": "g01",
-      "type": "shop",
-      "name": "Nike",
-      "directories": [
-        "5743f0b94b88a19403d7cacb"
-      ],
-      "map": "57441e5d3a644049093cb0f1",
-      "inDirectory": true,
-      "inMap": false,
-      "createdAt": "2016-05-24T10:27:17.951Z",
-      "updatedAt": "2016-05-24T10:27:17.951Z",
-      "id": "57441bfc3a644049093cb0eg"
-    },
-    {
-      "svgId": "g01",
-      "type": "shop",
-      "name": "New Balance",
-      "directories": [
-        "5743f0b94b88a19403d7cacb"
-      ],
-      "map": "57441e5d3a644049093cb0f1",
-      "inDirectory": true,
-      "inMap": false,
-      "createdAt": "2016-05-24T10:27:17.951Z",
-      "updatedAt": "2016-05-24T10:27:17.951Z",
-      "id": "57441bfc3a644049093cb0eh"
     }
   ],
   "locationId": "5510ea8eb1dc771200e08335"
