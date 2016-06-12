@@ -75,13 +75,11 @@
 	<path id="r358" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" d="M153.418,389.548c0.717-4.301-4.063-5.114-4.063-5.114
 		c-7.051-0.197-14.797,0.609-19.814-4.934H129v16l0,0l0,0h-11.5h-11.637v35.629c0,1.704,1.673,2.15,1.673,2.15s22.938,0,31.783,0
 		c10.681,0,12.311-0.733,12.666-3.823C152.562,424.424,152.701,393.849,153.418,389.548z"/>
-	<g id="r360-361-366">
-		<path fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" d="M128.231,377.838c-2.079-3.13-1.816-7.05-1.816-10.634
-			c0-3.537,0-7.097,0-10.634c0-0.526-0.43-0.956-0.956-0.956h-18.64c-0.526,0-0.956,0.43-0.956,0.956v22.93H129v-0.634
-			C128.735,378.543,128.476,378.208,128.231,377.838z"/>
-		<circle fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" cx="143.429" cy="366.177" r="11.757"/>
-		<ellipse fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" cx="165.647" cy="359.267" rx="4.827" ry="4.827"/>
-	</g>
+	<path id="r360-361" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" d="M128.231,377.838
+		c-2.079-3.13-1.816-7.05-1.816-10.634c0-3.537,0-7.097,0-10.634c0-0.526-0.43-0.956-0.956-0.956h-18.64
+		c-0.526,0-0.956,0.43-0.956,0.956v22.93H129v-0.634C128.735,378.543,128.476,378.208,128.231,377.838z"/>
+	<circle id="r366" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" cx="143.429" cy="366.177" r="11.757"/>
+	<ellipse id="r366-1" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" cx="165.647" cy="359.267" rx="4.827" ry="4.827"/>
 	<ellipse id="r353" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" cx="168.473" cy="375.831" rx="8.842" ry="9.654"/>
 	<path id="r351" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" d="M197.221,364.36c0,6.5-4.134,11.973-9.248,12.211
 		c-5.114,0.238-9.224-4.827-9.224-11.327s4.134-11.972,9.248-12.211C193.111,352.794,197.221,357.86,197.221,364.36z"/>
@@ -203,12 +201,12 @@
 		<rect id="escalator-2" x="298.377" y="376.763" width="10.754" height="10.753"/>
 		<rect id="escalator-1" x="423.479" y="376.763" width="10.752" height="10.753"/>
 	</g>
-	<g id="elevator">
+	<g id="lift">
 		<rect id="elevator-3" x="150.312" y="332.912" width="10.754" height="10.753"/>
 		<rect id="elevator-2" x="275.603" y="332.912" width="10.754" height="10.753"/>
 		<rect id="elevator-1" x="449.62" y="337.691" width="10.754" height="10.754"/>
 	</g>
-	<rect id="stair" x="298.421" y="332.532" width="10.754" height="10.754"/>
+	<rect id="stairs" x="298.421" y="332.532" width="10.754" height="10.754"/>
 	<rect id="bts" x="498.107" y="451.704" width="10.754" height="10.753"/>
 </g>
 </svg>

@@ -97,7 +97,7 @@
 		<rect id="escalator-2" x="298.377" y="376.763" width="10.754" height="10.753"/>
 		<rect id="escalator-1" x="423.479" y="376.763" width="10.752" height="10.753"/>
 	</g>
-	<rect id="stair" x="293" y="332.028" width="10.754" height="10.754"/>
+	<rect id="stairs" x="293" y="332.028" width="10.754" height="10.754"/>
 	<rect id="handicapped-toilet" x="494.212" y="335.899" width="10.754" height="10.753"/>
 	<rect id="atm" x="310.281" y="339.699" width="10.754" height="10.754"/>
 	<g id="toilet">
@@ -116,7 +116,7 @@
 		<rect id="entrance-2" x="49.825" y="359.939" width="10.753" height="10.754"/>
 		<rect id="entrance-1" x="182.716" y="302.921" width="10.753" height="10.754"/>
 	</g>
-	<g id="elevator">
+	<g id="lift">
 		<rect id="elevator-3" x="276.153" y="332.53" width="10.753" height="10.753"/>
 		<rect id="elevator-2" x="447.972" y="330.881" width="10.754" height="10.754"/>
 		<rect id="elevator-1" x="151.052" y="334.322" width="10.754" height="10.753"/>
