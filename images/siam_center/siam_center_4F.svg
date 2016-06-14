@@ -91,7 +91,7 @@
 	
 		<rect id="h409" x="429.977" y="423.171" transform="matrix(0.0018 1 -1 0.0018 862.1174 -3.8279)" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="5.998" height="13.492"/>
 </g>
-<g id="signs_1_">
+<g id="signs">
 	<g id="escalator">
 		<rect id="escalator-3" x="170.457" y="385.247" width="10.754" height="10.753"/>
 		<rect id="escalator-2" x="298.377" y="376.763" width="10.754" height="10.753"/>
