@@ -110,14 +110,14 @@
 		1155.285,186.329 1125.563,140.031 1101.88,105.266 1134.305,82.629 1185.024,164.171 	"/>
 </g>
 <g id="Signs">
-	<g id="_escalator_1_">
-		<rect id="_escalator-1_1_" x="387.156" y="515.553" width="45" height="45"/>
-		<rect id="_escalator-2_1_" x="764.405" y="491.672" width="44.999" height="45"/>
-		<rect id="_escalator-3_1_" x="1050.905" y="254.191" width="44.999" height="45"/>
+	<g id="escalator">
+		<rect id="_escalator-1" x="387.156" y="515.553" width="45" height="45"/>
+		<rect id="_escalator-2" x="764.405" y="491.672" width="44.999" height="45"/>
+		<rect id="_escalator-3" x="1050.905" y="254.191" width="44.999" height="45"/>
 	</g>
-	<g id="toilet_1_">
-		<rect id="toilet-1_1_" x="574.891" y="455.32" width="45" height="45"/>
-		<rect id="toilet-2_1_" x="1004.136" y="250.128" width="44.999" height="45"/>
+	<g id="toilet">
+		<rect id="toilet-1" x="574.891" y="455.32" width="45" height="45"/>
+		<rect id="toilet-2" x="1004.136" y="250.128" width="44.999" height="45"/>
 	</g>
 	<g id="lift">
 		<rect id="lift-1" x="706.913" y="632.112" width="44.999" height="45"/>
@@ -135,7 +135,7 @@
 		<rect id="driver-waiting-room-2" x="963.981" y="603.051" width="45" height="45"/>
 	</g>
 </g>
-<g id="entrance_2_">
+<g id="entrance">
 	<rect id="entrance-2" x="569.5" y="508.76" width="45" height="45"/>
 	<rect id="entrance-1" x="345.5" y="526.82" width="45" height="45"/>
 </g>

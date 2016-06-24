@@ -114,7 +114,7 @@
 		973.805,604.055 1036.342,582.889 1038.57,583.157 1018.841,526.474 	"/>
 	<polygon id="qga-9" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="1050.646,516.17 1018.841,526.474 
 		1038.57,583.157 1074.573,587.49 	"/>
-	<path id="qga-1_1_" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M1066.291,510.648l98.93-33.13
+	<path id="qga-1" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M1066.291,510.648l98.93-33.13
 		c0,0,11.041-4.141,15.645,6.441c4.603,10.583,15.185,49.695,15.185,49.695l-58.896,20.706l-45.094,35.43h-9.203l-13.805-45.553
 		l5.521-3.22L1066.291,510.648z"/>
 	<polygon id="qga-5b" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="890.059,703.448 913.525,743.021 
@@ -136,10 +136,10 @@
 		c-0.187-0.025-0.38-0.002-0.575,0.036l66.017,70.703l29.348-30.25L930.093,565.264z"/>
 </g>
 <g id="Signs">
-	<g id="escalator_1_">
-		<rect id="escalator-3_1_" x="988.921" y="636.39" width="45" height="45"/>
-		<rect id="escalator-2_1_" x="756.347" y="482.4" width="45" height="45"/>
-		<rect id="escalator-1_1_" x="1052.707" y="250.493" width="44.999" height="45"/>
+	<g id="escalator">
+		<rect id="escalator-3" x="988.921" y="636.39" width="45" height="45"/>
+		<rect id="escalator-2" x="756.347" y="482.4" width="45" height="45"/>
+		<rect id="escalator-1" x="1052.707" y="250.493" width="44.999" height="45"/>
 	</g>
 	<g id="lift">
 		<rect id="lift-1" x="716.117" y="631.138" width="44.999" height="45"/>
@@ -149,27 +149,27 @@
 		<rect id="lift-5" x="846.163" y="380.086" width="44.999" height="45"/>
 		<rect id="lift-6" x="1027.408" y="745.779" width="44.999" height="45"/>
 	</g>
-	<g id="toilet_1_">
-		<rect id="toilet-1_1_" x="1004.909" y="258.775" width="44.999" height="45"/>
-		<rect id="toilet-2_1_" x="1075.207" y="733.118" width="44.999" height="45.001"/>
-		<rect id="toilet-3_1_" x="521.319" y="496.43" width="44.999" height="45"/>
+	<g id="toilet">
+		<rect id="toilet-1" x="1004.909" y="258.775" width="44.999" height="45"/>
+		<rect id="toilet-2" x="1075.207" y="733.118" width="44.999" height="45.001"/>
+		<rect id="toilet-3" x="521.319" y="496.43" width="44.999" height="45"/>
 	</g>
-	<rect id="taxi_1_" x="541.058" y="766.9" width="45" height="44.999"/>
-	<g id="dropoff_1_">
-		<rect id="dropoff-1_1_" x="810.851" y="702.784" width="44.998" height="45"/>
-		<rect id="dropoff-2_1_" x="636.344" y="766.9" width="44.998" height="44.999"/>
-		<rect id="dropoff-3_1_" x="1151.051" y="414.873" width="44.998" height="45"/>
+	<rect id="taxi" x="541.058" y="766.9" width="45" height="44.999"/>
+	<g id="dropoff">
+		<rect id="dropoff-1" x="810.851" y="702.784" width="44.998" height="45"/>
+		<rect id="dropoff-2" x="636.344" y="766.9" width="44.998" height="44.999"/>
+		<rect id="dropoff-3" x="1151.051" y="414.873" width="44.998" height="45"/>
 	</g>
-	<rect id="stairs_1_" x="556.461" y="473.931" width="44.998" height="45"/>
-	<rect id="parking_1_" x="343.105" y="447.052" width="44.998" height="44.999"/>
-	<g id="entrance_1_">
-		<rect id="entrance-1_1_" x="1191.677" y="525.192" width="44.998" height="44.999"/>
-		<rect id="entrance-2_1_" x="1191.677" y="315.489" width="44.998" height="45"/>
-		<rect id="entrance-3_1_" x="865.097" y="465.145" width="44.998" height="44.999"/>
-		<rect id="entrance-4_1_" x="919.055" y="542.765" width="44.998" height="44.999"/>
-		<rect id="entrance-5_1_" x="857.662" y="672.665" width="44.998" height="45"/>
-		<rect id="entrance-6_1_" x="738.617" y="683.813" width="44.998" height="44.998"/>
-		<rect id="entrance-7_1_" x="589.755" y="745.781" width="44.998" height="44.999"/>
+	<rect id="stairs" x="556.461" y="473.931" width="44.998" height="45"/>
+	<rect id="parking" x="343.105" y="447.052" width="44.998" height="44.999"/>
+	<g id="entrance">
+		<rect id="entrance-1" x="1191.677" y="525.192" width="44.998" height="44.999"/>
+		<rect id="entrance-2" x="1191.677" y="315.489" width="44.998" height="45"/>
+		<rect id="entrance-3" x="865.097" y="465.145" width="44.998" height="44.999"/>
+		<rect id="entrance-4" x="919.055" y="542.765" width="44.998" height="44.999"/>
+		<rect id="entrance-5" x="857.662" y="672.665" width="44.998" height="45"/>
+		<rect id="entrance-6" x="738.617" y="683.813" width="44.998" height="44.998"/>
+		<rect id="entrance-7" x="589.755" y="745.781" width="44.998" height="44.999"/>
 		<rect id="entrance-8" x="451.669" y="493.671" width="44.998" height="44.999"/>
 	</g>
 </g>
