@@ -3,12 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
-<g id="Background">
-</g>
-<g id="Original" display="none">
-	
-		<image display="inline" overflow="visible" opacity="0.8" enable-background="new    " width="1800" height="1338" xlink:href="F55D524B.jpeg"  transform="matrix(1.3804 0 0 1.3804 13.666 -87.9302)">
-	</image>
+<g id="background">
 </g>
 <g id="etc">
 	<path fill="#BFBFBF" stroke="#494949" stroke-miterlimit="10" d="M1177.777,397.19c0,0,51.533-137.119,57.056-147.242
@@ -63,7 +58,7 @@
 		l-62.577,47.394l85.123,130.678l55.24,21.564l23.721-59.22c0,0,4.51-7.666-2.094-17.791
 		c-6.603-10.125-95.521-146.461-95.521-146.461L1130.611,88.129z"/>
 </g>
-<g id="Layer_4">
+<g id="rooms">
 	<polygon id="q-stadium-mf" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="371.748,716.743 371.748,716.743 
 		388.139,709.05 339.954,562.066 159.786,615.726 157.146,607.806 131.129,615.771 212.062,788.199 373.18,787.632 	"/>
 	<polygon id="qmc-7" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="388.178,709.171 388.139,709.05 
@@ -127,29 +122,29 @@
 	<path id="qma-6" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M842.56,588.386
 		c-27.263,25.192-12.425,52.353-12.425,52.353l28.532,49.616l42.798-8.9L869.608,579.16L842.56,588.386z"/>
 </g>
-<g id="Signs">
-	<rect id="parking" x="335.731" y="448.832" width="44.997" height="44.999"/>
+<g id="signs">
+	<rect id="parking" x="335.731" y="448.832" width="45" height="45"/>
 	<g id="toilet">
-		<rect id="toilet-1" x="372.098" y="541.882" width="44.998" height="44.999"/>
-		<rect id="toilet-2" x="604.949" y="423.571" width="44.998" height="44.999"/>
-		<rect id="toilet-3" x="1002.273" y="258.402" width="44.998" height="45"/>
-		<rect id="toilet-4" x="1073.833" y="738.667" width="44.998" height="45"/>
+		<rect id="toilet-1" x="372.098" y="541.882" width="45" height="45"/>
+		<rect id="toilet-2" x="604.949" y="423.571" width="45" height="45"/>
+		<rect id="toilet-3" x="1002.273" y="258.402" width="45" height="45"/>
+		<rect id="toilet-4" x="1073.833" y="738.667" width="45" height="45"/>
 	</g>
 	<g id="lift">
-		<rect id="elevator-1" x="713.82" y="635.033" width="44.998" height="44.999"/>
-		<rect id="elevator-2" x="582.45" y="468.57" width="44.998" height="44.999"/>
-		<rect id="elevator-3" x="840.699" y="345.292" width="44.998" height="44.999"/>
-		<rect id="elevator-4" x="1024.771" y="282.613" width="44.998" height="44.999"/>
-		<rect id="elevator-5" x="994.863" y="603.59" width="44.998" height="44.999"/>
-		<rect id="elevator-6" x="1024.771" y="748.694" width="44.998" height="44.999"/>
+		<rect id="lift-1" x="713.82" y="635.033" width="45" height="45"/>
+		<rect id="lift-2" x="582.45" y="468.57" width="45" height="45"/>
+		<rect id="lift-3" x="840.699" y="345.292" width="45" height="45"/>
+		<rect id="lift-4" x="1024.771" y="282.613" width="45" height="45"/>
+		<rect id="lift-5" x="994.863" y="603.59" width="45" height="45"/>
+		<rect id="lift-6" x="1024.771" y="748.694" width="45" height="45"/>
 	</g>
 	<g id="escalator">
-		<rect id="escalator-1" x="730.385" y="494.232" width="44.998" height="44.999"/>
-		<rect id="escalator-2" x="448.044" y="657.137" width="44.998" height="44.999"/>
-		<rect id="escalator-3" x="647.4" y="755.597" width="44.998" height="44.999"/>
-		<rect id="escalator-4" x="1023.393" y="637.067" width="44.997" height="45"/>
-		<rect id="escalator-5" x="1049.9" y="247.14" width="44.996" height="45"/>
+		<rect id="escalator-1" x="730.385" y="494.232" width="45" height="45"/>
+		<rect id="escalator-2" x="448.044" y="657.137" width="45" height="45"/>
+		<rect id="escalator-3" x="647.4" y="755.597" width="45" height="45"/>
+		<rect id="escalator-4" x="1023.393" y="637.067" width="45" height="45"/>
+		<rect id="escalator-5" x="1049.9" y="247.14" width="45" height="45"/>
 	</g>
-	<rect id="entrance" x="327.101" y="536.993" width="44.997" height="44.999"/>
+	<rect id="entrance" x="327.101" y="536.993" width="45" height="45"/>
 </g>
 </svg>

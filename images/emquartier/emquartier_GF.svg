@@ -3,14 +3,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
-<g id="Background">
+<g id="background">
 </g>
-<g id="Original" display="none">
-	
-		<image display="inline" overflow="visible" opacity="0.8" enable-background="new    " width="1800" height="1338" xlink:href="AEA3CA6.jpeg"  transform="matrix(1.3804 0.0098 -0.0098 1.3804 9.7192 -87.7603)">
-	</image>
-</g>
-<g id="ETC">
+<g id="etc">
 	<path fill="#BFBFBF" stroke="#494949" stroke-miterlimit="10" d="M1245.467,261.264c10.997-13.114,2.116-27.378,2.116-27.378
 		s-64.646-103.069-72.698-112.271c-8.052-9.203-9.664-5.756-9.664-5.756L688.065,450.403c0,0-8.028,4.932-10.934,6.388
 		c-2.762,1.384-11.732,4.971-11.732,4.971l-0.896-1.235L190.944,601.67l0.181,0.608l27.139,91.494c0,0,23.007,51.073,36.351,78.682
@@ -63,7 +58,7 @@
 		L750.471,406.65c0,0,8.16,0.772,10.031,2.922c1.871,2.15,27.446,38.014,27.446,38.014l52.417-36.554l13.804-10.008l-4.141-6.902
 		l14.147-10.008l15.857,25.164l144.686-102.187L1003.598,275.408z"/>
 </g>
-<g id="Rooms">
+<g id="rooms">
 	<polygon id="qgc-3" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="558.435,781.746 599.485,781.946 
 		599.485,731.96 558.696,730.947 	"/>
 	<polygon id="gourmet-market" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="563.595,598.076 464.206,551.143 
@@ -81,7 +76,7 @@
 		L787.91,447.613z"/>
 	<polygon id="qgb-9" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="868.663,450.374 840.365,411.032 
 		787.948,447.586 798.216,463.712 861.071,456.792 	"/>
-	<polygon id="take-home" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="576.709,578.751 627.784,564.947 
+	<polygon id="quartier-take-home" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="576.709,578.751 627.784,564.947 
 		653.321,665.716 605.007,682.971 	"/>
 	<path id="qgc-1" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M718.661,545.396l-4.142-12.653
 		c0,0-0.919-4.142-6.901-1.15c-5.983,2.991-60.968,35.431-60.968,35.431s-2.762,0.92-1.15,7.821
@@ -135,42 +130,42 @@
 	<path id="qga-7" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M930.093,565.264c0,0-61.658,23.146-68.561,22.227
 		c-0.187-0.025-0.38-0.002-0.575,0.036l66.017,70.703l29.348-30.25L930.093,565.264z"/>
 </g>
-<g id="Signs">
+<g id="signs">
 	<g id="escalator">
 		<rect id="escalator-3" x="988.921" y="636.39" width="45" height="45"/>
 		<rect id="escalator-2" x="756.347" y="482.4" width="45" height="45"/>
-		<rect id="escalator-1" x="1052.707" y="250.493" width="44.999" height="45"/>
+		<rect id="escalator-1" x="1052.707" y="250.493" width="45" height="45"/>
 	</g>
 	<g id="lift">
-		<rect id="lift-1" x="716.117" y="631.138" width="44.999" height="45"/>
+		<rect id="lift-1" x="716.117" y="631.138" width="45" height="45"/>
 		<rect id="lift-2" x="995.335" y="593.389" width="45" height="45"/>
-		<rect id="lift-3" x="1030.207" y="284.591" width="44.999" height="45"/>
-		<rect id="lift-4" x="584.625" y="465.145" width="44.999" height="45"/>
-		<rect id="lift-5" x="846.163" y="380.086" width="44.999" height="45"/>
-		<rect id="lift-6" x="1027.408" y="745.779" width="44.999" height="45"/>
+		<rect id="lift-3" x="1030.207" y="284.591" width="45" height="45"/>
+		<rect id="lift-4" x="584.625" y="465.145" width="45" height="45"/>
+		<rect id="lift-5" x="846.163" y="380.086" width="45" height="45"/>
+		<rect id="lift-6" x="1027.408" y="745.779" width="45" height="45"/>
 	</g>
 	<g id="toilet">
-		<rect id="toilet-1" x="1004.909" y="258.775" width="44.999" height="45"/>
-		<rect id="toilet-2" x="1075.207" y="733.118" width="44.999" height="45.001"/>
-		<rect id="toilet-3" x="521.319" y="496.43" width="44.999" height="45"/>
+		<rect id="toilet-1" x="1004.909" y="258.775" width="45" height="45"/>
+		<rect id="toilet-2" x="1075.207" y="733.118" width="45" height="45"/>
+		<rect id="toilet-3" x="521.319" y="496.43" width="45" height="45"/>
 	</g>
-	<rect id="taxi" x="541.058" y="766.9" width="45" height="44.999"/>
+	<rect id="taxi" x="541.058" y="766.9" width="45" height="45"/>
 	<g id="dropoff">
-		<rect id="dropoff-1" x="810.851" y="702.784" width="44.998" height="45"/>
-		<rect id="dropoff-2" x="636.344" y="766.9" width="44.998" height="44.999"/>
-		<rect id="dropoff-3" x="1151.051" y="414.873" width="44.998" height="45"/>
+		<rect id="dropoff-1" x="810.851" y="702.784" width="45" height="45"/>
+		<rect id="dropoff-2" x="636.344" y="766.9" width="45" height="45"/>
+		<rect id="dropoff-3" x="1151.051" y="414.873" width="45" height="45"/>
 	</g>
-	<rect id="stairs" x="556.461" y="473.931" width="44.998" height="45"/>
-	<rect id="parking" x="343.105" y="447.052" width="44.998" height="44.999"/>
+	<rect id="stairs" x="556.461" y="473.931" width="45" height="45"/>
+	<rect id="parking" x="343.105" y="447.052" width="45" height="45"/>
 	<g id="entrance">
-		<rect id="entrance-1" x="1191.677" y="525.192" width="44.998" height="44.999"/>
-		<rect id="entrance-2" x="1191.677" y="315.489" width="44.998" height="45"/>
-		<rect id="entrance-3" x="865.097" y="465.145" width="44.998" height="44.999"/>
-		<rect id="entrance-4" x="919.055" y="542.765" width="44.998" height="44.999"/>
-		<rect id="entrance-5" x="857.662" y="672.665" width="44.998" height="45"/>
-		<rect id="entrance-6" x="738.617" y="683.813" width="44.998" height="44.998"/>
-		<rect id="entrance-7" x="589.755" y="745.781" width="44.998" height="44.999"/>
-		<rect id="entrance-8" x="451.669" y="493.671" width="44.998" height="44.999"/>
+		<rect id="entrance-1" x="1191.677" y="525.192" width="45" height="45"/>
+		<rect id="entrance-2" x="1191.677" y="315.489" width="45" height="45"/>
+		<rect id="entrance-3" x="865.097" y="465.145" width="45" height="45"/>
+		<rect id="entrance-4" x="919.055" y="542.765" width="45" height="45"/>
+		<rect id="entrance-5" x="857.662" y="672.665" width="45" height="45"/>
+		<rect id="entrance-6" x="738.617" y="683.813" width="45" height="45"/>
+		<rect id="entrance-7" x="589.755" y="745.781" width="45" height="45"/>
+		<rect id="entrance-8" x="451.669" y="493.671" width="45" height="45"/>
 	</g>
 </g>
 </svg>

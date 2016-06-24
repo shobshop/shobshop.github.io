@@ -5,22 +5,17 @@
 	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
 <g id="background">
 </g>
-<g id="Original" display="none">
-	
-		<image display="inline" overflow="visible" enable-background="new    " width="1800" height="1338" xlink:href="4B2CFDEE.jpeg"  transform="matrix(1.3804 0 0 1.3804 19.0566 -85.9302)">
-	</image>
-</g>
-<g id="ETC">
+<g id="etc">
 	<polygon fill="#BFBFBF" points="1225.414,450.379 1225.645,449.226 1239.643,379.268 1253.939,275.071 1134.305,82.735 
 		633.681,435.198 556.84,327.065 123.394,453.142 94.865,504.216 105.448,557.13 211.739,791.33 791.049,793.172 804.854,768.784 
 		893.737,766.971 895.038,766.944 911.144,795.472 1112.223,801.454 1138.908,668.016 1226.333,639.948 1264.984,436.575 	"/>
-	<path id="parking_1_" fill="#878787" stroke="#494949" stroke-miterlimit="10" d="M1239.643,379.163L726.629,551.965
+	<path id="etc-parking" fill="#878787" stroke="#494949" stroke-miterlimit="10" d="M1239.643,379.163L726.629,551.965
 		l-26.989-13.344l-25.465,8.283l-0.46,27.605l43.713,69.02l11.984-8.743l28.507,39.572l-47.393,11.502l-0.054-0.083l-58.735,14.891
 		l-41.552-159.46l-12.853,3.856l-24.847-77.086l43.712-15.858l17.481-17.026L556.84,326.96L123.394,453.037l-28.529,51.075
 		l10.583,52.914l106.291,234.198l579.31,1.843l13.805-24.389l88.885-1.813l-102.691-175.33l434.6-142.416L1239.643,379.163z
 		 M472.173,551.964c-13.804,4.141-38.19,10.123-38.19,10.123l-0.921-2.074l-80.522,21.673l-14.264-50.426l80.983-21.627v-3.682
 		l40.952-11.503c0,0,8.743-0.921,11.043,7.821c2.3,8.743,8.282,35.891,8.282,35.891S485.977,547.823,472.173,551.964z"/>
-	<path id="automated-parking_1_" fill="#878787" stroke="#494949" stroke-miterlimit="10" d="M1225.414,450.273l0.229-1.152
+	<path id="etc-automated-parking" fill="#878787" stroke="#494949" stroke-miterlimit="10" d="M1225.414,450.273l0.229-1.152
 		L791.046,591.537l102.691,175.33l1.301-0.027l16.104,28.527l201.079,5.981l26.687-133.438l87.425-28.067l38.651-203.373
 		L1225.414,450.273z M939.898,673.9l-20.017-64.188l104.222-34.51l20.211,62.809L939.898,673.9z"/>
 	<polygon fill="#878787" points="1031.005,244.251 987.983,184.78 751.529,351.833 765.729,371.864 792.196,353.044 809.429,374.58 
@@ -28,13 +23,13 @@
 		884.784,362.078 884.683,361.93 884.784,362.078 884.945,361.964 884.683,361.585 884.945,361.964 908.178,345.661 
 		908.638,345.338 908.149,344.675 908.638,345.338 931.343,329.404 932.129,328.853 955.955,312.132 956.009,312.095 
 		980.518,294.896 980.648,294.804 1003.658,278.657 997.186,269.445 	"/>
-	<polygon id="automated-parking-lobby" fill="#878787" stroke="#494949" stroke-miterlimit="10" points="919.883,609.712 
+	<polygon id="etc-automated-parking-lobby" fill="#878787" stroke="#494949" stroke-miterlimit="10" points="919.883,609.712 
 		939.898,673.9 1044.314,638.01 1024.104,575.202 	"/>
-	<path id="parking-lobby" fill="#878787" stroke="#494949" stroke-miterlimit="10" d="M433.063,560.013l0.92,2.074
+	<path id="etc-parking-lobby" fill="#878787" stroke="#494949" stroke-miterlimit="10" d="M433.063,560.013l0.92,2.074
 		c0,0,24.387-5.982,38.19-10.123s7.362-13.804,7.362-13.804s-5.982-27.147-8.282-35.891c-2.3-8.742-11.043-7.821-11.043-7.821
 		l-40.952,11.503v3.682l-80.983,21.627l14.264,50.426L433.063,560.013z"/>
 </g>
-<g id="Rooms">
+<g id="rooms">
 	<polygon id="qbb-30" opacity="0.7" fill="#494949" stroke="#212121" stroke-miterlimit="10" enable-background="new    " points="
 		813.283,412.255 829.697,436.013 853.805,419.323 837.296,395.403 	"/>
 	<polygon id="qbb-28" opacity="0.7" fill="#494949" stroke="#212121" stroke-miterlimit="10" enable-background="new    " points="
@@ -109,22 +104,22 @@
 	<polygon id="qbb-3" opacity="0.7" fill="#494949" stroke="#212121" stroke-miterlimit="10" enable-background="new    " points="
 		1155.285,186.329 1125.563,140.031 1101.88,105.266 1134.305,82.629 1185.024,164.171 	"/>
 </g>
-<g id="Signs">
+<g id="signs">
 	<g id="escalator">
 		<rect id="_escalator-1" x="387.156" y="515.553" width="45" height="45"/>
-		<rect id="_escalator-2" x="764.405" y="491.672" width="44.999" height="45"/>
-		<rect id="_escalator-3" x="1050.905" y="254.191" width="44.999" height="45"/>
+		<rect id="_escalator-2" x="764.405" y="491.672" width="45" height="45"/>
+		<rect id="_escalator-3" x="1050.905" y="254.191" width="45" height="45"/>
 	</g>
 	<g id="toilet">
 		<rect id="toilet-1" x="574.891" y="455.32" width="45" height="45"/>
-		<rect id="toilet-2" x="1004.136" y="250.128" width="44.999" height="45"/>
+		<rect id="toilet-2" x="1004.136" y="250.128" width="45" height="45"/>
 	</g>
 	<g id="lift">
-		<rect id="lift-1" x="706.913" y="632.112" width="44.999" height="45"/>
-		<rect id="lift-2" x="966.865" y="624.551" width="44.999" height="45"/>
+		<rect id="lift-1" x="706.913" y="632.112" width="45" height="45"/>
+		<rect id="lift-2" x="966.865" y="624.551" width="45" height="45"/>
 		<rect id="lift-3" x="579.032" y="477.82" width="45" height="45"/>
-		<rect id="lift-4" x="773.999" y="349.184" width="44.999" height="45"/>
-		<rect id="lift-5" x="1030.126" y="270.755" width="44.999" height="45"/>
+		<rect id="lift-4" x="773.999" y="349.184" width="45" height="45"/>
+		<rect id="lift-5" x="1030.126" y="270.755" width="45" height="45"/>
 	</g>
 	<g id="parking">
 		<rect id="parking-1" x="409.656" y="624.551" width="45" height="45"/>
@@ -134,9 +129,9 @@
 		<rect id="driver-waiting-room-1" x="423.975" y="508.76" width="45" height="45"/>
 		<rect id="driver-waiting-room-2" x="963.981" y="603.051" width="45" height="45"/>
 	</g>
-</g>
-<g id="entrance">
-	<rect id="entrance-2" x="569.5" y="508.76" width="45" height="45"/>
-	<rect id="entrance-1" x="345.5" y="526.82" width="45" height="45"/>
+	<g id="entrance">
+		<rect id="entrance-2" x="569.5" y="508.76" width="45" height="45"/>
+		<rect id="entrance-1" x="345.5" y="526.82" width="45" height="45"/>
+	</g>
 </g>
 </svg>
