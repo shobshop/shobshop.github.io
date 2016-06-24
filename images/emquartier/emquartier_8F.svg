@@ -73,9 +73,9 @@
 	</g>
 </g>
 <g id="signs">
-	<g id="elevator">
-		<rect id="elevator-1" x="1003" y="583" width="45" height="45"/>
-		<rect id="elevator-2" x="1037" y="730" width="45" height="45"/>
+	<g id="lift">
+		<rect id="lift-1" x="1003" y="583" width="45" height="45"/>
+		<rect id="lift-2" x="1037" y="730" width="45" height="45"/>
 	</g>
 	<rect id="escalator" x="1065.5" y="589.5" width="45" height="45"/>
 	<rect id="toilet" x="998" y="734" width="45" height="45"/>
