@@ -4,10 +4,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="878.74px" height="595.281px" viewBox="0 0 878.74 595.281" enable-background="new 0 0 878.74 595.281"
 	 xml:space="preserve">
-<g id="Background">
+<g id="background">
 	<rect x="0" fill="#FFFFFF" width="878.74" height="595.281"/>
-</g>
-<g id="Original">
 </g>
 <g id="etc">
 	<g>
@@ -107,7 +105,7 @@
 	<polygon fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" points="711.935,371.109 684.652,362.436 664.078,391.458 
 		712.13,391.324 	"/>
 </g>
-<g id="Rooms">
+<g id="rooms">
 	<polygon id="r123" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="332.351,390.018 
 		332.351,357.5 357.896,357.5 357.927,346.503 306.215,346.503 306.215,411.193 344.745,411.193 344.745,390.018 	"/>
 	<path id="r119" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M566.271,389.242l-51.429-42.738
@@ -149,7 +147,7 @@
 	<polygon id="r116" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="769.431,296.93 
 		802.316,296.639 802.316,302.652 820.914,302.652 841.404,264.805 841.404,252.941 711.185,275.167 711.126,302.652 
 		769.615,302.652 	"/>
-	<polygon id="r104_1_" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="332.087,226.795 
+	<polygon id="r104" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="332.087,226.795 
 		332.117,204.961 292.871,204.961 292.871,226.795 	"/>
 	<polygon id="r103" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="292.871,226.795 
 		292.871,204.961 280.026,204.961 280.06,182.605 240.983,182.605 240.924,226.795 	"/>
@@ -171,7 +169,7 @@
 			674.4,253.284 674.359,278.858 		"/>
 	</g>
 </g>
-<g id="Signs">
+<g id="signs">
 	<rect id="bts" x="687.563" y="379.33" width="14.811" height="14.813"/>
 	<g id="escalator">
 		<rect id="escalator-2" x="226.172" y="242.747" width="14.813" height="14.811"/>
@@ -182,9 +180,9 @@
 		<rect id="toilet-2" x="94.916" y="265.986" width="14.812" height="14.811"/>
 		<rect id="toilet-1" x="669.277" y="189.89" width="14.813" height="14.811"/>
 	</g>
-	<g id="elevator">
-		<rect id="elevator-2" x="361.821" y="355.083" width="14.813" height="14.812"/>
-		<rect id="elevator-1" x="687.563" y="189.89" width="14.811" height="14.811"/>
+	<g id="lift">
+		<rect id="lift-2" x="361.821" y="355.083" width="14.813" height="14.812"/>
+		<rect id="lift-1" x="687.563" y="189.89" width="14.811" height="14.811"/>
 	</g>
 </g>
 </svg>
