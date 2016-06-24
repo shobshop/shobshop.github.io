@@ -130,7 +130,7 @@
 	<path id="g17" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M725.281,307.561l-20.543-7.773l0,0
 		l0,0l-56.242,49.404c73.854,20.617,102.275,32.203,114.078,22.137c2.916-2.49,8.553-9.314,8.553-9.314l-24.549-60.275l0,0
 		L725.281,307.561z"/>
-	<polygon id="g08_1_" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="333.074,225.682 
+	<polygon id="g08" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="333.074,225.682 
 		333.074,203.446 293.357,203.446 293.372,225.682 	"/>
 	
 		<rect id="g06" x="240.616" y="181.599" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="22.371" height="44.083"/>
@@ -140,7 +140,7 @@
 		404.949,224.504 404.949,224.504 404.949,224.504 404.949,180.224 391.865,180.224 391.865,203.446 350.315,203.446 	"/>
 	
 		<rect id="g05" x="203.693" y="181.599" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="36.923" height="44.083"/>
-	<path id="g03_1_" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M175.045,225.682l-9.626-44.083
+	<path id="g03" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M175.045,225.682l-9.626-44.083
 		H147.97c-13.651,0.058-19.8,2.181-24.852,10.065l42.66,35.87C170.82,225.806,175.046,225.681,175.045,225.682L175.045,225.682
 		L175.045,225.682z"/>
 	<path id="g02" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M117.219,203.996
