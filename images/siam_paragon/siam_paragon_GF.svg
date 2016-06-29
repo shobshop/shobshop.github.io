@@ -227,6 +227,6 @@
 		<rect id="transfer-service-2" x="333.5" y="68.678" fill="#5E513F" width="45" height="45"/>
 	</g>
 	<rect id="parking" x="529.665" y="91.178" fill="#5E513F" width="45" height="45"/>
-	<rect id="taxi-stand" x="344.312" y="728.5" fill="#5E513F" width="45" height="45"/>
+	<rect id="taxi" x="344.312" y="728.5" fill="#5E513F" width="45" height="45"/>
 </g>
 </svg>
