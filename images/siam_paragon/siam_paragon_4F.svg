@@ -74,7 +74,7 @@
 		c-0.031,0.267-0.045,0.417-0.045,0.417l-0.212,35.083h35.89L268.013,250.703z"/>
 	<polygon id="r420" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="268.011,279.25 232.067,279.25 231.757,330.5 
 		268.008,330.5 	"/>
-	<polygon id="r418b" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="231.706,339 231.617,353.75 268.007,353.75 
+	<polygon id="r418" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="231.706,339 231.617,353.75 268.007,353.75 
 		268.008,339 	"/>
 	<path id="r422b" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M285.062,231.668l-31.874-29.218
 		c0,0-10.554,8.616-15.355,15.551c-3.975,5.741-5.218,14.728-5.455,16.749h19.853l0,0l0,0l15.781,15.953v-2.697L285.062,231.668z"/>
@@ -262,5 +262,7 @@
 		<rect id="escalator-9" x="343" y="256" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-10_1_" x="169.5" y="188" fill="#5E513F" width="45" height="45"/>
 	</g>
+	<rect id="telephone_1_" x="542.5" y="469.349" fill="#5E513F" width="45" height="45"/>
+	<rect id="stairs" x="533.583" y="334.75" fill="#5E513F" width="45" height="45"/>
 </g>
 </svg>
