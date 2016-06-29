@@ -5,7 +5,6 @@
 	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
 	 xml:space="preserve">
 <g id="background">
-	<rect fill="#FFFFFF" stroke="#494949" stroke-miterlimit="10" width="841.89" height="595.281"/>
 </g>
 <g id="etc">
 	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M462.429,267l150.701-0.007v18.096h158.84
@@ -13,8 +12,8 @@
 		c12.76,0,8.689-13.088,8.689-13.088s-13.75-46.861-15.951-55.33c-2.199-8.469-8.027-9.02-8.027-9.02H613.13l-433.4-0.936
 		c-37.42,0-94.082,0-105.27,0c-16.996,0-15.512,16.666-15.512,16.666s0,77.053,0,110.549c0,6.205,0,10.916,0,13.365v16.664
 		l1.101,235.511L78.5,522.908h383.929V267"/>
-	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M60.049,289.927v143.881v16.722v50.16
-		l17.159,20.02h82.722h12.293c4.918,0,10.416,0,14.685,0c10.065,0,9.487-8.689,9.487-8.689v-49.663h37.291c0,0,0-159.775,0-170.667
+	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M60.049,289.927v143.881v16.723v50.16
+		l17.159,20.02h82.722h12.293c4.918,0,10.416,0,14.685,0c10.065,0,9.487-8.689,9.487-8.689v-49.662h37.291c0,0,0-159.775,0-170.667
 		c0-10.889-8.525-11.219-8.525-11.219s-144.431,0-155.1,0C59.391,280.468,60.049,289.927,60.049,289.927z"/>
 	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M542.916,174.757
 		c-2.988,0.003-16.688,6.252-19.49,4.614l-10.313-3.418v23.391h15.146l33.996-18.334v-3.322
@@ -23,10 +22,6 @@
 	<polygon fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="232.418,230.142 232.418,237.128 
 		232.418,239.19 232.418,266.606 248.864,266.718 248.864,266.688 244.657,266.688 248.864,266.688 248.864,246.944 
 		248.864,230.198 248.864,230.142 	"/>
-	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M434.908,244.388h21.855v-14.08v-1.926
-		v-14.025h-9.734l-11.041,12.984c0.719,2.26,1.113,4.664,1.113,7.162C437.101,238.038,436.302,241.378,434.908,244.388z"/>
-	<polygon fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="295.117,196.208 267.029,196.208 
-		280.543,211.224 295.117,211.224 295.117,196.29 	"/>
 	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M488.388,200.388h-45.539
 		c0,0,0.879-23.543,15.07-29.592c14.189-6.049,30.469,0,30.469,0V200.388z"/>
 	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M243.072,172.515
@@ -39,11 +34,13 @@
 	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M405.532,243.813h-3.21
 		c0,0-4.333-2.562-4.333-7.666c0-5.469,4.333-7.666,4.333-7.666l3.21,0.055V243.813z"/>
 	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M388.207,206.438v25.031l1.944,0.018
-		c1.149-8.986,7.354-16.374,15.668-19.253v-5.795H388.207z"/>
+		c1.148-8.986,7.354-16.374,15.668-19.253v-5.795L388.207,206.438L388.207,206.438z"/>
+	<polygon fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="560.769,214.356 545.369,214.356 
+		545.369,266.688 560.769,266.688 560.769,228.794 577.544,228.794 577.544,214.356 	"/>
 </g>
 <g id="rooms">
 	<path id="zen" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M771.97,285.089H613.13V108.868
-		h139.148c0,0,5.83,0.551,8.027,9.02c2.201,8.469,15.949,55.33,15.949,55.33s4.07,13.088-8.688,13.088
+		h139.148c0,0,5.83,0.551,8.025,9.02c2.201,8.469,15.949,55.33,15.949,55.33s4.07,13.088-8.688,13.088
 		c-12.762,0-17.602,0.111-17.602,0.111v19.58h13.42c0,0,8.359-0.33,8.359,11.221C771.75,228.767,771.97,285.089,771.97,285.089z"/>
 	<path id="isetan" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M58.948,124.599
 		c0,0,0,108.24,0,123.914c0,15.676,13.2,16.664,13.2,16.664h124.081v-29.369v-97.35h-16.5v-30.525c-37.42,0-94.082,0-105.27,0
@@ -54,7 +51,7 @@
 		<rect id="kb402" x="388.069" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.929" height="6.93"/>
 	<g id="kb401-kb403">
 		
-			<rect x="372.02" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.93"/>
+			<rect x="372.02" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.932" height="6.93"/>
 		
 			<rect x="404.398" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.93" height="6.93"/>
 	</g>
@@ -65,13 +62,13 @@
 	
 		<rect id="kb406" x="310.753" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.93"/>
 	
-		<rect id="kb405" x="328.186" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.93"/>
+		<rect id="kb405" x="328.186" y="167.993" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.932" height="6.93"/>
 	
-		<rect id="kc402" x="399.746" y="318.52" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.929" height="6.932"/>
+		<rect id="kc402" x="399.746" y="318.52" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.929" height="6.933"/>
 	
-		<rect id="kc401" x="416.051" y="318.52" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.932"/>
+		<rect id="kc401" x="416.051" y="318.52" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.933"/>
 	<path id="c415" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M329.22,385.132v-23.86
-		c-7.816-3.146-14.369-8.769-18.677-15.902h-61.679v39.766h80.354L329.22,385.132L329.22,385.132z"/>
+		c-7.815-3.146-14.369-8.769-18.677-15.901h-61.679v39.766h80.354L329.22,385.132L329.22,385.132z"/>
 	<path id="c413" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M280.049,286.839h-31.185v58.53
 		h61.679c-3.51-5.816-5.532-12.633-5.532-19.921c0-9.333,3.313-17.894,8.824-24.565l-4.087-4.684h-29.699V286.839z"/>
 	<polygon id="b415" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="248.864,266.688 
@@ -87,30 +84,30 @@
 	
 		<rect id="b414" x="232.418" y="206.438" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="16.446" height="23.704"/>
 	<path id="d401-2" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M463.308,520.707v-18.918H439.99
-		v-74.801h-26.182v-24.199l-11.657-12.762h-23.762v-47.771c-4.467,9.223-12.502,16.377-22.303,19.723v158.73L463.308,520.707z"/>
+		v-74.801h-26.182v-24.199l-11.656-12.762h-23.763v-47.771c-4.467,9.223-12.502,16.377-22.303,19.723v158.73L463.308,520.707z"/>
 	<path id="d401" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M356.086,520.708V361.979
 		c-3.914,1.334-8.1,2.08-12.463,2.08c-3.262,0-6.429-0.408-9.453-1.17v27.358h-85.306v130.461H356.086L356.086,520.708z"/>
 	<polygon id="c401" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="422.39,286.839 
 		422.39,305.934 440.099,305.934 440.019,286.839 422.498,286.839 	"/>
 	<path id="c403" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M406.071,286.839
 		c0.021,7.793,0.02,15.071-0.043,19.095h16.36v-19.095H406.071z"/>
-	<path id="c405-1" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M406.071,286.839h-20.685
-		l-11.963,14.063c1.3,1.576,2.467,3.262,3.507,5.029h29.098C406.091,301.91,406.095,294.632,406.071,286.839z"/>
+	<path id="c405-1" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M406.071,286.839h-20.686
+		l-11.963,14.063c1.3,1.576,2.467,3.262,3.507,5.029h29.099C406.091,301.91,406.095,294.632,406.071,286.839z"/>
 	<path id="a411" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M422.39,256.345v10.344h17.545
 		h2.693h14.137v-22.301H434.91C432.406,249.794,427.931,254.091,422.39,256.345z"/>
 	
 		<rect id="a413" x="456.765" y="214.356" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.82" height="14.025"/>
 	<path id="c405-2" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M410.081,257.806l-4.138,4.863
-		c0,0,0,0-0.001,0l-20.556,24.17h20.685h7.124V258.07C412.137,258.051,411.101,257.954,410.081,257.806z"/>
+		c0,0,0,0-0.001,0l-20.557,24.17h20.686h7.124V258.07C412.137,258.051,411.101,257.954,410.081,257.806z"/>
 	<path id="c402" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M439.933,266.689H422.39v-10.344
-		c-2.74,1.113-5.729,1.74-8.869,1.74c-0.11,0-0.217-0.013-0.327-0.015v28.769h9.193h0.109h17.52L439.933,266.689z"/>
+		c-2.74,1.113-5.729,1.74-8.869,1.74c-0.11,0-0.218-0.013-0.327-0.015v28.769h9.192h0.109h17.52L439.933,266.689z"/>
 	<polygon id="b426" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="369.689,206.438 
 		369.689,231.302 388.207,231.47 388.207,206.438 	"/>
 	<g id="a410-c418">
 		
-			<rect x="382.23" y="345.369" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="23.656" height="39.764"/>
+			<rect x="382.23" y="345.369" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="23.655" height="39.764"/>
 		<path fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M405.883,188.122v18.316h-0.063v5.795
-			c2.415-0.837,4.999-1.313,7.699-1.313c4.475,0,8.641,1.27,12.204,3.43l5.521-6.758v-19.471H405.883z"/>
+			c2.415-0.837,4.999-1.313,7.698-1.313c4.476,0,8.641,1.27,12.204,3.43l5.521-6.758v-19.471L405.883,188.122L405.883,188.122z"/>
 	</g>
 	
 		<rect id="c419" x="405.889" y="345.369" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="16.722" height="39.764"/>
@@ -127,7 +124,7 @@
 	<polygon id="b421-1" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="324.27,231.188 
 		332.52,231.188 336.148,227.724 336.148,206.438 324.27,206.438 	"/>
 	
-		<rect id="b423" x="324.27" y="188.122" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="11.881" height="18.316"/>
+		<rect id="b423" x="324.27" y="188.122" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="11.882" height="18.316"/>
 	<polygon id="b421-2" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="311.895,206.438 
 		311.895,211.224 311.895,213.808 311.895,227.724 316.186,231.188 324.27,231.188 324.27,206.438 	"/>
 	<polygon id="b419" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="295.117,196.208 
@@ -135,7 +132,7 @@
 	<polygon id="b420-1" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="295.117,196.141 
 		295.117,196.208 295.117,196.29 295.117,211.224 311.895,211.224 311.895,206.438 311.895,196.141 	"/>
 	
-		<rect id="b420" x="295.117" y="188.122" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="16.777" height="8.019"/>
+		<rect id="b420" x="295.117" y="188.122" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="16.776" height="8.019"/>
 	
 		<rect id="b422" x="311.895" y="188.122" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="12.375" height="18.316"/>
 	<polygon id="c411" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="324.27,266.688 
@@ -143,7 +140,7 @@
 	<polygon id="c409-1" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="336.148,266.688 
 		336.148,246.944 333.289,242.958 324.27,242.958 324.27,266.688 	"/>
 	<path id="c410" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M324.27,291.907l0.082,0.09
-		c3.604-2.082,7.575-3.602,11.799-4.43v-20.879H324.27V291.907z"/>
+		c3.604-2.082,7.575-3.602,11.8-4.43v-20.879H324.27V291.907z"/>
 	<polygon id="c409" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="324.27,242.958 
 		313.835,242.958 301.498,266.688 324.27,266.688 	"/>
 	<polygon id="c407" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="387.457,266.688 
@@ -171,33 +168,31 @@
 	
 		<rect id="b402" x="388.069" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.306" height="45.264"/>
 	
-		<rect id="b403" x="370.762" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.31" height="45.264"/>
+		<rect id="b403" x="370.762" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.311" height="45.264"/>
 	
 		<rect id="b404" x="353.456" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.306" height="45.264"/>
 	
 		<rect id="b405" x="336.148" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.308" height="45.264"/>
 	
-		<rect id="b406" x="318.843" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.308" height="45.264"/>
+		<rect id="b406" x="318.843" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.309" height="45.264"/>
 	
 		<rect id="b407" x="301.535" y="108.868" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="17.308" height="45.264"/>
 	<polygon id="b408" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="284.111,148.307 
 		276.365,148.307 276.365,154.132 301.535,154.132 301.535,108.868 284.229,108.868 	"/>
 	<path id="b409" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M257.279,154.132h9.75v-18.645
 		h-16.681v13.732C252.905,150.591,255.234,152.245,257.279,154.132z"/>
-	<path id="b410" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M250.349,149.22v-13.73V108.87
+	<path id="b410" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M250.349,149.22V135.49v-26.62
 		h-17.931v35.941C238.998,144.81,245.141,146.427,250.349,149.22z"/>
 	<path id="b411" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M207.558,154.132
 		c6.218-5.617,15.05-9.133,24.86-9.133v-35.213v-0.918H196.23v45.264H207.558z"/>
 	<g id="a416-kc403">
 		
-			<rect x="383.439" y="318.52" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.932"/>
+			<rect x="383.439" y="318.52" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="6.931" height="6.933"/>
 		
 			<rect x="479.808" y="214.356" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="48.621" height="52.332"/>
 	</g>
 	
 		<rect id="a417" x="528.429" y="214.356" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="16.939" height="52.332"/>
-	<polygon fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="560.769,214.356 545.369,214.356 
-		545.369,266.688 560.769,266.688 560.769,228.794 577.544,228.794 577.544,214.356 	"/>
 	
 		<rect id="a420" x="585.876" y="214.356" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" width="9.818" height="32.92"/>
 	<polygon id="a421" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="590.001,247.276 
@@ -214,6 +209,10 @@
 		c0,0-4.287,2.178-4.33,7.588h7.54V228.275L287.782,228.275z"/>
 	<path id="k402" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M419.332,228.197l3.21-0.055
 		c0,0,4.332,2.197,4.332,7.666c0,5.104-4.332,7.666-4.332,7.666h-3.21V228.197z"/>
+	<path id="a412" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M434.908,244.388h21.855v-14.08
+		v-1.926v-14.025h-9.734l-11.041,12.984c0.719,2.26,1.113,4.664,1.113,7.162C437.101,238.038,436.302,241.378,434.908,244.388z"/>
+	<polygon id="b418" fill="#939598" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" points="295.117,196.208 
+		267.029,196.208 280.543,211.224 295.117,211.224 295.117,196.29 	"/>
 </g>
 <g id="signs">
 	<rect id="parking" x="124.595" y="454.117" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
@@ -224,7 +223,7 @@
 		<rect id="lift-7" x="181.233" y="108.075" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
 		<rect id="lift-6" x="228.261" y="430.177" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
 		<rect id="lift-5" x="563.511" y="229.985" opacity="0.8" enable-background="new    " width="14.813" height="14.811"/>
-		<rect id="lift-4" x="228.261" y="468.929" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+		<rect id="lift-4" x="228.261" y="468.929" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
 		<rect id="lift-3" x="585.541" y="108.075" opacity="0.8" enable-background="new    " width="14.813" height="14.811"/>
 		<rect id="lift-2" x="207.119" y="239.538" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
 		<rect id="lift-1" x="337.873" y="306.408" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
@@ -232,7 +231,7 @@
 	<g id="escalator">
 		<rect id="escalator-8" x="404.292" y="228.741" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
 		<rect id="escalator-7" x="287.54" y="228.741" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect id="escalator-6" x="570.963" y="189.572" opacity="0.8" enable-background="new    " width="14.812" height="14.813"/>
+		<rect id="escalator-6" x="570.962" y="189.572" opacity="0.8" enable-background="new    " width="14.813" height="14.813"/>
 		<rect id="escalator-5" x="337.873" y="330.621" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
 		<rect id="escalator-4" x="351.423" y="496.509" opacity="0.8" enable-background="new    " width="14.813" height="14.813"/>
 		<rect id="escalator-3" x="459.617" y="84.525" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
