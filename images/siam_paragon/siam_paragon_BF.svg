@@ -5,17 +5,12 @@
 	 width="677px" height="803.07px" viewBox="0 0 677 803.07" enable-background="new 0 0 677 803.07" xml:space="preserve">
 <g id="Background">
 </g>
-<g id="Original" display="none">
-	
-		<image display="inline" overflow="visible" enable-background="new    " width="557" height="784" xlink:href="65CD7DEE.png"  transform="matrix(1 0 0 1 87 4)">
-	</image>
-</g>
 <g id="Etc">
 	<path fill="#DDD1BA" stroke="#3F3628" d="M630.998,548.664h-21.665v10.672H556v-5.334h-76.333V427.667V322.333l0,0l0,0H609v-205
 		c0,0,22.667-30-4.667-57.333s-62-8-62-8V41.333h-324c0,0,3.884,9.49-3.768,26.263l49.45,16.117c0,0-7.349,23.287-12.016,30.287
 		c-12.467,18.7-12.941,15.069-30.717,40.425l-39.424-46.434c-0.508,0.446-1.013,0.892-1.535,1.342
 		c-48.667,42-58.665,110.666-58.665,110.666s0,217.999,0,254.665c-19.333,12-25.998,41.334-25.998,41.334v228h312.307l2.762-35.525
-		l0,0l0,0l75.873,9.775l0,0l0,0l-1.612,33.082h133.339v-52l17.333-3.332L630.998,548.664z"/>
+		l0,0l0,0l75.873,9.775l0,0l0,0l-1.611,33.082h133.339v-52l17.333-3.332L630.998,548.664z"/>
 	<polygon fill="#CCBB9A" stroke="#A58C65" points="410.73,708.472 407.969,743.998 408.329,743.998 480.329,751.33 484.99,751.33 
 		486.604,718.248 	"/>
 	<rect x="568" y="516.335" fill="#CCBB9A" stroke="#A58C65" width="41" height="17"/>
@@ -44,7 +39,7 @@
 </g>
 <g id="Signs">
 	<rect id="taxi" x="387" y="73" fill="#5E513F" width="45" height="45"/>
-	<g id="elevator">
+	<g id="lift">
 		<rect id="elevator-1" x="339" y="113" fill="#5E513F" width="45" height="45"/>
 		<rect id="elevator-2" x="503" y="499" fill="#5E513F" width="45" height="45"/>
 		<rect id="elevator-3" x="102" y="537" fill="#5E513F" width="45" height="45"/>
@@ -72,5 +67,11 @@
 	<rect id="first-aid" x="160" y="640" fill="#5E513F" width="45" height="45"/>
 	<rect id="prayer-room" x="572" y="526" fill="#5E513F" width="45" height="45"/>
 	<rect id="telephone" x="468" y="163" fill="#5E513F" width="45" height="45"/>
+	<g id="entrance">
+		<rect id="entrance4" x="182.5" y="263" fill="#5E513F" width="45" height="45"/>
+		<rect id="entrance3" x="352" y="180.5" fill="#5E513F" width="45" height="45"/>
+		<rect id="entrance2" x="106" y="624.5" fill="#5E513F" width="45" height="45"/>
+		<rect id="entrance1" x="466.5" y="405.167" fill="#5E513F" width="45" height="45"/>
+	</g>
 </g>
 </svg>

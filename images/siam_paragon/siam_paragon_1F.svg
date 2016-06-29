@@ -78,7 +78,7 @@
 		<path fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M468.25,707.5l4-37.75c0,0,21,11.988,42.25,2.369
 			s22-36.369,22-36.369V622.5l25.75-15.75L570,544h53l-19.333,179L468.25,707.5z"/>
 	</g>
-	<path id="ladie-s-boutique" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M500,316.667V243l-167.5-0.75l-28.75-25.75
+	<path id="ladies-boutique" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M500,316.667V243l-167.5-0.75l-28.75-25.75
 		L268,249.25V330h-45.75v15.25H268V502l-28.875,24.5c0,0,24.542,19.002,37.875,41.838c5-4.504,29.5-26.17,29.5-26.17l22.322,2.355
 		l0,0l121.345,12.795L449.5,446.333H500c0,0,0-17.678,0-44.798h-25.666v-84.869L500,316.667L500,316.667z M386.371,447.333
 		c-18.021,0-32.629-9.326-32.629-20.832s14.607-20.834,32.629-20.834c18.021,0,32.629,9.328,32.629,20.834
@@ -163,7 +163,7 @@
 	<rect id="_x31_55" x="179.5" y="483" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="30.667" height="21.5"/>
 	
 		<rect id="r158" x="410.496" y="616.028" transform="matrix(-0.9971 -0.0765 0.0765 -0.9971 800.6805 1287.231)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="29.001" height="24.501"/>
-	<g id="r155_1_">
+	<g id="r155">
 		<polygon fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="143,531.5 143,540 141.958,540 121,540 121,554.666 
 			128.667,554.666 128.667,554.75 128.667,568.25 163.477,568.25 169.5,573.662 169.5,548.515 169.5,540 169.5,531.5 		"/>
 		
@@ -175,7 +175,7 @@
 		<rect id="fashion-gallery" x="286.5" y="601.529" transform="matrix(0.9957 0.093 -0.093 0.9957 58.3792 -25.3268)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="29" height="24.679"/>
 </g>
 <g id="Signs">
-	<rect id="smoking" x="504.625" y="27" fill="#5E513F" width="45" height="45"/>
+	<rect id="smoking-room" x="504.625" y="27" fill="#5E513F" width="45" height="45"/>
 	<g id="atm">
 		<rect id="atm-1" x="381" y="25" fill="#5E513F" width="45" height="45"/>
 		<rect id="atm-2" x="602" y="478" fill="#5E513F" width="45" height="45"/>
