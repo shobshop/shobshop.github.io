@@ -102,9 +102,9 @@
 	</g>
 	<rect id="telephone" x="604.976" y="252.006" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
 	<rect id="atm" x="580.308" y="265.506" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
-	<g id="elevator">
-		<rect id="elevator-2" x="273.469" y="259.412" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect id="elevator-1" x="559.642" y="265.505" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
+	<g id="lift">
+		<rect id="lift-2" x="273.469" y="259.412" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect id="lift-1" x="559.642" y="265.505" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
 	</g>
 	<g id="toilet">
 		<rect id="toilet-2" x="257.56" y="413.664" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>

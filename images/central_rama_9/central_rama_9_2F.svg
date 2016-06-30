@@ -103,10 +103,10 @@
 	<rect id="atm" x="581.283" y="248.845" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
 	<rect id="telephone" x="602.066" y="248.845" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
 	<rect id="baby-change-room" x="642.888" y="235.595" opacity="0.8" enable-background="new    " width="14.812" height="14.813"/>
-	<g id="elevator">
-		<rect id="elevator-3" x="274.594" y="254.595" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
-		<rect id="elevator-2" x="562.822" y="265.337" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect id="elevator-1" x="766.9" y="345.779" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+	<g id="lift">
+		<rect id="lift-3" x="274.594" y="254.595" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
+		<rect id="lift-2" x="562.822" y="265.337" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect id="lift-1" x="766.9" y="345.779" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
 	</g>
 	<g id="handicapped-toilet">
 		

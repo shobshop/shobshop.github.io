@@ -153,10 +153,10 @@
 		<rect id="escalator-2" x="374.136" y="339.335" width="14.813" height="14.812"/>
 		<rect id="escalator-1" x="226.928" y="259.628" width="14.812" height="14.811"/>
 	</g>
-	<g id="elevator">
-		<rect id="elevator-3" x="560.896" y="265.59" width="14.812" height="14.811"/>
-		<rect id="elevator-2" x="281.928" y="259.628" width="14.811" height="14.811"/>
-		<rect id="elevator-1" x="771.83" y="340.977" width="14.811" height="14.813"/>
+	<g id="lift">
+		<rect id="lift-3" x="560.896" y="265.59" width="14.812" height="14.811"/>
+		<rect id="lift-2" x="281.928" y="259.628" width="14.811" height="14.811"/>
+		<rect id="lift-1" x="771.83" y="340.977" width="14.811" height="14.813"/>
 	</g>
 	<g id="entrance">
 		<rect id="entrance-3" x="330.938" y="231.095" width="14.813" height="14.813"/>

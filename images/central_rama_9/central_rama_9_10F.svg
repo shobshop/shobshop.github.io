@@ -37,7 +37,7 @@
 </g>
 <g id="Signs">
 	<rect id="escalator" x="690.359" y="361.085" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
-	<rect id="elevator" x="768.927" y="361.085" opacity="0.8" enable-background="new    " width="14.812" height="14.812"/>
+	<rect id="lift" x="768.927" y="361.085" opacity="0.8" enable-background="new    " width="14.812" height="14.812"/>
 	<rect id="toilet" x="757.427" y="293.928" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
 </g>
 </svg>

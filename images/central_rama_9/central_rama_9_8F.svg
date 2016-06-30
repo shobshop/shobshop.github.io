@@ -52,9 +52,9 @@
 		<rect id="escalator-2" x="586.343" y="338.846" opacity="0.8" enable-background="new    " width="14.812" height="14.813"/>
 		<rect id="escalator-1" x="693.376" y="364.785" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
 	</g>
-	<g id="elevator">
-		<rect id="elevator-2" x="538.025" y="257.496" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect id="elevator-1" x="767.343" y="351.596" opacity="0.8" enable-background="new    " width="14.812" height="14.813"/>
+	<g id="lift">
+		<rect id="lift-2" x="538.025" y="257.496" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect id="lift-1" x="767.343" y="351.596" opacity="0.8" enable-background="new    " width="14.812" height="14.813"/>
 	</g>
 	<rect id="toilet" x="750.593" y="304.229" opacity="0.8" enable-background="new    " width="14.812" height="14.813"/>
 </g>

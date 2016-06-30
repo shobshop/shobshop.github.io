@@ -95,10 +95,10 @@
 		<rect id="escalator-2" x="396.523" y="339.012" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
 		<rect id="escalator-1" x="590.773" y="349.32" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
 	</g>
-	<g id="elevator">
-		<rect id="elevator-3" x="293.687" y="259.628" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect id="elevator-2" x="765.107" y="352.562" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
-		<rect id="elevator-1" x="560.896" y="275.944" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
+	<g id="lift">
+		<rect id="lift-3" x="293.687" y="259.628" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect id="lift-2" x="765.107" y="352.562" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+		<rect id="lift-1" x="560.896" y="275.944" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
 	</g>
 	<g id="atm">
 		<rect id="atm-2" x="329.354" y="268.539" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
