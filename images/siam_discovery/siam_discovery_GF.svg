@@ -75,9 +75,9 @@
 	</g>
 	<rect id="escalator" x="519.426" y="482.721" fill="#26665A" width="45" height="45"/>
 	<rect id="toilet" x="1145" y="213.626" fill="#26665A" width="45" height="45"/>
-	<g id="elevator">
-		<rect id="elevator-1" x="1081" y="385.5" fill="#26665A" width="45" height="45"/>
-		<rect id="elevator-2" x="1444" y="1184" fill="#26665A" width="45" height="45"/>
+	<g id="lift">
+		<rect id="lift-1" x="1081" y="385.5" fill="#26665A" width="45" height="45"/>
+		<rect id="lift-2" x="1444" y="1184" fill="#26665A" width="45" height="45"/>
 	</g>
 	<g id="stairs">
 		<rect id="stairs-1" x="1123" y="347.5" fill="#26665A" width="45" height="45"/>

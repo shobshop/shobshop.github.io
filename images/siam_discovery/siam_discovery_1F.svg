@@ -113,7 +113,7 @@
 		<rect id="stairs-2" x="1135.509" y="349.317" fill="#26665A" width="45" height="45"/>
 		<rect id="stairs-1" x="961.546" y="516.5" fill="#26665A" width="45" height="45"/>
 	</g>
-	<rect id="elevator" x="1081.588" y="385.5" fill="#26665A" width="45" height="45"/>
+	<rect id="lift" x="1081.588" y="385.5" fill="#26665A" width="45" height="45"/>
 	<g id="escalator">
 		<rect id="escalator-2" x="380.5" y="444.363" fill="#26665A" width="45" height="45"/>
 		<rect id="escalator-1" x="959.812" y="918.5" fill="#26665A" width="45" height="45"/>
