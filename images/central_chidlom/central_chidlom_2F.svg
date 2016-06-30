@@ -79,7 +79,7 @@
 			527.72,914.24 554.72,914.24 554.72,908.74 572.22,908.74 572.22,878.74 579.22,878.74 579.22,850.24 		"/>
 		<rect x="347.22" y="555.576" fill="#5A5A5A" stroke="#494949" stroke-miterlimit="10" width="109" height="128.998"/>
 	</g>
-	<g id="women-s-wear_1_">
+	<g id="women-s-wear">
 		<polygon fill="#5A5A5A" stroke="#494949" stroke-miterlimit="10" points="502.806,472.24 456.22,472.24 456.22,684.574 
 			347.22,684.574 347.22,806.244 502.221,806.244 		"/>
 		<polygon fill="#5A5A5A" stroke="#494949" stroke-miterlimit="10" points="395.97,436.241 388.22,436.241 388.22,439.574 
@@ -94,6 +94,7 @@
 		<rect id="sunglasses" x="249.317" y="555.576" fill="#5A5A5A" stroke="#494949" stroke-miterlimit="10" width="47.236" height="128.998"/>
 	<path id="r207" fill="#5A5A5A" stroke="#494949" stroke-miterlimit="10" d="M622.72,112.24v151.5h72.5v-50.567
 		c-15.815-2.192-28-15.761-28-32.183c0-16.421,12.185-29.99,28-32.183v-0.567h182.565v-36H622.72z"/>
+	<rect id="r206" x="730.561" y="274.408" fill="#5A5A5A" stroke="#494949" stroke-miterlimit="10" width="54" height="25"/>
 </g>
 <g id="signs">
 	<rect id="lift" x="314.887" y="483.74" width="45" height="45"/>
