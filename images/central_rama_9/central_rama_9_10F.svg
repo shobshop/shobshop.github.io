@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
+	 xml:space="preserve">
+<g id="Background">
+	<rect fill="#FFFFFF" width="841.89" height="595.281"/>
+</g>
+<g id="ETC">
+	
+		<rect x="682.126" y="359.744" fill="#CECECE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="34.262" height="17.492"/>
+	<path fill="#CECECE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M657.888,395.398v-10.203h84.744V365.51h14.58
+		v11.727h36.207v-82.069H687.228v55.769h-37.725V375.9h-4.922v45.319c0.326,0.179,0.652,0.354,0.977,0.521
+		c8.543,4.51,15.791,7.25,15.791,7.25s5.043,0,12.939,0v-33.599L657.888,395.398L657.888,395.398z"/>
+	<path id="beauty-zone" fill="#CECECE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M609.976,327.699
+		c0.113-0.215,0.229-0.428,0.346-0.641h38.271v-24.24c0,0,13.303-6.017,38.637-7.652v-84.017H232.342h-31.347
+		c0,0-11.664,70.347-14.216,102.06c-2.551,31.711,15.674,64.516,46.291,76.65c1.409,0.561,3.039,1.104,4.864,1.643
+		c37.85,11.09,165.522,18.129,181.271,17.082c17.203-1.146,31.714-18.373,56.861-17.98c15.674,0.244,45.195,12.638,64.393,16.769
+		c19.197,4.133,83.531-1.033,83.531-1.033S586.447,371.859,609.976,327.699z"/>
+</g>
+<g id="Rooms">
+	<path id="r1007" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M648.593,327.061H610.32
+		c-0.115,0.213-0.23,0.426-0.346,0.641c-23.527,44.158,14.016,78.637,14.016,78.637c5.234,5.812,13.297,10.965,20.594,14.889V375.9
+		h4.92v-24.969h0.307v-23.871H648.593L648.593,327.061z"/>
+	<path id="r1001" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M687.228,295.166
+		c-25.332,1.639-38.637,7.652-38.637,7.652v24.24h1.217v23.873h37.42V295.166L687.228,295.166z"/>
+	<path id="r1006" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M657.888,385.195v10.203h16.4
+		v33.596c10.137,0,24.977,0,39.914,0v-43.799H657.888z"/>
+	<path id="r1005" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M714.203,385.195v43.799
+		c9.881,0,19.801,0,28.43,0v-43.799H714.203z"/>
+	<path id="r1004" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M757.212,377.236V365.51h-14.58
+		v19.686v43.799c0.99,0,1.963,0,2.916,0h21.322h6.016v-0.791c9.477-2.715,11.297-11.479,11.297-11.479l2.711-21.992h6.525v-17.494
+		L757.212,377.236L757.212,377.236z"/>
+	<polygon id="r1002-1003" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="714.203,295.166 
+		687.228,295.166 687.228,350.934 714.203,350.934 740.261,350.934 740.261,295.166 	"/>
+</g>
+<g id="Signs">
+	<rect id="escalator" x="690.359" y="361.085" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+	<rect id="elevator" x="768.927" y="361.085" opacity="0.8" enable-background="new    " width="14.812" height="14.812"/>
+	<rect id="toilet" x="757.427" y="293.928" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
+</g>
+</svg>
