@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
+	 xml:space="preserve">
+<g id="background">
+	<rect fill="#FFFFFF" width="841.89" height="595.281"/>
+</g>
+<g id="etc">
+	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M832.267,409.757
+		c-0.31-0.329-0.518-0.506-0.518-0.506s-133.48-129.23-141.416-136.917S659.25,248.5,659.25,248.5l-1.916,1.75
+		c0,0-1.258-1.209-3.503-3.367c-1.367-1.314-3.111-2.99-5.165-4.964c-23.324-22.413-87.357-83.946-111.396-107.045
+		C507.636,106.399,480,104.125,480,104.125h-17.813v-2.958H294.05l-1.605,1.435v0.048L292,103l-7-7.5c0,0-249.75,0-263.25,0
+		s-13,5-13,21.75c0,0-0.002,151-0.002,170c0,19,4.377,18,14.627,18s249.375-0.125,249.375-0.125l4.125-1.125h15.57v0.349L396.5,304
+		l0.063,2.875l1.625,1.912h22.469c0,0,10.289,14.104,13.22,14.4s3.875-1.436,3.875-1.436s29.443,28.373,66.754,64.328
+		c2.36,2.274,4.751,4.578,7.169,6.908c59.486,57.326,134.73,129.84,144.409,139.18c9.773,9.48,15.337,10.598,21.258,7.357
+		c3.009-1.193,4.615-3.11,4.619-3.115c18.099-13.083,128.956-93.862,143.123-104.408c0.548-0.408,1.065-0.807,1.567-1.201
+		c0.021-0.018,0.044-0.035,0.065-0.053C839.455,420.705,837.429,414.917,832.267,409.757z"/>
+	<path fill="none" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M448.25,288.5l-30-13.833H302.667v10.583H380.5
+		V304h16l0.063,2.875l1.625,1.912h22.469l5.458,7.024c0,0,5.288,6.621,7.762,7.377c0.572,0.175,1.48,0.043,2.379-0.271
+		c1.262-0.441,1.498-1.165,1.498-1.165s7.293,7.025,19.191,18.489l12.695-11.728L438,296.875l5.75-0.625l86.418,86.417l7.785-7.787
+		L448.25,288.5z"/>
+	
+		<rect x="293" y="255.917" fill="none" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="9.667" height="48.083"/>
+</g>
+<g id="rooms">
+	<polygon id="r704" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="438.167,231.833 
+		391,231.833 391,274.667 418.25,274.667 435.917,282.813 454.628,238.639 	"/>
+	<polygon id="r702-1-2" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="503.886,280.054 
+		472.16,311.525 506.062,344.171 538.906,315.071 	"/>
+	<polygon id="r703-1-2" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="468,244.167 
+		454.628,238.639 435.917,282.813 448.25,288.5 472.16,311.525 503.886,280.054 	"/>
+	<polygon id="r701" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="568.333,344.5 
+		538.906,315.071 506.062,344.171 537.953,374.88 	"/>
+	<polygon id="r705-706" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="293,231.833 
+		293,255.917 302.667,255.917 302.667,274.667 391,274.667 391,231.833 	"/>
+	<polygon id="r707-709" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="374.167,285.25 
+		302.667,285.25 302.667,304 370.5,304 380.5,304 380.5,285.25 	"/>
+	<path id="r710-711" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M443.75,296.25l-5.75,0.625
+		l31.639,31.639l-12.695,11.728c7.045,6.787,15.713,15.141,25.443,24.516l15.852-14.021L443.75,296.25z"/>
+	<path id="r712" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M530.167,382.667l-31.932-31.932
+		l-15.852,14.02c10.191,9.818,21.549,20.762,33.457,32.236L530.167,382.667z"/>
+</g>
+<g id="signs">
+	<rect id="toilet" x="384.928" y="287.22" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
+	<rect id="handicapped-toilet" x="403.124" y="287.22" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+	<rect id="lift" x="435.917" y="310.929" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+	<g id="fire-exit">
+		<rect x="290.428" y="251.929" opacity="0.8" enable-background="new    " width="14.811" height="14.81"/>
+		<rect x="287.856" y="285.25" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect x="453.308" y="325.738" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect x="541.974" y="352.405" opacity="0.8" enable-background="new    " width="14.813" height="14.812"/>
+	</g>
+</g>
+</svg>

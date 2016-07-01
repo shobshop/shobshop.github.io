@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
+	 xml:space="preserve">
+<g id="background">
+	<rect fill="#FFFFFF" width="841.89" height="595.281"/>
+</g>
+<g id="etc">
+	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M537.269,134.874
+		C507.636,106.399,480,104.125,480,104.125h-17.813v-2.958H294.05l-1.605,1.435v201.746L396.5,304l0.063,2.875l1.625,1.912h22.469
+		c0,0,10.289,14.104,13.22,14.4s3.875-1.436,3.875-1.436s29.443,28.373,66.754,64.328l144.16-144.16
+		C625.341,219.507,561.308,157.974,537.269,134.874z"/>
+	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M831.75,409.251
+		c0,0-133.48-129.23-141.416-136.917S659.25,248.5,659.25,248.5l-1.916,1.75c0,0-1.258-1.209-3.503-3.367
+		c-1.367-1.314-3.111-2.99-5.165-4.964l-144.16,144.16c2.36,2.274,4.751,4.578,7.169,6.908
+		c59.486,57.326,134.73,129.84,144.409,139.18c16.291,15.723,25.877,4.242,25.877,4.242s125.123-91.186,143.123-104.408
+		C843.083,418.777,831.75,409.251,831.75,409.251z"/>
+</g>
+<g id="rooms">
+	<path id="central-department-store" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M21.75,95.5
+		c-13.5,0-13,5-13,21.75c0,0-0.002,151-0.002,170c0,19,4.377,18,14.627,18c6.182,0,95.609-0.045,165.625-0.082V95.5
+		C117.015,95.5,29.586,95.5,21.75,95.5z"/>
+	<path id="power-buy" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M292,103l-7-7.5
+		c0,0-43.966,0-96,0v209.667c46.078-0.022,83.75-0.043,83.75-0.043l4.125-1.125H293V102.214L292,103z"/>
+	<path id="bcc-hall" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M831.75,409.251
+		c-4.557-4.358-90.699-87.793-126.256-122.231L554.515,434.255c49.217,47.424,96.436,92.934,101.568,97.912
+		c11.082,10.75,16.75,10.75,23.666,5.834c6.918-4.918,130.334-94.834,145.334-106S837.5,414.751,831.75,409.251z"/>
+	<polygon id="r507-509" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="371.75,277.25 
+		347.125,277.25 347.125,288.75 319.625,288.75 319.625,277.25 302.75,277.25 302.75,299 368.25,299 379,299 379,277.25 	"/>
+	<polygon id="r510-511" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="435.5,285.375 
+		430.125,286.625 461.25,316.875 449.875,328.375 471.103,348.916 486.234,333.998 	"/>
+	<polygon id="r512" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="522.625,368.875 
+		486.234,333.998 471.103,348.916 507.75,384.375 	"/>
+	
+		<rect id="r505" x="345.875" y="228.693" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="44.25" height="39.974"/>
+	<polygon id="r501" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="556,336 555.402,330.484 
+		554.515,331.333 521.265,299.307 491.91,327.994 529.333,364 	"/>
+	<polygon id="r502-503" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="459,239.333 
+		443.628,233.882 427.65,273.993 441.333,279.333 491.91,327.994 521.265,299.307 	"/>
+	<polygon id="r504" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="429,228.693 
+		390.125,228.693 390.125,268.667 414,268.667 427.65,273.993 443.628,233.882 	"/>
+	<polygon id="r506-1-3" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="309,228.693 
+		293,228.693 293,268.667 309,268.667 309,248.68 320,248.68 320,268.667 345.875,268.667 345.875,228.693 	"/>
+</g>
+<g id="signs">
+	<rect id="toilet" x="382.72" y="280.72" opacity="0.8" enable-background="new    " width="14.812" height="14.812"/>
+	<rect id="handicapped-toilet" x="399.845" y="280.72" opacity="0.8" enable-background="new    " width="14.812" height="14.812"/>
+	<rect id="lift" x="427.65" y="300.186" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+	<g id="escalator">
+		<rect x="331.064" y="275.845" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+		<rect x="534.554" y="382.24" opacity="0.8" enable-background="new    " width="14.813" height="14.811"/>
+	</g>
+	<g id="first-aid">
+		<rect x="527.15" y="344.376" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect x="444.9" y="309.74" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect x="307.095" y="249.99" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
+		<rect x="290.595" y="285.375" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+	</g>
+</g>
+</svg>

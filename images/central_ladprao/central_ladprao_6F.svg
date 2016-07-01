@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
+	 xml:space="preserve">
+<g id="background">
+	<rect fill="#FFFFFF" width="841.89" height="595.281"/>
+</g>
+<g id="etc">
+	<path fill="#BFBFBF" stroke="#494949" stroke-width="0.66" stroke-miterlimit="10" d="M832.267,409.757
+		c-0.31-0.329-0.518-0.506-0.518-0.506s-133.48-129.23-141.416-136.917S659.25,248.5,659.25,248.5l-1.916,1.75
+		c0,0-1.258-1.209-3.503-3.367c-1.367-1.314-3.111-2.99-5.165-4.964c-23.324-22.413-87.357-83.946-111.396-107.045
+		C507.636,106.399,480,104.125,480,104.125h-17.813v-2.958H294.05l-1.605,1.435v201.746L396.5,304l0.063,2.875l1.625,1.912h22.469
+		c0,0,10.289,14.104,13.22,14.4s3.875-1.436,3.875-1.436s29.443,28.373,66.754,64.328c2.36,2.274,4.751,4.578,7.169,6.908
+		c59.486,57.326,134.73,129.84,144.409,139.18c9.773,9.48,15.337,10.598,21.258,7.357c3.009-1.193,4.615-3.11,4.619-3.115
+		c18.099-13.083,128.956-93.862,143.123-104.408c0.548-0.408,1.065-0.807,1.567-1.201c0.021-0.018,0.044-0.035,0.065-0.053
+		C839.455,420.705,837.429,414.917,832.267,409.757z"/>
+	<path fill="none" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M555.667,357.167l-9.793-9.793L528,365
+		l-79.75-76.5l-30-13.833h-113V244.5H293v38.167h18.5l6.333,11.667H350v-11.667h31.833V304H396.5l0.063,2.875l1.625,1.912h22.469
+		c0,0,5.306,6.731,7.226,9.117c4.213,5.236,5.994,5.284,5.994,5.284l2.313-0.125l1.564-1.312c0,0,6.316,6.084,16.775,16.162
+		l13.807-12.08l-32.166-31.667l6.334-0.833l81.5,81.333l-15.301,15.44c2.355,2.271,4.736,4.563,7.143,6.884L555.667,357.167z"/>
+	<polygon display="none" fill="none" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="306,297.64 306,282.667 
+		293,282.667 293,304 319.375,304 319.375,297.64 	"/>
+</g>
+<g id="rooms">
+	<path id="sfx-cinema-city" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M292,103l-7-7.5
+		c0,0-249.75,0-263.25,0s-13,5-13,21.75c0,0-0.002,151-0.002,170c0,19,4.377,18,14.627,18s249.375-0.125,249.375-0.125l4.125-1.125
+		H293V102.214L292,103z"/>
+	<path id="r610-611" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M442.5,293.333l-6.332,0.833
+		l32.166,31.667l-13.807,12.08c6.031,5.812,13.459,12.967,21.846,21.047l15.928-15.928L442.5,293.333z"/>
+	<path id="r612" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M524,374.667L492.3,343.033
+		l-15.928,15.93c9.689,9.334,20.666,19.91,32.326,31.146L524,374.667z"/>
+	<rect id="r606-1" x="316.833" y="231.833" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="32.167" height="42.833"/>
+	<polygon id="r606-2-3" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="293,231.833 293,244.5 
+		305.25,244.5 305.25,274.667 316.833,274.667 316.833,231.833 	"/>
+	<polygon id="r604-605" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="468,244.167 
+		438.167,231.833 392.167,231.833 349,231.833 349,274.666 392.167,274.666 392.167,274.667 418.25,274.667 448.25,288.5 
+		468.455,307.88 500.083,276.25 	"/>
+	<polygon id="r601" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="530.25,306.416 
+		499.248,337.419 528,365 545.875,347.375 555.667,357.167 568.333,344.5 	"/>
+	<polygon id="r602" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="500.083,276.25 
+		468.455,307.88 499.248,337.419 530.25,306.416 	"/>
+	<polygon id="r607-609" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="375.5,282.667 
+		350,282.667 350,294.333 317.875,294.333 317.833,294.333 311.5,282.667 306,282.667 306,297.64 317.875,297.64 319.375,297.64 
+		319.375,304 371.25,304 381.833,304 381.833,282.667 	"/>
+</g>
+<g id="signs">
+	<rect id="escalator" x="332.917" y="283.928" opacity="0.8" enable-background="new    " width="14.811" height="14.81"/>
+	<rect id="toilet" x="383.928" y="286.928" opacity="0.8" enable-background="new    " width="14.812" height="14.81"/>
+	<rect id="handicapped-toilet" x="401.761" y="286.929" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
+	<rect id="lift" x="432.095" y="305.259" opacity="0.8" enable-background="new    " width="14.811" height="14.81"/>
+	<g id="fire-exit">
+		<rect x="315.294" y="255.046" opacity="0.8" enable-background="new    " width="14.812" height="14.811"/>
+		<rect x="291.377" y="285.928" opacity="0.8" enable-background="new    " width="14.812" height="14.81"/>
+		<rect x="449.423" y="320.069" opacity="0.8" enable-background="new    " width="14.811" height="14.81"/>
+		<rect x="537.923" y="350.19" opacity="0.8" enable-background="new    " width="14.811" height="14.81"/>
+	</g>
+</g>
+</svg>
