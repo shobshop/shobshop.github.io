@@ -1,0 +1,104 @@
+
+{
+	"promotions": [
+		{
+			"images": [],
+			"cover": {
+				"caption": "Karmart-Mid-Year-Sale-cover",
+				"link": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+				"category": "cover",
+				"square": 
+			        { "url": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/23/20160623093242-c2254e5c-sq.jpg",
+			          "width": "120",
+			          "height": "120" },
+				"thumb:": 
+			        { "url": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/23/20160623093242-c2254e5c-th.jpg",
+			          "width": "144",
+			          "height": "81" },
+			    "xxsmall": 
+			        { "url": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/23/20160623093242-c2254e5c-2s.jpg",
+			          "width": "240",
+			          "height": "135" },
+			    "xsmall": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+			    "small": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+			    "medium": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+			    "large": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+			    "xlarge": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+			    "xxlarge": 
+			        { "url": "http://www.shobshop.co/piwigo/upload/2016/06/23/20160623093242-c2254e5c.jpg",
+			          "width": "339",
+			          "height": "191" },
+			    "imageid": "8657",
+			    "borderRadius": "",
+			    "createdBy": "55f8f1ed6dd3b3e816c20836",
+			    "createdAt": "2016-06-23T13:33:43.452Z",
+			    "updatedAt": "2016-06-23T13:33:43.452Z",
+			    "id": "576be537629f8dd55182b6fc" 
+			},
+			"logo":"5661264d11d3eda814bd255a",
+			"active": true,
+		    "approved": true,
+		    "title": "Karmart Mid Year Sale ลดสูงสุด 50%",
+		    "description": "",
+		    "shortDescription": "<p>Karmart&nbsp;Mid Year Sale ลดสูงสุด 50%&nbsp;ทั้งลดทั้งแถม&nbsp;และสมาชิกยังได้ลดเพิ่ม 20%&nbsp;</p>\n",
+		    "sections": "<h3>ห้างที่ร่วมรายการ</h3>\n\n<ul>\n\t<li>Karmart ทุกสาขา</li>\n</ul>\n",
+		    "locationText": "",
+		    "type": "Promotion",
+		    "slug": "karmart-mid-year-sale-ลดสูงสุด-50-percent",
+		    "createdBy": "56543f0a822fd5935c9b372d",
+		    "schedule": "2016-06-21T17:00:00.000Z",
+		    "begin": "2016-06-16T17:00:00.000Z",
+		    "end": "2016-07-31T16:59:59.999Z",
+		    "createdAt": "2016-06-22T10:17:00.818Z",
+		    "updatedAt": "2016-06-24T05:16:23.920Z",
+		    "id": "576a659c241502962aac3cb6"
+		}
+	],
+	"privilegepromotions": [
+		{
+			"title": "รับส่วนลด 10% เมื่อทานบุฟเฟต์",
+			"categoryid": "55e0319715a031ba09314400",
+			"isAd": true
+		},
+		{
+			"title": "ฟรี Panna Cotta topped with Strawberry Sauce  เมื่อใช้จ่ายขั้นต่ำครบ 800 บาทต่อ/เซลล์สลิป",
+			"categoryid": "55e034c3208e08b40989787d",
+			"isAd": false
+		},
+		{
+			"title": "รับส่วนลด 15% เฉพาะวันจันทร์​และส่วนลด 10% สำหรับวันอื่นๆ",
+			"categoryid": "551019823579af1200346878",
+			"isAd": false
+		},
+		{
+			"title": "คืนเงิน 50 บาท เมื่อใช้จ่ายขั้นต่ำครบ 1000 บาท/เซลล์สลิป",
+			"detail": "ส่ง SMS ลงทะเบียนพิมพ์ DK (วรรค) หมายเลขบัตรเครดิต 12 หลักสุดท้าย มาที่ 4545888 (ครั้งละ 3 บาท)",
+			"categoryid": "55e02fd115a031ba093143ee",
+			"isAd": false
+		},
+		{
+			"title": "คืนเงิน 10% เมื่อใช้ point แลกเท่ายอดบิล",
+			"detail": "ส่ง SMS ลงทะเบียนพิมพ์ DP (วรรค) หมายเลขบัตรเครดิต 12 หลักสุดท้าย (วรรค) จำนวน point ที่ต้องการแลก มาที่ 4545888 (ครั้งละ 3 บาท)",
+			"categoryid": "55e02fd115a031ba093143ee",
+			"isAd": false
+		}
+	]
+}
