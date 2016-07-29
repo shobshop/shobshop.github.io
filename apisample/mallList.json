@@ -17,7 +17,7 @@
     "nameTh": "ชื่อห้างภาษาไทย",
     "logo": "http://images.shobshop.com/central-salaya-logo.jpg",
     "cover": "http://images.shobshop.com/central-salaya-cover.jpg",
-    "display": false,
+    "display": true,
     "latitude": 13.786888,
     "longitude": 100.276558,
     "radius": 200
@@ -430,5 +430,5 @@
     "radius": 80
   }
 ],
-"version": 1468577771641
+"version": 1468577781641
 }
