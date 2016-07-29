@@ -6,7 +6,7 @@
     "nameTh": "ชื่อห้างภาษาไทย",
     "logo": "http://images.shobshop.com/central-embassy-logo.jpg",
     "cover": "http://images.shobshop.com/central-embassy-cover.jpg",
-    "display": true,
+    "display": false,
     "latitude": 13.743946,
     "longitude": 100.546666,
     "radius": 150
@@ -430,5 +430,5 @@
     "radius": 80
   }
 ],
-"version": 1468577791641
+"version": 1468577801641
 }
