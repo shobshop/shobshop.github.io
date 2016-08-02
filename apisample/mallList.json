@@ -6,7 +6,7 @@
     "nameTh": "ชื่อห้างภาษาไทย",
     "logo": "http://images.shobshop.com/central-embassy-logo.jpg",
     "cover": "http://images.shobshop.com/central-embassy-cover.jpg",
-    "display": false,
+    "display": true,
     "latitude": 13.743946,
     "longitude": 100.546666,
     "radius": 150
@@ -28,7 +28,7 @@
     "nameTh": "ชื่อห้างภาษาไทย",
     "logo": "http://images.shobshop.com/central-chidlom-logo.jpg",
     "cover": "http://images.shobshop.com/central-chidlom-cover.jpg",
-    "display": false,
+    "display": true,
     "latitude": 13.74427,
     "longitude": 100.544636,
     "radius": 150
@@ -39,7 +39,7 @@
     "nameTh": "ชื่อห้างภาษาไทย",
     "logo": "http://images.shobshop.com/central-world-logo.jpg",
     "cover": "http://images.shobshop.com/central-world-cover.jpg",
-    "display": false,
+    "display": true,
     "latitude": 13.746596,
     "longitude": 100.5392832,
     "radius": 250
@@ -430,5 +430,5 @@
     "radius": 80
   }
 ],
-"version": 1468577801641
+"version": 1468577811641
 }
