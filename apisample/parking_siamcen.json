@@ -1,0 +1,380 @@
+{
+	"rates": [
+		{
+			"weekday": {
+				"name": "ฟรี 30 นาทีแรก (จันทร์ - ศุกร์)",
+				"table": [
+					{
+						"time": 30,
+						"price": 0
+					},
+					{
+						"time": 90,
+						"price": 60
+					},
+					{
+						"time": 150,
+						"price": 60
+					},
+					{
+						"time": 210,
+						"price": 90
+					},
+					{
+						"time": 270,
+						"price": 120
+					},
+					{
+						"time": 330,
+						"price": 150
+					},
+					{
+						"time": 390,
+						"price": 180
+					},
+					{
+						"time": 450,
+						"price": 240
+					},
+					{
+						"time": 510,
+						"price": 300
+					},
+					{
+						"time": 570,
+						"price": 360
+					},
+					{
+						"time": 630,
+						"price": 420
+					},
+					{
+						"time": 690,
+						"price": 480
+					},
+					{
+						"time": 750,
+						"price": 540
+					},
+					{
+						"time": 810,
+						"price": 600
+					},
+					{
+						"time": 870,
+						"price": 660
+					},
+					{
+						"time": 930,
+						"price": 720
+					},
+					{
+						"time": 990,
+						"price": 780
+					}
+				]
+			},
+			"weekday": {
+				"name": "ฟรี 30 นาทีแรก (จันทร์ - ศุกร์)",
+				"table": [
+					{
+						"time": 30,
+						"price": 0
+					},
+					{
+						"time": 90,
+						"price": 60
+					},
+					{
+						"time": 150,
+						"price": 60
+					},
+					{
+						"time": 210,
+						"price": 90
+					},
+					{
+						"time": 270,
+						"price": 120
+					},
+					{
+						"time": 330,
+						"price": 150
+					},
+					{
+						"time": 390,
+						"price": 180
+					},
+					{
+						"time": 450,
+						"price": 240
+					},
+					{
+						"time": 510,
+						"price": 300
+					},
+					{
+						"time": 570,
+						"price": 360
+					},
+					{
+						"time": 630,
+						"price": 420
+					},
+					{
+						"time": 690,
+						"price": 480
+					},
+					{
+						"time": 750,
+						"price": 540
+					},
+					{
+						"time": 810,
+						"price": 600
+					},
+					{
+						"time": 870,
+						"price": 660
+					},
+					{
+						"time": 930,
+						"price": 720
+					},
+					{
+						"time": 990,
+						"price": 780
+					}
+				]
+			}
+		},
+		{
+			"default": {
+				"name": "ฟรี 4 ชั่วโมงแรก เมื่อใช้จ่ายครบ 800 บาท",
+				"table": [
+					{
+						"time": 30,
+						"price": 0
+					},
+					{
+						"time": 90,
+						"price": 0
+					},
+					{
+						"time": 150,
+						"price": 0
+					},
+					{
+						"time": 210,
+						"price": 0
+					},
+					{
+						"time": 270,
+						"price": 0
+					},
+					{
+						"time": 330,
+						"price": 30
+					},
+					{
+						"time": 390,
+						"price": 60
+					},
+					{
+						"time": 450,
+						"price": 120
+					},
+					{
+						"time": 510,
+						"price": 180
+					},
+					{
+						"time": 570,
+						"price": 240
+					},
+					{
+						"time": 630,
+						"price": 300
+					},
+					{
+						"time": 690,
+						"price": 360
+					},
+					{
+						"time": 750,
+						"price": 420
+					},
+					{
+						"time": 810,
+						"price": 480
+					},
+					{
+						"time": 870,
+						"price": 540
+					},
+					{
+						"time": 930,
+						"price": 600
+					},
+					{
+						"time": 990,
+						"price": 660
+					}
+				]
+			}
+		},
+		,
+		{
+			"default": {
+				"name": "ฟรี 6 ชั่วโมงแรก เมื่อใช้จ่ายครบ 3000 บาท",
+				"table": [
+					{
+						"time": 30,
+						"price": 0
+					},
+					{
+						"time": 90,
+						"price": 0
+					},
+					{
+						"time": 150,
+						"price": 0
+					},
+					{
+						"time": 210,
+						"price": 0
+					},
+					{
+						"time": 270,
+						"price": 0
+					},
+					{
+						"time": 330,
+						"price": 0
+					},
+					{
+						"time": 390,
+						"price": 0
+					},
+					{
+						"time": 450,
+						"price": 60
+					},
+					{
+						"time": 510,
+						"price": 120
+					},
+					{
+						"time": 570,
+						"price": 180
+					},
+					{
+						"time": 630,
+						"price": 240
+					},
+					{
+						"time": 690,
+						"price": 300
+					},
+					{
+						"time": 750,
+						"price": 360
+					},
+					{
+						"time": 810,
+						"price": 420
+					},
+					{
+						"time": 870,
+						"price": 480
+					},
+					{
+						"time": 930,
+						"price": 540
+					},
+					{
+						"time": 990,
+						"price": 600
+					}
+				]
+			}
+		},
+		,
+		{
+			"default": {
+				"name": "ฟรี 8 ชั่วโมงแรก เมื่อใช้จ่ายครบ 6000 บาท",
+				"table": [
+					{
+						"time": 30,
+						"price": 0
+					},
+					{
+						"time": 90,
+						"price": 0
+					},
+					{
+						"time": 150,
+						"price": 0
+					},
+					{
+						"time": 210,
+						"price": 0
+					},
+					{
+						"time": 270,
+						"price": 0
+					},
+					{
+						"time": 330,
+						"price": 0
+					},
+					{
+						"time": 390,
+						"price": 0
+					},
+					{
+						"time": 450,
+						"price": 0
+					},
+					{
+						"time": 510,
+						"price": 0
+					},
+					{
+						"time": 570,
+						"price": 60
+					},
+					{
+						"time": 630,
+						"price": 120
+					},
+					{
+						"time": 690,
+						"price": 180
+					},
+					{
+						"time": 750,
+						"price": 240
+					},
+					{
+						"time": 810,
+						"price": 300
+					},
+					{
+						"time": 870,
+						"price": 360
+					},
+					{
+						"time": 930,
+						"price": 420
+					},
+					{
+						"time": 990,
+						"price": 480
+					}
+				]
+			}
+		}
+	],
+	"version": 1468577801641
+}
