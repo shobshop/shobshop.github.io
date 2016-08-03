@@ -12,17 +12,17 @@
     "stores": [{
         "id": "5773d671d22a66892a6b252a",
         "name": "BLACK CANYON COFFEE",
-        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014716-71e515d8-sq.png",
+        "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/03/20160403143339-e7e5b2a1-th.png",
         "floor": "4",
         "tags": ["5760feb6f6dc72f806a5e535", "576d20ef44dd4961196995fe"],
-        "hasCover": true
+        "cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014716-71e515d8-sm.png"
     }, {
         "id": "5773d50cd39ec9482aee5112",
         "name": "CHINA WHITE",
-        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014919-04b91c14-sq.png",
+        "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/27/20160627045818-49e0f01a-th.png",
         "floor": "4",
         "tags": ["5760feb6f6dc72f806a5e530", "576d20ef44dd4961196995fe"],
-        "hasCover": true
+        "cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014919-04b91c14-sm.png"
     }],
     "version": 1468577811641
 }
