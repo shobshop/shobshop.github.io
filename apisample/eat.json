@@ -1,0 +1,28 @@
+﻿{
+    "tags": [{
+        "id": "5760feb6f6dc72f806a5e535",
+        "name": "อเมริกัน"
+    }, {
+        "id": "576d20ef44dd4961196995fe",
+        "name": "เบเกอรี่"
+    }, {
+        "id": "5760feb6f6dc72f806a5e530",
+        "name": "จีน"
+    }],
+    "stores": [{
+        "id": "5773d671d22a66892a6b252a",
+        "name": "BLACK CANYON COFFEE",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014716-71e515d8-sq.png",
+        "floor": "4",
+        "tags": ["5760feb6f6dc72f806a5e535", "576d20ef44dd4961196995fe"],
+        "hasCover": true
+    }, {
+        "id": "5773d50cd39ec9482aee5112",
+        "name": "CHINA WHITE",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014919-04b91c14-sq.png",
+        "floor": "4",
+        "tags": ["5760feb6f6dc72f806a5e530", "576d20ef44dd4961196995fe"],
+        "hasCover": true
+    }],
+    "version": 1468577811641
+}
