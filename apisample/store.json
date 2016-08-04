@@ -1,0 +1,71 @@
+﻿{
+    "id": "5773d671d22a66892a6b252a",
+    "name": "BLACK CANYON COFFEE",
+    "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/03/20160403143339-e7e5b2a1-th.png",
+    "floor": "4",
+    "tags": ["อเมริกัน", "จีน"],
+    "cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/29/20160629014716-71e515d8-sm.png",
+    "mapId": "574818d55ad19e6406a88827",
+    "telephone": [
+        "022522877"
+    ],
+    "images": [{
+        "preview": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/28/20160628045433-ae21e1a7-th.jpg",
+        "fullsize": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/28/20160628045433-ae21e1a7-sm.jpg"
+    }, {
+        "preview": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/28/20160628045440-9e81d3b5-th.jpg",
+        "fullsize": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/28/20160628045433-ae21e1a7-sm.jpg"
+    }, {
+        "preview": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/28/20160628045440-9e81d3b5-th.jpg",
+        "fullsize": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/28/20160628045440-9e81d3b5-sm.jpg"
+    }, {
+        "preview": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/28/20160628045429-f573deaf-th.jpg",
+        "fullsize": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/28/20160628045429-f573deaf-sm.jpg"
+    }, {
+        "preview": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/28/20160628045505-2e93bf2f-th.jpg",
+        "fullsize": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/28/20160628045505-2e93bf2f-sm.jpg"
+    }, {
+        "preview": "http://www.shobshop.co/piwigo/_data/i/upload/2016/06/28/20160628045501-ee7e871d-th.jpg",
+        "fullsize": "http://www.shobshop.co/piwigo/i.php?/upload/2016/06/28/20160628045501-ee7e871d-sm.jpg"
+    }],
+    "promotions": [{
+        "id": "571a08edff9a83eb671a555b",
+        "title": "Sizzler Beef Promotion ราคาพิเศษ",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/04/22/20160422071405-ce4eef7e.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/04/03/20160403143548-8bc845ea-sq.png"
+    }],
+    "privilegePromotions": [{
+        "title": "คืนเงิน 10% เมื่อใช้ point แลกเท่ายอดบิล",
+        "bankName": "KBank",
+        "bankLogo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/11/04/20151104030248-cd824d58-sq.png",
+        "details": "ส่ง SMS ลงทะเบียนพิมพ์ DP (วรรค) หมายเลขบัตรเครดิต 12 หลักสุดท้าย (วรรค) จำนวนคะแนนที่ต้องการแลก มาที่ 4545888 (ครั้งละ 3 บาท)",
+        "sms": {
+            "number": "4545888",
+            "body": "DP $card $point",
+            "param": [{
+                "name": "$card",
+                "label": "หมายเลขบัตรเครดิต 12 หลักท้าย"
+            }, {
+                "name": "$point",
+                "label": "จำนวนคะแนนที่ต้องการแลก"
+            }]
+        },
+        "source": "http://kbankcard.askkbank.com/TH/E-Newsletter/PublishingImages/DiningFestival-EDM20160630.jpg",
+        "isAd": false
+    }, {
+        "title": "คืนเงิน 50 บาท เมื่อใช้จ่ายขั้นต่ำครบ 1000 บาท/เซลล์สลิป",
+        "bankName": "KBank",
+        "bankLogo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/11/04/20151104030248-cd824d58-sq.png",
+        "details": "ส่ง SMS ลงทะเบียนพิมพ์ DK (วรรค) หมายเลขบัตรเครดิต 12 หลักสุดท้าย มาที่ 4545888 (ครั้งละ 3 บาท)",
+        "sms": {
+            "number": "4545888",
+            "body": "DK $card",
+            "param": [{
+                "name": "$card",
+                "label": "หมายเลขบัตรเครดิต 12 หลักท้าย"
+            }]
+        },
+        "source": "http://kbankcard.askkbank.com/TH/E-Newsletter/PublishingImages/DiningFestival-EDM20160630.jpg",
+        "isAd": false
+    }]
+}
