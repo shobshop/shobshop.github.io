@@ -1,0 +1,673 @@
+{
+    "rootDirectory": "5747de424b3abd4d055416c7",
+    "directories": {
+        "5747de424b3abd4d055416c7": {
+            "name": "Root",
+            "directories": [
+                "5747df6b4b3abd4d055416c8",
+                "5747df6b4b3abd4d055416c9",
+                "5747df6b4b3abd4d055416ca",
+                "5747df6b4b3abd4d055416cb",
+                "5747df6b4b3abd4d055416cd",
+                "5747df6b4b3abd4d055416cc",
+                "5747df6b4b3abd4d055416ce",
+                "5747df6b4b3abd4d055416cf",
+                "5747df794b3abd4d055416d8",
+                "5747e0e24b3abd4d055416da",
+                "5747e0e24b3abd4d055416db",
+                "5747e0e34b3abd4d055416de"
+            ]
+        },
+        "5747e4434b3abd4d055416ea": {
+            "name": "Wi-Fi"
+        },
+        "5747f7054b3abd4d055416f2": {
+            "name": "ที่จอดรถ",
+            "directories": [
+                "5747f7554b3abd4d055416f4",
+                "5747f7554b3abd4d055416f5",
+                "5747f7554b3abd4d055416f6",
+                "5747f7554b3abd4d055416f7",
+                "5747f7554b3abd4d055416f8",
+                "5747f7554b3abd4d055416f9",
+                "5747f7554b3abd4d055416fa",
+                "5788b13279c1ed412919138d",
+                "5747f7564b3abd4d05541702"
+            ]
+        },
+        "5747f9404b3abd4d05541707": {
+            "name": "MRT"
+        },
+        "5747f9404b3abd4d05541706": {
+            "name": "BTS"
+        },
+        "5747f8c24b3abd4d05541704": {
+            "name": "การเดินทาง",
+            "directories": [
+                "5747f9404b3abd4d05541706",
+                "5747f9404b3abd4d05541707",
+                "5747f9404b3abd4d05541708",
+                "5747f9404b3abd4d05541709",
+                "5747f9404b3abd4d0554170a",
+                "5747f9404b3abd4d0554170b",
+                "5747f9404b3abd4d0554170c",
+                "5747f9404b3abd4d0554170d",
+                "5747f9424b3abd4d05541716"
+            ]
+        },
+        "5747e0e24b3abd4d055416db": {
+            "name": "ATM",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051659-3e1fba94.png"
+        },
+        "5747f5b84b3abd4d055416f0": {
+            "name": "ห้องเปลี่ยนผ้าอ้อมเด็ก"
+        },
+        "5747e2234b3abd4d055416e1": {
+            "name": "ห้องน้ำเด็ก"
+        },
+        "5747fab34b3abd4d05541718": {
+            "name": "ครอบครัวและเด็ก",
+            "directories": [
+                "5747fb294b3abd4d0554171a",
+                "5747f5b84b3abd4d055416f0",
+                "5788b13279c1ed412919138e",
+                "5747fb374b3abd4d0554171c",
+                "5747fb374b3abd4d0554171d",
+                "5747fb384b3abd4d0554171e"
+            ]
+        },
+        "5747ffb44b3abd4d05541734": {
+            "name": "อื่นๆ",
+            "directories": [
+                "574800124b3abd4d05541736",
+                "574800124b3abd4d05541737",
+                "574800124b3abd4d05541738",
+                "574800124b3abd4d05541739",
+                "574800124b3abd4d0554173a",
+                "574800134b3abd4d05541740",
+                "5788b13379c1ed4129191399"
+            ]
+        },
+        "5747df6b4b3abd4d055416c8": {
+            "name": "ร้านอาหาร",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051642-004569c4.png"
+        },
+        "5747df6b4b3abd4d055416c9": {
+            "name": "แฟชั่น",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051644-d6c07db7.png"
+        },
+        "5747df6b4b3abd4d055416ca": {
+            "name": "ความงาม",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051646-caac8706.png"
+        },
+        "5747df6b4b3abd4d055416cc": {
+            "name": "ไลฟ์สไตล์",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051650-e333eaed.png"
+        },
+        "5747df6b4b3abd4d055416cd": {
+            "name": "สินค้า IT",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051651-caad28e3.png"
+        },
+        "5747df6b4b3abd4d055416ce": {
+            "name": "ธนาคาร",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051653-c6bb1974.png"
+        },
+        "5747df6b4b3abd4d055416cf": {
+            "name": "ความบันเทิง",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051655-9e0ec32a.png"
+        },
+        "5747df794b3abd4d055416d8": {
+            "name": "ร้านบริการ",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051656-53438813.png"
+        },
+        "5747e0e24b3abd4d055416da": {
+            "name": "ห้องน้ำ",
+            "directories": [
+                "5747e2234b3abd4d055416e0",
+                "5747e2264b3abd4d055416e4",
+                "5747e2234b3abd4d055416e1",
+                "5747f5b84b3abd4d055416f0"
+            ],
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051658-7a10d71f.png"
+        },
+        "5788b13279c1ed412919138b": {
+            "name": "ลูกค้าสัมพันธ์"
+        },
+        "5788b13279c1ed412919138c": {
+            "name": "แจ้ง-รับของหาย"
+        },
+        "5788b13279c1ed412919138d": {
+            "name": "ห้องรอรับรถ"
+        },
+        "5788b13279c1ed412919138e": {
+            "name": "ห้องให้นมบุตร"
+        },
+        "5788b13279c1ed412919138f": {
+            "name": "Tourist Information Center"
+        },
+        "5788b13279c1ed4129191390": {
+            "name": "Tourist Lounge"
+        },
+        "5788b13279c1ed4129191391": {
+            "name": "Interpreter Service"
+        },
+        "5788b13379c1ed4129191399": {
+            "name": "บริการช่วยถือของ"
+        },
+        "5747e41a4b3abd4d055416e6": {
+            "name": "บริการทั่วไป",
+            "directories": [
+                "5747e4434b3abd4d055416e8",
+                "5788b13279c1ed412919138b",
+                "5747e4434b3abd4d055416e9",
+                "5788b13279c1ed412919138c",
+                "5747e4434b3abd4d055416ea",
+                "5747e4444b3abd4d055416ee"
+            ]
+        },
+        "5747fc0f4b3abd4d05541722": {
+            "name": "Tourist",
+            "directories": [
+                "5747fc414b3abd4d05541724",
+                "5747fc414b3abd4d05541725",
+                "5788b13279c1ed412919138f",
+                "5788b13279c1ed4129191390",
+                "5788b13279c1ed4129191391"
+            ]
+        },
+        "5747df6b4b3abd4d055416cb": {
+            "name": "นาฬิกาและเครื่องประดับ",
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051648-9074afbe.png"
+        },
+        "5747e0e34b3abd4d055416de": {
+            "name": "สิ่งอำนวยความสะดวก",
+            "directories": [
+                "5747e41a4b3abd4d055416e6",
+                "5747f7054b3abd4d055416f2",
+                "5747f8c24b3abd4d05541704",
+                "5747fab34b3abd4d05541718",
+                "5747fc0f4b3abd4d05541722",
+                "5747fcd24b3abd4d05541728",
+                "5747ff874b3abd4d05541732",
+                "5747ffb44b3abd4d05541734"
+            ],
+            "icon": "http://piwigo.shobshop.co/upload/2016/07/14/20160714051701-474ad6c9.png"
+        },
+        "5747e2264b3abd4d055416e4": {
+            "name": "ห้องน้ำคนพิการ"
+        },
+        "5747ff874b3abd4d05541732": {
+            "name": "ทางเข้า-ออก"
+        },
+        "5747e4434b3abd4d055416e8": {
+            "name": "ประชาสัมพันธ์"
+        },
+        "5747f7554b3abd4d055416f6": {
+            "name": "ที่จอดรถสุภาพสตรี"
+        },
+        "5747f7554b3abd4d055416f5": {
+            "name": "บริการรับจอดรถ"
+        },
+        "5747f7554b3abd4d055416f4": {
+            "name": "ที่จอดรถ"
+        },
+        "5747f7554b3abd4d055416f7": {
+            "name": "ที่จอดรถผู้พิการ"
+        },
+        "5747e2234b3abd4d055416e0": {
+            "name": "ห้องน้ำ"
+        },
+        "5747fcd24b3abd4d05541728": {
+            "name": "ลิฟต์/บันไดเลื่อน",
+            "directories": [
+                "5747fd114b3abd4d0554172a",
+                "5747fd114b3abd4d0554172b",
+                "5747fd114b3abd4d0554172c",
+                "5747fd114b3abd4d0554172d"
+            ]
+        },
+        "5747e4444b3abd4d055416ee": {
+            "name": "หน่วยรักษาความปลอดภัย"
+        },
+        "5747f9404b3abd4d0554170d": {
+            "name": "บริการรถลิมูซีน"
+        },
+        "5747e4434b3abd4d055416e9": {
+            "name": "รับฝากกระเป๋า"
+        },
+        "574800124b3abd4d0554173a": {
+            "name": "จุดนัดพบ"
+        },
+        "5747fc414b3abd4d05541724": {
+            "name": "VAT Refund"
+        },
+        "5747f7554b3abd4d055416fa": {
+            "name": "ห้องพักคนขับรถ"
+        },
+        "5747fd114b3abd4d0554172d": {
+            "name": "บันได"
+        },
+        "5747fb374b3abd4d0554171d": {
+            "name": "บริการรถกอล์ฟ"
+        },
+        "5747f7564b3abd4d05541702": {
+            "name": "ที่จอดรถบัส"
+        },
+        "5747f9404b3abd4d0554170c": {
+            "name": "ศูนย์การขนส่ง"
+        },
+        "5747f9404b3abd4d0554170b": {
+            "name": "ห้องรอแท็กซี่"
+        },
+        "5747f7554b3abd4d055416f8": {
+            "name": "ที่จอดรถสำรองพิเศษ"
+        },
+        "5747f9404b3abd4d05541709": {
+            "name": "จุดเรียกแท็กซี่"
+        },
+        "5747f9424b3abd4d05541716": {
+            "name": "บริการรถบัส รับ-ส่ง"
+
+        },
+        "5747fc414b3abd4d05541725": {
+            "name": "Currency Exchange"
+        },
+        "5747f7554b3abd4d055416f9": {
+            "name": "ที่จอดรถสำหรับครอบครัว"
+        },
+        "5747f9404b3abd4d05541708": {
+            "name": "ป้ายรถประจำทาง"
+        },
+        "5747f9404b3abd4d0554170a": {
+            "name": "จุดส่งผู้โดยสาร"
+        },
+        "5747fb294b3abd4d0554171a": {
+            "name": "รถเข็นเด็ก"
+        },
+        "5747fb374b3abd4d0554171c": {
+            "name": "จุดบริการรถเข็น"
+        },
+        "5747fd114b3abd4d0554172a": {
+            "name": "ลิฟต์"
+        },
+        "5747fd114b3abd4d0554172b": {
+            "name": "บันไดเลื่อน"
+        },
+        "5747fb384b3abd4d0554171e": {
+            "name": "ห้องสำหรับครอบครัว"
+        },
+        "574800124b3abd4d05541738": {
+            "name": "ห้องละหมาด"
+        },
+        "5747fd114b3abd4d0554172c": {
+            "name": "ลิฟต์ผู้พิการ"
+        },
+        "574800124b3abd4d05541739": {
+            "name": "โทรศัพท์สาธารณะ"
+        },
+        "574800124b3abd4d05541737": {
+            "name": "ห้องสูบบุหรี่"
+        },
+        "574800124b3abd4d05541736": {
+            "name": "ห้องปฐมพยาบาล"
+        },
+        "574800134b3abd4d05541740": {
+            "name": "จุดเรียกบริการ"
+        }
+    },
+    "stores": {
+        "5773d5a23f69b0672aa22a44": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "MUANG THAI GMM LIVE HOUSE",
+            "type": "shop",
+            "svgId": "a801",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cf"
+            ]
+        },
+        "5773d5a2d39ec9482aee51a6": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "THE SKIN DOCTORS",
+            "type": "shop",
+            "svgId": "d801-d803-m",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416ca"
+            ]
+        },
+        "5773d5a2d39ec9482aee51a7": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "ลิฟต์",
+            "type": "sign",
+            "svgId": "lift",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747fd114b3abd4d0554172a"
+            ]
+        },
+        "5773d5a23f69b0672aa22a45": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "SF WORLD CINEMA",
+            "type": "shop",
+            "svgId": "sf-world-cinema",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cf"
+            ]
+        },
+        "5773d5a23f69b0672aa22a46": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "TK PARK",
+            "type": "shop",
+            "svgId": "d802",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d5a33f69b0672aa22a47": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "ห้องน้ำ",
+            "type": "sign",
+            "svgId": "toilet",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747e2234b3abd4d055416e0"
+            ]
+        },
+        "5773d5a3d39ec9482aee51a8": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "ที่จอดรถ",
+            "type": "sign",
+            "svgId": "parking",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747f7554b3abd4d055416f4"
+            ]
+        },
+        "5773d5a3d22a66892a6b2524": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "ทางเข้า-ออก",
+            "type": "sign",
+            "svgId": "entrance",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747ff874b3abd4d05541732"
+            ]
+        },
+        "5773d5a2d22a66892a6b2523": {
+            "mapId": "574818d55ad19e6406a88829",
+            "name": "บันไดเลื่อน",
+            "type": "sign",
+            "svgId": "escalator",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747fd114b3abd4d0554172b"
+            ]
+        },
+        "5773d5323f69b0672aa229c1": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "P9 BY STUDIO 128",
+            "type": "shop",
+            "svgId": "a504",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d5323f69b0672aa229c2": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "PROFLEX",
+            "type": "shop",
+            "svgId": "a501",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d5323f69b0672aa229c3": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "GRACE FURNITURE",
+            "type": "shop",
+            "svgId": "a505",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d39ec9482aee514d": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "PRIMA RICHY",
+            "type": "shop",
+            "svgId": "a502",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d22a66892a6b24f8": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "SONGKIT",
+            "type": "shop",
+            "svgId": "a507",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d39ec9482aee514e": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "STUDIO 128",
+            "type": "shop",
+            "svgId": "a506",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d5323f69b0672aa229c4": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "KONGKA FURNITURE",
+            "type": "shop",
+            "svgId": "a508",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d5323f69b0672aa229c5": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "MEDIVISAGE CLINIQUE",
+            "type": "shop",
+            "svgId": "a509",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416ca"
+            ]
+        },
+        "5773d5323f69b0672aa229c6": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "PERFECT FURNITURE",
+            "type": "shop",
+            "svgId": "a510",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d39ec9482aee514f": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "TMD",
+            "type": "shop",
+            "svgId": "a512",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d22a66892a6b24f9": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "LOGICA OFFICE FURNITURE",
+            "type": "shop",
+            "svgId": "a513",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d39ec9482aee5150": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "HOME & DESIGN",
+            "type": "shop",
+            "svgId": "a511",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ],
+            "createdAt": "2016-06-29T14:03:30.476Z",
+            "updatedAt": "2016-08-03T11:59:25.408Z",
+            "id":
+        },
+        "5773d5323f69b0672aa229c7": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "",
+            "type": "shop",
+            "svgId": "a514",
+            "inMap": false,
+            "inDirectory": false
+        },
+        "5773d5323f69b0672aa229c8": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "YACHON",
+            "type": "shop",
+            "svgId": "a515",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d5323f69b0672aa229c9": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "APINA",
+            "type": "shop",
+            "svgId": "a516",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d39ec9482aee5151": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "SESIA",
+            "type": "shop",
+            "svgId": "a518",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d22a66892a6b24fa": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "SIMMONS",
+            "type": "shop",
+            "svgId": "b501",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416cc"
+            ]
+        },
+        "5773d532d39ec9482aee5152": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "PERFECT SLIM",
+            "type": "shop",
+            "svgId": "b502",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416ca"
+            ]
+        },
+        "5773d5323f69b0672aa229ca": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "SLIMMING PLUS",
+            "type": "shop",
+            "svgId": "b502-1",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416ca"
+            ]
+        },
+        "5773d5323f69b0672aa229cb": {
+            "mapId": "574818d55ad19e6406a88826",
+            "name": "IMMAGINA & DAISY DIVA",
+            "type": "shop",
+            "svgId": "b503",
+            "inMap": true,
+            "inDirectory": true,
+            "directories": [
+                "5747df6b4b3abd4d055416ca"
+            ]
+        },
+    },
+    "maps": [{
+        "floor": "1",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_1F.svg",
+        "id": "574818d55ad19e6406a88822"
+    }, {
+        "floor": "2",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_2F.svg",
+        "id": "574818d55ad19e6406a88823"
+    }, {
+        "floor": "3",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_3F.svg",
+        "id": "574818d55ad19e6406a88824"
+    }, {
+        "floor": "4",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_4F.svg",
+        "id": "574818d55ad19e6406a88825"
+    }, {
+        "floor": "5",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_5F.svg",
+        "id": "574818d55ad19e6406a88826"
+    }, {
+        "floor": "6",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_6F.svg",
+        "id": "574818d55ad19e6406a88827"
+    }, {
+        "floor": "7",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_7F.svg",
+        "id": "574818d55ad19e6406a88828"
+    }, {
+        "floor": "8",
+        "mapFile": "http://shobshop.github.io/images/central_world/central_world_8F.svg",
+        "id": "574818d55ad19e6406a88829"
+    }],
+    "version": 1468577811641
+}
