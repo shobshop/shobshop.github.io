@@ -545,10 +545,7 @@
             "inDirectory": true,
             "directories": [
                 "5747df6b4b3abd4d055416cc"
-            ],
-            "createdAt": "2016-06-29T14:03:30.476Z",
-            "updatedAt": "2016-08-03T11:59:25.408Z",
-            "id":
+            ]
         },
         "5773d5323f69b0672aa229c7": {
             "mapId": "574818d55ad19e6406a88826",
@@ -634,7 +631,7 @@
             "directories": [
                 "5747df6b4b3abd4d055416ca"
             ]
-        },
+        }
     },
     "maps": [{
         "floor": "1",
