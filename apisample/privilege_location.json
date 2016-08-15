@@ -1,0 +1,43 @@
+﻿[{
+    "id": "5785f29757ec24b57c667516",
+    "cardName": "Krungsri Platinum",
+    "cardImage": "http://www.shobshop.co/piwigo/upload/2016/07/13/20160713034424-fe054ba3.png",
+    "bankLogo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326001110-94c73a5c-sq.png",
+    "bankName": "Krungsri",
+    "promotions": [{
+        "id": "57863136df1fd58c7d46a5e0",
+        "title": "Saboten ส่วนลด 10% สิทธิพิเศษสำหรับบัตรเครดิต Krungsri",
+        "updatedAt": "2016-07-21T12:03:23.542Z",
+        "end": "2016-08-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/13/20160713080733-7a8e8497.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/05/09/20160509041334-87e0c256-sq.png"
+    },{
+        "id": "5787cd936321111a3c80d809",
+        "title": "Nara Dining Experience ส่วนลด 10% สิทธิพิเศษสำหรับบัตรเครดิต Krungsri",
+        "updatedAt": "2016-07-14T17:36:37.027Z",
+        "end": "2017-03-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/13/20160713080646-1a6b4c1a.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/04/07/20160407043618-9e167273-sq.jpg"
+    }]
+},{
+    "id": "578479d7416b427b4403baeb",
+    "cardName": "Kbank Wisdom Credit Card",
+    "cardImage": "http://www.shobshop.co/piwigo/i.php?/upload/2016/07/12/20160712010134-fc94e8dd-sm.png",
+    "bankLogo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/11/04/20151104030248-cd824d58-sq.png",
+    "bankName": "KBank",
+    "promotions": [{
+        "id": "5782a3274eec63096ea2a2b5",
+        "title": "Coca รับส่วนลดค่าอาหาร 10% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
+        "updatedAt": "2016-07-10T19:34:15.628Z",
+        "end": "2016-12-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/10/20160710152836-e43c6b5e.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/05/06/20160506052831-a8c3d744-sq.jpg"
+    },{
+        "id": "578332ca77d32896347d0f74",
+        "title": "On The Table รับเงินคืน 15% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
+        "updatedAt": "2016-07-12T05:15:28.928Z",
+        "end": "2016-09-30T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/11/20160711011024-6d5d824f.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/04/03/20160403143518-dfc5f903-sq.png"
+    }]
+}]
