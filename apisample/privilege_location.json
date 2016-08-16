@@ -2,8 +2,8 @@
     "id": "5785f29757ec24b57c667516",
     "cardName": "Krungsri Platinum",
     "cardImage": "http://www.shobshop.co/piwigo/upload/2016/07/13/20160713034424-fe054ba3.png",
-    "bankLogo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326001110-94c73a5c-sq.png",
-    "bankName": "Krungsri",
+    "companyLogo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326001110-94c73a5c-sq.png",
+    "companyName": "Krungsri",
     "promotions": [{
         "id": "57863136df1fd58c7d46a5e0",
         "title": "Saboten ส่วนลด 10% สิทธิพิเศษสำหรับบัตรเครดิต Krungsri",
@@ -23,8 +23,8 @@
     "id": "578479d7416b427b4403baeb",
     "cardName": "Kbank Wisdom Credit Card",
     "cardImage": "http://www.shobshop.co/piwigo/i.php?/upload/2016/07/12/20160712010134-fc94e8dd-sm.png",
-    "bankLogo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/11/04/20151104030248-cd824d58-sq.png",
-    "bankName": "KBank",
+    "companyLogo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/11/04/20151104030248-cd824d58-sq.png",
+    "companyName": "KBank",
     "promotions": [{
         "id": "5782a3274eec63096ea2a2b5",
         "title": "Coca รับส่วนลดค่าอาหาร 10% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
