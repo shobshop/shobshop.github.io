@@ -1,0 +1,40 @@
+﻿{
+    "companies": [{
+        "companyLogo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326001110-94c73a5c-sq.png",
+        "companyName": "Krungsri",
+        "privileges": [{
+            "id": "5785f29757ec24b57c667516",
+            "cardName": "Krungsri Platinum",
+            "cardImage": "http://www.shobshop.co/piwigo/upload/2016/07/13/20160713034424-fe054ba3.png"
+        },{
+            "id": "5785f26d57ec24b57c667515",
+            "cardName": "Krungsri JCB Platinum",
+            "cardImage": "http://www.shobshop.co/piwigo/upload/2016/07/13/20160713034431-5b475daa.png"
+        }]
+    },{
+        "companyLogo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/11/04/20151104030248-cd824d58-sq.png",
+        "companyName": "KBank",
+        "privileges": [{
+            "id": "578479d7416b427b4403baeb",
+            "cardName": "Kbank Wisdom Credit Card",
+            "cardImage": "http://www.shobshop.co/piwigo/i.php?/upload/2016/07/12/20160712010134-fc94e8dd-sm.png"
+        }]
+    },{
+        "companyLogo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326001105-88894c9c-sq.png",
+        "companyName": "citibank",
+        "privileges": [{
+            "id": "560831edd94337802bae5c98",
+            "cardName": "Citibank Ultima",
+            "cardImage": "http://piwigo.shobshop.co/i.php?/upload/2015/09/27/20150927135927-a24261d8-sm.jpg"
+        },{
+            "id": "56083192d94337802bae5c91",
+            "cardName": "Citibank M Visa Classic",
+            "cardImage": "http://piwigo.shobshop.co/i.php?/upload/2015/09/27/20150927140001-47e51582-sm.jpg"
+        },{
+            "id": "5554796dc85ae61200673238",
+            "cardName": "Citibank Royal Orchid Plus Preferred",
+            "cardImage": "http://piwigo.shobshop.co/i.php?/upload/2015/09/27/20150927135907-88b3514c-sm.jpg"
+        }]
+    }],
+    "version": 1468577811641
+}
