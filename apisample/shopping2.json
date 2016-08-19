@@ -1,0 +1,32 @@
+﻿{
+    "data": [{
+        "id": "5782a3274eec63096ea2a2b5",
+        "title": "Coca รับส่วนลดค่าอาหาร 10% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
+        "end": "2016-12-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/10/20160710152836-e43c6b5e.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/05/06/20160506052831-a8c3d744-sq.jpg",
+        "isFav": false
+    }, {
+        "id": "5782a3274eec63096ea2a2b5",
+        "title": "Coca รับส่วนลดค่าอาหาร 10% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
+        "end": "2016-12-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/10/20160710152836-e43c6b5e.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/05/06/20160506052831-a8c3d744-sq.jpg",
+        "isFav": false
+    }, {
+        "id": "5782a3274eec63096ea2a2b5",
+        "title": "Coca รับส่วนลดค่าอาหาร 10% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
+        "end": "2016-12-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/10/20160710152836-e43c6b5e.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/05/06/20160506052831-a8c3d744-sq.jpg",
+        "isFav": false
+    }, {
+        "id": "5782a3274eec63096ea2a2b5",
+        "title": "Coca รับส่วนลดค่าอาหาร 10% สิทธิพิเศษสำหรับบัตรเครดิต KBank",
+        "end": "2016-12-31T16:59:59.999Z",
+        "cover": "http://www.shobshop.co/piwigo/upload/2016/07/10/20160710152836-e43c6b5e.jpg",
+        "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2016/05/06/20160506052831-a8c3d744-sq.jpg",
+        "isFav": false
+    }],
+    "next": "http://shobshop.github.io/apisample/shopping3.json"
+}
