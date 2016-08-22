@@ -7,7 +7,7 @@
 	"id": "549beef129be2d1100b38b87",
 	"name": "AIIZ",
 	"logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000749-c52f23cc-sq.png",
-	"isChosen": false
+	"isChosen": true
 },{
 	"id": "549bf19b29be2d1100b38b8b",
 	"name": "Levi's",
@@ -22,7 +22,7 @@
 	"id": "551628edfd79d61200585230",
 	"name": "Zara",
 	"logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000921-dbf9caa8-sq.png",
-	"isChosen": false
+	"isChosen": true
 },{
 	"id": "5682b8fd08568acd4df7d448",
 	"name": "Adidas",
@@ -47,7 +47,7 @@
 	"id": "http://piwigo.shobshop.co/i.php?/upload/2015/10/15/20151015062144-04a5399e-sq.jpg",
 	"name": "Disaya",
 	"logo": "http://piwigo.shobshop.co/i.php?/upload/2015/10/15/20151015062144-04a5399e-sq.jpg",
-	"isChosen": false
+	"isChosen": true
 },{
 	"id": "56386de3143a4ed17de7b2a5",
 	"name": "Victoria's Secret",
