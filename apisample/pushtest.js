@@ -8,31 +8,6 @@ angular.module('pushTestApp', [])
     pushTest.openPageTarget = "/promotion/57d2aad8061c3a2926b4bf19";
     pushTest.result = "";
 
-    pushTest.todos = [
-      {text:'learn angular', done:true},
-      {text:'build an angular app', done:false}];
- 
-    pushTest.addTodo = function() {
-      pushTest.todos.push({text:pushTest.todoText, done:false});
-      pushTest.todoText = '';
-    };
- 
-    pushTest.remaining = function() {
-      var count = 0;
-      angular.forEach(pushTest.todos, function(todo) {
-        count += todo.done ? 0 : 1;
-      });
-      return count;
-    };
- 
-    pushTest.archive = function() {
-      var oldTodos = pushTest.todos;
-      pushTest.todos = [];
-      angular.forEach(oldTodos, function(todo) {
-        if (!todo.done) pushTest.todos.push(todo);
-      });
-    };
-
     pushTest.send = function () {
       var pushBody = {
         title: pushTest.title,
