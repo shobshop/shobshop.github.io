@@ -1,0 +1,26 @@
+﻿{
+	"success": true,
+	"id": "1234",
+	"campaignId": "57d2a9a7d4f3b44d0774ed4b",
+	"cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/09/16/20160916011536-8a4b188b-me.png",
+	"redeemStart": "2016-11-02T13:45:00.000Z",
+	"timeLimit": 21600,
+	"end": "2016-11-20T14:59:59.000Z",
+	"coupons": [
+		{
+			"redeemed": false,
+			"image": "http://shobshop.github.io/apisample/couponimages/malee_coupon.jpg",
+			"title": "รับน้ำผลไม้ Malee ฟรี! 1 กล่อง",
+			"description": "จำกัด 1 ท่าต่อ 1 สิทธิ์ ของสมนาคุณมีจำนวนจำกัด",
+			"couponCode": "M0001"
+		},
+		{
+			"redeemed": false,
+			"image": "http://shobshop.github.io/apisample/couponimages/flash-deal_coupon.jpg",
+			"title": "รับสิทธิ์ซื้อสินค้านาทีทองได้ทันที",
+			"description": "จำกัด 1 ท่าต่อ 1 สิทธิ์ต่อ 1 ใบเสร็จ กรุณาแสดงคูปองต่อพนักงานก่อนรับสิทธิ์",
+			"couponCode": "F0001"
+		}
+	],
+	"redeemDialogMessage": "กรุณาให้พนักงานกดเท่านั้น มิฉะนั้นจะถือว่าสละสิทธิ์"
+}
