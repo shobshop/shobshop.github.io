@@ -1,10 +1,10 @@
 ﻿{
 	"success": true,
 	"id": "1234",
-	"campaignId": "57d2a9a7d4f3b44d0774ed4c",
+	"campaignId": "57d2a9a7d4f3b44d0774ed4b",
 	"cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/09/16/20160916011536-8a4b188b-me.png",
 	"redeemStart": "2016-11-02T13:45:00.000Z",
-	"timeLimit": 21600,
+	"timeLimit": 86400,
 	"end": "2016-11-20T14:59:59.000Z",
 	"coupons": [
 		{
