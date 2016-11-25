@@ -46,16 +46,16 @@
                 "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/06/20160406125157-c0fe0072-th.png",
                 "floor": "ชั้น 2",
                 "tag": "อาหารญี่ปุ่น"
-            }, {
-                "template": "item",
-                "label": "HOT",
-                "publisher": "No Images",
-                "brandId": "57a05f2a15896e800b320e8a",
-                "id": "582ee7eb282e1f0500e69ef8",
-                "title": "H&M Holiday Deals เริ่มต้นที 50 บาท",
-                "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000838-c458e247-th.png",
-                "cover": "http://www.shobshop.co/piwigo/upload/2016/11/18/20161118062145-f58cfe0b.jpg"
             }]
+        }, {
+            "template": "item",
+            "label": "HOT",
+            "publisher": "No Images",
+            "brandId": "57a05f2a15896e800b320e8a",
+            "id": "582ee7eb282e1f0500e69ef8",
+            "title": "H&M Holiday Deals เริ่มต้นที 50 บาท",
+            "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000838-c458e247-th.png",
+            "cover": "http://www.shobshop.co/piwigo/upload/2016/11/18/20161118062145-f58cfe0b.jpg"
         }
     ],
     "next": "http://shobshop.github.io/apisample/feed2.json"
