@@ -1,0 +1,20 @@
+﻿{
+    "data": [{
+            "template": "item",
+            "publisher": "Don't have any optionals",
+            "id": "5822a719cd9abf05005d5789",
+            "title": "laura mercier ฉลองครบรอบ 20 ปี ด้วยชุดของขวัญประจำปี",
+            "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/12/09/20151209085835-07959f33-th.png",
+            "cover": "http://www.shobshop.co/piwigo/upload/2016/11/08/20161108232513-178aadc0.jpg"
+        },
+
+        {
+            "template": "directory",
+            "id": "5784cb2b3c246ac4448ec654",
+            "name": "AKA",
+            "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/06/20160406125157-c0fe0072-th.png",
+            "floor": "ชั้น 2"
+        }
+
+    ]
+}

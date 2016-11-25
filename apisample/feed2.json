@@ -1,0 +1,45 @@
+﻿{
+    "data": [{
+            "template": "item",
+            "label": "ถึงสิ้นเดือนนี้",
+            "publisher": "No BrandId",
+            "images": ["http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg", "http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg"],
+            "id": "58298c4e52f25805003b6154",
+            "title": "Laura Mercier ฉลองครบรอบ 20 ปี สินค้าลดราคา 20% ทุกชิ้น",
+            "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/12/09/20151209085835-07959f33-th.png",
+            "cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/11/16/20161116050219-6bda3e6f-me.jpg"
+        },
+
+        {
+            "template": "item",
+            "label": "No Images and No BrandId",
+            "publisher": "CC DOUBLE O",
+            "id": "582d48273948a40500aa42de",
+            "title": "CC DOUBLE O SPECIAL OFFER",
+            "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000803-8e12970f-th.png",
+            "cover": "http://www.shobshop.co/piwigo/upload/2016/11/17/20161117004954-257abab9.jpg"
+        },
+
+        {
+            "template": "item",
+            "publisher": "No Label & No Images",
+            "brandId": "57a05f2c15896e800b320ef6",
+            "id": "582016ca8a7f120500020287",
+            "title": "CC DOUBLE O นำเสนอชุดของขวัญสุดพิเศษ \"Suede Gift Set\"",
+            "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000803-8e12970f-th.png",
+            "cover": "http://www.shobshop.co/piwigo/upload/2016/11/07/20161107002730-f62d14bb.jpg"
+        },
+
+        {
+            "template": "item",
+            "publisher": "No brandId and No Label",
+            "images": ["http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg", "http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg"],
+            "id": "5829b0c5c6ffdb05008c04fb",
+            "title": "CPS Chaps มอบสิทธิ์จับคูปองส่วนลด 20-40% แทนคำขอบคุณ",
+            "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000811-c93f7d0c-th.png",
+            "cover": "http://www.shobshop.co/piwigo/upload/2016/11/14/20161114072126-4f709e1a.jpg"
+        }
+
+    ],
+    "next": "http://shobshop.github.io/apisample/feed3.json"
+}

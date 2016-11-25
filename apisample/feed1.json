@@ -1,0 +1,62 @@
+﻿{
+    "data": [{
+            "template": "item",
+            "label": "สิทธิพิเศษเฉพาะคุณ",
+            "publisher": "Has every optionals",
+            "brandId": "57a05f2c15896e800b320ef6",
+            "images": ["http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg", "http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg"],
+            "id": "58243d00c6ffdb05008bb9a7",
+            "title": "ฟรี Brow Service มูลค่า 1,200 บาท จาก Laura Mercier เฉพาะผู้ใช้ ShobShop เท่านั้น!",
+            "logo": "http://www.shobshop.co/piwigo/i.php?/upload/2015/12/09/20151209085835-07959f33-th.png",
+            "cover": "http://www.shobshop.co/piwigo/i.php?/upload/2016/11/24/20161124001553-b391b341-me.jpg"
+        },
+
+        {
+            "template": "item",
+            "publisher": "No label",
+            "brandId": "57a05f2a15896e800b320e86",
+            "images": ["http://www.shobshop.co/piwigo/upload/2016/11/23/20161123070805-c88700df.jpg", "http://www.shobshop.co/piwigo/upload/2016/11/23/20161123070805-c88700df.jpg"],
+            "id": "5836a58416652c05006bfe06",
+            "title": "Lyn Around MINUTES วางจำหน่ายแล้ววันนี้",
+            "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326023100-05aaebb6-th.png",
+            "cover": "http://www.shobshop.co/piwigo/upload/2016/11/23/20161123070805-c88700df.jpg"
+        },
+
+        {
+            "template": "shops",
+            "title": "ร้านอาหารแนะนำ",
+            "shops": [{
+                "id": "5784cb2b3c246ac4448ec654",
+                "name": "AKA",
+                "image": "http://www.shobshop.co/piwigo/upload/2016/06/29/20160629014459-b5ab0ba7.png",
+                "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/06/20160406125157-c0fe0072-th.png",
+                "floor": "ชั้น 2",
+                "tag": "อาหารญี่ปุ่น"
+            }, {
+                "id": "5784cb2b3c246ac4448ec654",
+                "name": "AKA 2",
+                "image": "http://www.shobshop.co/piwigo/upload/2016/06/29/20160629014459-b5ab0ba7.png",
+                "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/06/20160406125157-c0fe0072-th.png",
+                "floor": "ชั้น 2",
+                "tag": "อาหารญี่ปุ่น"
+            }, {
+                "id": "5784cb2b3c246ac4448ec654",
+                "name": "AKA 3",
+                "image": "http://www.shobshop.co/piwigo/upload/2016/06/29/20160629014459-b5ab0ba7.png",
+                "logo": "http://www.shobshop.co/piwigo/_data/i/upload/2016/04/06/20160406125157-c0fe0072-th.png",
+                "floor": "ชั้น 2",
+                "tag": "อาหารญี่ปุ่น"
+            }, {
+                "template": "item",
+                "label": "HOT",
+                "publisher": "No Images",
+                "brandId": "57a05f2a15896e800b320e8a",
+                "id": "582ee7eb282e1f0500e69ef8",
+                "title": "H&M Holiday Deals เริ่มต้นที 50 บาท",
+                "logo": "http://piwigo.shobshop.co/i.php?/upload/2015/03/26/20150326000838-c458e247-th.png",
+                "cover": "http://www.shobshop.co/piwigo/upload/2016/11/18/20161118062145-f58cfe0b.jpg"
+            }]
+        }
+    ],
+    "next": "http://shobshop.github.io/apisample/feed2.json"
+}
