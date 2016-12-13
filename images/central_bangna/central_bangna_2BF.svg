@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.28px" viewBox="0 0 841.89 595.28" enable-background="new 0 0 841.89 595.28" xml:space="preserve">
+<g id="Original" display="none">
+	
+		<image display="inline" overflow="visible" width="4376" height="3318" xlink:href="Floorplan/B2.jpg"  transform="matrix(0.1851 0 0 0.1851 43.3096 -11.0762)">
+	</image>
+</g>
+<g id="Background">
+	<rect fill="#FFFFFF" width="841.89" height="595.28"/>
+</g>
+<g id="ETC">
+	<polygon fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" points="543.254,202.636 616.692,202.636 
+		616.692,261.182 602.57,261.182 572.271,252.708 571.757,254.891 543.254,247.701 	"/>
+	
+		<rect x="596.033" y="223.571" transform="matrix(0.9695 0.2452 -0.2452 0.9695 76.5957 -139.3123)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="3.671" height="28.865"/>
+	
+		<rect x="600.408" y="224.956" transform="matrix(0.9695 0.2452 -0.2452 0.9695 77.069 -140.3427)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="3.671" height="28.865"/>
+	
+		<rect x="246.692" y="224.549" transform="matrix(0.9689 -0.2476 0.2476 0.9689 -51.4283 68.968)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="3.67" height="28.865"/>
+	
+		<rect x="251.198" y="223.677" transform="matrix(0.9689 -0.2476 0.2476 0.9689 -51.0778 70.0665)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="3.67" height="28.866"/>
+	<polygon fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" points="229.311,207.418 283.716,207.418 
+		291.13,237.847 291.13,273.475 229.311,273.475 	"/>
+	
+		<rect x="279.598" y="222.475" transform="matrix(0.2468 0.9691 -0.9691 0.2468 432.7895 -104.3408)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="7.832" height="7.511"/>
+	
+		<rect x="281.532" y="230.064" transform="matrix(0.2469 0.969 -0.969 0.2469 441.5495 -100.5216)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="7.831" height="7.511"/>
+	
+		<rect x="417.626" y="334.044" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="8.858" height="8.472"/>
+	
+		<rect x="417.626" y="342.516" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="8.858" height="8.475"/>
+	
+		<rect x="417.626" y="350.99" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="8.858" height="8.474"/>
+	
+		<rect x="417.626" y="359.464" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="8.858" height="8.475"/>
+	
+		<rect x="495" y="282.167" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="13.167" height="58.333"/>
+	<rect x="477" y="313.333" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="18" height="21.834"/>
+	
+		<rect x="635.566" y="321.074" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="8.602" height="8.603"/>
+	
+		<rect x="633.513" y="310.804" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="10.655" height="10.271"/>
+	
+		<rect x="635.566" y="329.677" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="8.602" height="8.601"/>
+	<polygon fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" points="168,125.333 179,125.333 179,100.667 
+		301.333,100.667 301.333,84.157 44.302,84.157 44.302,258.765 51.263,258.765 168,258.765 	"/>
+	<polygon fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" points="705.333,287.333 705.333,153 
+		580.853,153 580.853,123.732 580.853,84.157 301.333,84.157 301.333,100.667 179,100.667 179,125.333 168,125.333 168,258.765 
+		51.263,258.765 51.263,511.726 252.254,511.726 252.254,516.764 310.059,516.764 310.059,511.726 393.716,511.726 393.716,531.017 
+		456.559,531.017 456.559,538.176 765.333,538.176 765.333,287.333 	"/>
+	<path fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" d="M799.013,419.253V222.769
+		c-79.35-23.864-93.668-99.037-93.668-99.037H580.853V153h124.48v134.333h60v250.842h33.082v-95.06h10.143v-23.863H799.013z"/>
+	
+		<rect x="563.086" y="222.561" transform="matrix(-0.2352 0.972 -0.972 -0.2352 920.3173 -271.5578)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="7.831" height="7.51"/>
+	
+		<rect x="561.244" y="230.174" transform="matrix(-0.2352 0.972 -0.972 -0.2352 925.433 -260.3702)" fill="none" stroke="#ED1C24" stroke-width="0.5" stroke-miterlimit="10" width="7.832" height="7.509"/>
+	
+		<rect x="230.563" y="208.67" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="12.614" height="19.066"/>
+	
+		<rect x="236.437" y="260.283" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="25.325" height="12.037"/>
+	
+		<rect x="261.761" y="260.283" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="24.458" height="12.037"/>
+</g>
+<g id="Rooms">
+	<polygon id="b2202" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="580.486,246.16 
+		591.85,249.434 596.215,233.706 584.853,230.432 	"/>
+	<polygon id="b2201" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="273.38,208.67 
+		283.074,208.67 285.642,219.391 276.462,220.354 	"/>
+	
+		<rect id="b2203" x="486.334" y="467.834" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="126" height="32.167"/>
+</g>
+<g id="Signs">
+	<g id="escalator">
+		<rect x="244.223" y="208.67" opacity="0.8" width="14.811" height="14.811"/>
+		<rect x="594.839" y="207.106" opacity="0.8" width="14.811" height="14.811"/>
+	</g>
+	<g id="lift">
+		<rect x="569.729" y="224.504" opacity="0.8" width="14.811" height="14.811"/>
+		<rect x="265.975" y="226.414" opacity="0.8" width="14.811" height="14.811"/>
+		<rect x="398.095" y="343.585" opacity="0.8" width="14.811" height="14.811"/>
+		<rect x="647.095" y="316.845" opacity="0.8" width="14.811" height="14.811"/>
+	</g>
+	<rect id="parking" x="393.487" y="310.565" opacity="0.8" width="14.811" height="14.811"/>
+</g>
+</svg>
