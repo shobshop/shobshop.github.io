@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.28px" viewBox="0 0 841.89 595.28" enable-background="new 0 0 841.89 595.28" xml:space="preserve">
+<g id="ETC">
+	
+		<rect x="337.186" y="204.837" transform="matrix(1 0.0045 -0.0045 1 0.9355 -1.6038)" fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" width="38.588" height="4.058"/>
+	
+		<rect x="398.732" y="146.363" transform="matrix(-0.0045 1 -1 -0.0045 568.2993 -268.9623)" fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" width="38.588" height="4.058"/>
+	<circle fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" cx="384.379" cy="173.688" r="58"/>
+	<path fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" d="M812.792,142.715v-13.971h-13.371v-4.99H714.4
+		v4.99h-19.559v-11.575h-10.378v-12.175h-26.145v-5.389H515.622v13.572h-12.973v-7.185h-17.763V93.419h-22.552V73.462H283.514
+		v17.962h-23.351l0.2,132.12h11.176v72.38h-15.301v43.907h-3.193v168.177h359.24c0,0,45.237-0.532,75.306-32.198
+		c30.07-31.667,31.002-80.829,31.002-80.829v-38.718V250v-2.506v-26.327h-10.378v-11.791v-2.995h6.586v5.788h84.421v-6.188h13.771
+		v-13.371h5.588v-49.894H812.792z"/>
+</g>
+<g id="Background">
+	<rect fill="#FFFFFF" width="841.89" height="595.28"/>
+</g>
+<g id="Original">
+	
+		<image overflow="visible" width="3498" height="2479" xlink:href="FLOOR_PLAN_6.jpg"  transform="matrix(0.1941 0 0 0.1935 228.4346 49.8027)">
+	</image>
+</g>
+<g id="Signs">
+	<rect id="stairs" x="425.517" y="215.611" opacity="0.8" width="14.811" height="14.811"/>
+	<g id="escalator">
+		<rect x="396.595" y="135.588" opacity="0.8" width="14.811" height="14.811"/>
+		<rect x="349.075" y="186.261" opacity="0.8" width="14.811" height="14.811"/>
+	</g>
+</g>
+<g id="Rooms">
+	<polygon fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="375.783,257.5 358.767,274.517 
+		459.25,375 585.75,248.5 485.07,147.82 458.945,173.945 458.945,212.25 422.348,248.848 384.379,248.848 	"/>
+	<polygon fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="335.75,248 344.063,256.313 
+		359.065,241.565 350.509,233.009 335.649,248 	"/>
+	<polygon fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="354.375,266.625 369.25,251.75 
+		359.065,241.565 344.063,256.313 	"/>
+	<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M334.833,81.5H300.5v42.333h8l15.256,14.506
+		c4.953-8.076,11.593-14.981,19.361-20.422l-8.284-8.417V81.5z"/>
+	<polygon fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="466.878,133.737 459.25,141.75 
+		469.5,152.25 478,145 	"/>
+	<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M334.833,81.5v28l8.284,8.417
+		c11.802-8.266,26.183-13.165,41.133-13.667c0.043-0.001,0.086,0.001,0.129,0V81.5H334.833z"/>
+	<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M458.496,125.249l-14.17,14.728
+		c0.104,0.163,0.174,0.273,0.174,0.273l8,8.141l6.75-6.641l7.628-8.013L458.496,125.249z"/>
+	<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M458.25,125l0.25-24.5l-24.75,0.25
+		c0,0-14.5-11.5-26.25-11.75l0.25-7.5h-23.371v22.75c35.39-1.103,57.87,32.498,59.947,35.727l14.17-14.728L458.25,125z"/>
+	<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M323.756,138.339L308.5,123.833h-8v49.854
+		h13.748C313.988,160.438,317.542,148.47,323.756,138.339z"/>
+	<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M350.5,233c0,0-35.25-18.875-36.25-58.938
+		c-0.003-0.125,0-0.249-0.002-0.375H300.5v6.812h-8.75V248h43.899l14.859-14.991L350.5,233z"/>
+</g>
+</svg>

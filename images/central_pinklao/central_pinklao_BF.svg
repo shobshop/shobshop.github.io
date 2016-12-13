@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.89px" height="595.28px" viewBox="0 0 841.89 595.28" enable-background="new 0 0 841.89 595.28" xml:space="preserve">
+<g id="etc">
+	
+		<rect x="402.594" y="414.539" fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" width="23.55" height="4.059"/>
+	
+		<rect x="402.594" y="424.396" fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" width="23.55" height="4.059"/>
+	<polygon fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" points="393.081,395.181 393.081,428.842 
+		407.051,428.842 407.051,445.474 368.001,445.474 368.001,459.244 446.102,459.244 446.102,395.181 	"/>
+	<g>
+		<path fill="none" stroke="#F7941E" stroke-width="0.5" stroke-miterlimit="10" d="M260.163,91.424h23.351V73.462h178.821v19.958
+			h22.552v12.573h17.763v7.185h12.973V99.606h142.697v5.389h26.145v12.175h10.378v11.575H714.4v-4.99h85.021v4.99h13.371v13.971
+			h5.788v49.894h-5.588v13.371h-13.771v6.188H714.8v-5.788h-6.586v16.365h-25.346v24.748h35.724v108.77v38.718
+			c0,0-0.932,49.162-31.002,80.829c-30.068,31.666-75.306,32.198-75.306,32.198h-359.24V339.831h3.193v-43.907h15.301v-72.38
+			h-11.176L260.163,91.424z"/>
+	</g>
+	
+		<rect x="635.169" y="217.291" fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" width="4.059" height="23.55"/>
+	
+		<rect x="625.311" y="217.291" fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" width="4.059" height="23.55"/>
+	<polygon fill="none" stroke="#FBB040" stroke-width="0.5" stroke-miterlimit="10" points="596.151,197.798 669.994,197.798 
+		669.994,249.888 619.701,249.888 619.701,236.217 596.151,236.217 	"/>
+</g>
+<g id="background">
+	<rect fill="#FFFFFF" width="841.89" height="595.28"/>
+</g>
+<g id="Original">
+	<g opacity="0.5">
+		<defs>
+			<rect id="SVGID_1_" x="359.779" y="380.423" opacity="0.5" width="97.792" height="87.947"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			
+				<image overflow="visible" width="3262" height="2257" xlink:href="FLOOR_PLAN_B.jpg"  transform="matrix(0.0502 0 0 0.0502 305.7422 355.1758)">
+			</image>
+		</g>
+	</g>
+	<g opacity="0.5">
+		<defs>
+			<rect id="SVGID_3_" x="595.601" y="191.15" opacity="0.5" width="81.798" height="67.705"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_4_)">
+			
+				<image overflow="visible" width="3262" height="2257" xlink:href="FLOOR_PLAN_B.jpg"  transform="matrix(0.0502 0 0 0.0502 595.5967 181.3818)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="signs">
+	<g id="escalator">
+		<rect x="624.417" y="200.251" opacity="0.8" width="14.811" height="14.811"/>
+		<rect x="428.406" y="415.249" opacity="0.8" width="14.811" height="14.811"/>
+	</g>
+</g>
+<g id="rooms">
+	
+		<rect x="596.151" y="197.798" fill="#939598" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" width="16.665" height="17.264"/>
+	
+		<rect x="596.151" y="216.857" fill="#939598" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" width="13.271" height="19.359"/>
+	<polygon fill="#939598" stroke="#FFFFFF" stroke-width="0.25" stroke-miterlimit="10" points="619.701,236.217 643.151,236.217 
+		643.151,197.798 669.994,197.798 669.994,249.888 619.701,249.888 	"/>
+	<polygon fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="407.051,428.842 407.051,410.415 
+		420.557,410.415 420.557,395.181 393.081,395.181 393.081,428.842 	"/>
+	
+		<rect x="420.557" y="395.181" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="8.315" height="11.774"/>
+	
+		<rect x="428.872" y="395.181" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="8.183" height="11.774"/>
+	
+		<rect x="437.055" y="395.181" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="9.047" height="19.689"/>
+	
+		<rect x="437.055" y="414.87" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="9.047" height="7.784"/>
+	
+		<rect x="437.055" y="422.654" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="9.047" height="8.916"/>
+	
+		<rect x="368.001" y="445.474" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="43.507" height="13.771"/>
+	
+		<rect x="411.508" y="445.474" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="9.048" height="13.771"/>
+	
+		<rect x="420.557" y="445.474" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="7.85" height="13.771"/>
+	
+		<rect x="428.406" y="445.474" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="8.316" height="13.771"/>
+	
+		<rect x="436.723" y="445.474" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="9.379" height="13.771"/>
+</g>
+</svg>
