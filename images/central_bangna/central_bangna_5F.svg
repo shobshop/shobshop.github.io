@@ -238,7 +238,7 @@
 	
 		<rect id="k505" x="438.833" y="415" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="30" height="15.334"/>
 	
-		<rect id="r540_1_" x="427.375" y="351.375" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="30.5" height="43.875"/>
+		<rect id="r540" x="427.375" y="351.375" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="30.5" height="43.875"/>
 	
 		<rect id="zeen-zone" x="95" y="346" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="38.167" height="106.668"/>
 	
@@ -246,9 +246,9 @@
 	<polygon id="b2s" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="146,492.5 246,492.5 
 		246,497.5 378,497.5 378,470.25 411,470.25 411,440.25 383.75,440.25 372.101,428.601 302.75,428.601 252.25,452.667 240,440.5 
 		146,440 	"/>
-	<polygon id="e509" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="660.583,275.083 
+	<polygon id="k509" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="660.583,275.083 
 		673.166,246.583 682,243.75 684.416,254.583 682.083,266.167 676.25,272 668.916,275.083 	"/>
-	<polygon fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="599.833,241.25 609.5,238.083 
+	<polygon id="k506" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="599.833,241.25 609.5,238.083 
 		609.5,214.5 618.25,214.5 618.25,252.083 599.833,252.083 	"/>
 	<polygon id="r531" fill="#959595" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="155.25,169.75 
 		155.25,240.644 181.75,228.245 181.75,169.75 	"/>
