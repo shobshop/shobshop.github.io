@@ -113,7 +113,7 @@
 		256.245,311.317 272.5,311.317 272.5,269.218 	"/>
 </g>
 <g id="rooms">
-	<path fill="#959595" stroke="#494949" stroke-miterlimit="10" d="M51.263,311.317v118.905
+	<path id="central-department-store" fill="#959595" stroke="#494949" stroke-miterlimit="10" d="M51.263,311.317v118.905
 		c-14.196,6.732-24.017,21.189-24.017,37.947s9.82,31.217,24.017,37.949v5.605h200.991v5.037h57.805v-5.037h83.657v19.291h33.09
 		V311.317H51.263z"/>
 	<path id="r209-2" fill="#959595" stroke="#494949" stroke-miterlimit="10" d="M380.875,119.889v61.014
@@ -172,7 +172,7 @@
 	<polygon id="r240" fill="#959595" stroke="#494949" stroke-miterlimit="10" points="44.302,119.889 44.302,151.375 59.667,151.375 
 		59.667,148.333 67,139.833 80.125,139.833 80.125,119.889 	"/>
 	<rect id="k201" x="86.083" y="257" fill="#959595" stroke="#494949" stroke-miterlimit="10" width="23.583" height="8.167"/>
-	<rect id="k201_1_" x="109.667" y="257" fill="#959595" stroke="#494949" stroke-miterlimit="10" width="24.75" height="8.167"/>
+	<rect id="k202" x="109.667" y="257" fill="#959595" stroke="#494949" stroke-miterlimit="10" width="24.75" height="8.167"/>
 	<rect id="r201" x="51.263" y="283.264" fill="#959595" stroke="#494949" stroke-miterlimit="10" width="63.862" height="28.053"/>
 	<polygon id="r201-2" fill="#959595" stroke="#494949" stroke-miterlimit="10" points="193.821,298.839 163.851,298.839 
 		163.851,283.264 115.125,283.264 115.125,311.317 193.821,311.317 	"/>

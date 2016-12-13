@@ -147,11 +147,11 @@
 <g id="rooms">
 	<polygon id="b1102" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="250.592,122.2 
 		489.587,122.2 489.587,154.169 395.605,154.169 395.605,135.874 334.172,135.874 334.172,154.169 250.592,154.169 	"/>
-	<polygon id="b1101" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="63.208,267.023 
+	<polygon id="b1101-2" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="63.208,267.023 
 		63.208,292.733 63.208,310.932 147.174,310.932 147.174,292.733 147.174,267.023 	"/>
 	
 		<rect id="b1105" x="673.699" y="468.787" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="62.781" height="57.391"/>
-	<polygon id="b1103_1_" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="753.687,191.346 
+	<polygon id="b1103" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="753.687,191.346 
 		744.771,202.692 753.125,209.149 761.607,197.35 	"/>
 </g>
 <g id="signs">
