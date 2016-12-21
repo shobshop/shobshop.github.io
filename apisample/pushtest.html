@@ -15,9 +15,9 @@
         <p>Device ID <input type="text" ng-model="pushTest.deviceId" size="30"></p>
         <p>Open action:</p>
         <p><input type="radio" ng-model="pushTest.openAction" value="None"> Do nothing</p>
-        <p><input type="radio" ng-model="pushTest.openAction" value="openPage"> Open page in app <input type="text" ng-model="pushTest.openPageTarget" size="40"></p>
+        <p><input type="radio" ng-model="pushTest.openAction" value="openPage"> Open detail page of promotion ID <input type="text" ng-model="pushTest.promotionId" size="40"></p>
         
-        <input class="btn-primary" type="submit" value="Submit" ng-disabled="pushTest.title == '' || pushTest.message == '' || pushTest.deviceId == '' || (pushTest.openAction == 'openPage' && pushTest.openPageTarget == '')">
+        <input class="btn-primary" type="submit" value="Submit" ng-disabled="pushTest.title == '' || pushTest.message == '' || pushTest.deviceId == '' || (pushTest.openAction == 'openPage' && pushTest.promotionId == '')">
       </form>
       <p ng-bind="pushTest.result">
     </div>
