@@ -1,0 +1,33 @@
+{
+    "type": "object",
+    "properties": {
+        "mapName": { "type": "string", "description": "Map identifier" },
+        "svgUrl": { "type": "string", "description": "URL of map SVG image" },
+        "shops": { "type": "array", "description": "List of SVG entities of type shop to be consumed by app", "items": {
+            "type": "object",
+            "properties": {
+                "name": { "type": "string", "description": "Display name of the object" },
+                "svgId": { "type": "string", "description": "ID of SVG entity" },
+                "logo": { "type": "string", "description": "Logo URL" }
+            },
+            "required": [ "name", "svgId" ]
+        } },
+        "signs": { "type": "array", "description": "List of SVG entities of type sign to be consumed by app", "items": {
+            "type": "object",
+            "properties": {
+                "name": { "type": "string", "description": "Display name of the object" },
+                "svgId": { "type": "string", "description": "ID of SVG entity" }
+            },
+            "required": [ "name", "svgId" ]
+        } },
+        "floors": { "type": "array", "description": "List of floors to be displayed in floor selector", "items": {
+            "type": "object",
+            "properties": {
+                "name": { "type": "string", "description": "Floor name" },
+                "mapName": { "type": "string", "description": "Map identifier of the floor" }
+            },
+            "required": [ "name", "mapName" ]
+        } }
+    },
+    "required": ["svgUrl", "mapObjects", "floors"]
+}
