@@ -29,5 +29,6 @@
             "required": [ "name", "mapName" ]
         } }
     },
-    "required": ["svgUrl", "mapObjects", "floors"]
+    "required": ["svgUrl", "mapObjects", "floors"],
+    "example": "http://shobshop.github.io/apisample/mallmapdata/central_world_1F.json"
 }
