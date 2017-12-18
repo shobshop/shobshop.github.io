@@ -1,106 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
-	 xml:space="preserve">
+	 viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#DEDEDE;stroke:#494949;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:#DEDEDE;stroke:#494949;stroke-miterlimit:10;}
+	.st3{fill:#939598;stroke:#494949;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{opacity:0.8;enable-background:new    ;}
+</style>
 <g id="background">
-	<rect fill="#FFFFFF" width="841.89" height="595.281"/>
+	<rect class="st0" width="841.9" height="595.3"/>
 </g>
 <g id="etc">
-	<polygon fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="18.667,488.318 694.667,488.318 
-		694.667,124.116 326.667,124.116 326.667,75.299 217.333,75.299 	"/>
-	<polygon fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="223.667,84.131 317.833,84.131 
-		317.833,133.75 676.5,133.75 676.5,207.03 582.667,207.03 582.667,475.07 34.333,477.076 	"/>
-	<polygon fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="427.25,167.473 427.25,136.011 
-		408.625,136.037 408.625,167.473 	"/>
-	
-	<rect x="350.5" y="163.7" fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="16.417" height="2.489"/>
-
-	<rect x="496.001" y="136.011" fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="118.332" height="25.04"/>
-
-	<rect x="638.167" y="140.495" fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="35.166" height="60.219"/>
-
-	<rect x="202.5" y="455.56" fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="36.167" height="21.519"/>
-
-	<rect x="251.25" y="417.822" fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="103.101" height="57.248"/>
-	<polygon fill="#DEDEDE" stroke="#494949" stroke-miterlimit="10" points="239.914,399.346 231.597,403.6 230.503,401.613 
-		238.82,397.359 	"/>
-	<path fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M285.63,340.814
-		c5.519,8.846,0.016,21.795-12.292,28.924c-12.309,7.131-26.761,5.74-32.28-3.104c-5.52-8.846-0.016-21.797,12.293-28.926
-		C265.66,330.578,280.111,331.971,285.63,340.814z"/>
-	<rect x="615.5" y="137" fill="#DEDEDE" stroke="#494949" stroke-miterlimit="10" width="57.834" height="1.875"/>
+	<polygon class="st1" points="18.7,488.3 694.7,488.3 694.7,124.1 326.7,124.1 326.7,75.3 217.3,75.3 	"/>
+	<polygon class="st1" points="223.7,84.1 317.8,84.1 317.8,133.8 676.5,133.8 676.5,207 582.7,207 582.7,475.1 34.3,477.1 	"/>
+	<polygon class="st1" points="427.2,167.5 427.2,136 408.6,136 408.6,167.5 	"/>
+	<rect x="350.5" y="163.7" class="st1" width="16.4" height="2.5"/>
+	<rect x="638.2" y="140.5" class="st1" width="35.2" height="60.2"/>
+	<rect x="202.5" y="455.6" class="st1" width="36.2" height="21.5"/>
+	<rect x="251.2" y="417.8" class="st1" width="103.1" height="57.2"/>
+	<polygon class="st2" points="239.9,399.3 231.6,403.6 230.5,401.6 238.8,397.4 	"/>
+	<path class="st1" d="M285.6,340.8c5.5,8.8,0,21.8-12.3,28.9c-12.3,7.1-26.8,5.7-32.3-3.1c-5.5-8.8,0-21.8,12.3-28.9
+		C265.7,330.6,280.1,332,285.6,340.8z"/>
+	<rect x="615.5" y="137" class="st2" width="57.8" height="1.9"/>
 </g>
 <g id="rooms">
-	<polygon id="lg021-022" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="238.615,193.639 
-		182.711,169.129 161.119,213.943 215.019,238.659 	"/>
-	<polygon id="lg023-024" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="256.601,159.323 
-		199.193,134.924 182.711,169.129 238.615,193.639 	"/>
-	<polygon id="lg025-026-027-028" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="257,158.561 
-		317,167.473 317.833,167.473 317.833,136.16 317.833,84.131 223.667,84.131 199.193,134.924 256.601,159.323 	"/>
-	<polygon id="lg029" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="349.25,167.473 
-		349.25,136.117 317.833,136.16 317.833,167.473 	"/>
-	<polygon id="lg030" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="388,167.473 388,136.064 
-		368.25,136.091 368.25,167.473 	"/>
-	<polygon id="lg031" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="408.625,167.473 
-		408.625,136.037 388,136.064 388,167.473 	"/>
-	<polygon id="lg009" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="251.667,417.822 
-		310.667,417.822 310.667,394.216 295.501,367.625 239.423,396.348 	"/>
-	<polygon id="lg007-008" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="335.563,333.091 
-		335.25,333.193 309.4,359.863 313.5,366.314 322.625,361.498 357.25,417.822 400,417.822 400,371.253 362.125,371.253 	"/>
-	<polygon id="lg006" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="362.125,371.253 
-		400,371.253 400,366.436 371.44,321.253 335.563,333.091 	"/>
-	<polygon id="lg016-017" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="173.46,317.949 
-		122.529,294.034 102.18,336.268 150.816,361.152 	"/>
-	<polygon id="lg013" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="118,423.763 
-		118.084,423.605 60.099,423.605 34.333,477.076 140.5,477.076 140.5,446.634 	"/>
-	<polygon id="lg011-012" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="140.75,446.886 
-		140.5,446.634 140.5,477.076 202.5,477.076 202.5,415.257 	"/>
-	<polygon id="lg014" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="133.137,394.882 
-		84.657,372.632 60.099,423.605 118.084,423.605 	"/>
-	<polygon id="lg020b" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="215.019,238.659 
-		161.119,213.943 150.478,236.029 203.688,260.276 	"/>
-	<polygon id="lg019" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="193.355,279.99 
-		141.071,255.551 131.148,276.145 182.795,300.139 	"/>
-	<polygon id="lg020a" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="203.688,260.276 
-		150.478,236.029 141.071,255.551 193.355,279.99 	"/>
-	<polygon id="lg018" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="182.795,300.139 
-		131.148,276.145 122.529,294.034 173.46,317.949 	"/>
-	<polygon id="lg015" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="150.816,361.152 
-		102.18,336.268 84.657,372.632 133.137,394.882 	"/>
-	<polygon id="gourmet-market" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="371.44,321.253 
-		378.923,333.091 447.167,333.091 447.167,479.003 582.667,479.003 582.667,228.816 550.333,228.816 550.333,162.977 494,162.977 
-		494,136.117 427.25,136.011 427.25,179.758 372,179.758 	"/>
-	<rect id="lg401a" x="569.667" y="181.284" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="22.666" height="20.233"/>
-	<rect id="lg401b" x="592.333" y="181.284" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="32.834" height="20.233"/>
-	<polygon id="lg010" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="228.851,401.762 
-		202.5,415.257 202.5,455.56 238.667,455.56 238.667,418.787 	"/>
-	<polygon id="lg403" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="226.057,314.992 
-		200.776,337.598 190.006,326.416 215.287,303.811 	"/>
-	<polygon id="lg402" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="306.1,343.891 
-		294.866,350.809 277.1,324.031 288.333,317.111 	"/>
+	<polygon id="lg021-022" class="st3" points="238.6,193.6 182.7,169.1 161.1,213.9 215,238.7 	"/>
+	<polygon id="lg023-024" class="st3" points="256.6,159.3 199.2,134.9 182.7,169.1 238.6,193.6 	"/>
+	<polygon id="lg025-026-027-028" class="st3" points="257,158.6 317,167.5 317.8,167.5 317.8,136.2 317.8,84.1 223.7,84.1 
+		199.2,134.9 256.6,159.3 	"/>
+	<polygon id="lg029" class="st3" points="349.2,167.5 349.2,136.1 317.8,136.2 317.8,167.5 	"/>
+	<polygon id="lg030" class="st3" points="388,167.5 388,136.1 368.2,136.1 368.2,167.5 	"/>
+	<polygon id="lg031" class="st3" points="408.6,167.5 408.6,136 388,136.1 388,167.5 	"/>
+	<polygon id="lg009" class="st3" points="251.7,417.8 310.7,417.8 310.7,394.2 295.5,367.6 239.4,396.3 	"/>
+	<polygon id="lg007-008" class="st3" points="335.6,333.1 335.2,333.2 309.4,359.9 313.5,366.3 322.6,361.5 357.2,417.8 400,417.8 
+		400,371.3 362.1,371.3 	"/>
+	<polygon id="lg006" class="st3" points="362.1,371.3 400,371.3 400,366.4 371.4,321.3 335.6,333.1 	"/>
+	<polygon id="lg016-017" class="st3" points="173.5,317.9 122.5,294 102.2,336.3 150.8,361.2 	"/>
+	<polygon id="lg013" class="st3" points="118,423.8 118.1,423.6 60.1,423.6 34.3,477.1 140.5,477.1 140.5,446.6 	"/>
+	<polygon id="lg011-012" class="st3" points="140.8,446.9 140.5,446.6 140.5,477.1 202.5,477.1 202.5,415.3 	"/>
+	<polygon id="lg014" class="st3" points="133.1,394.9 84.7,372.6 60.1,423.6 118.1,423.6 	"/>
+	<polygon id="lg020b" class="st3" points="215,238.7 161.1,213.9 150.5,236 203.7,260.3 	"/>
+	<polygon id="lg019" class="st3" points="193.4,280 141.1,255.6 131.1,276.1 182.8,300.1 	"/>
+	<polygon id="lg020a" class="st3" points="203.7,260.3 150.5,236 141.1,255.6 193.4,280 	"/>
+	<polygon id="lg018" class="st3" points="182.8,300.1 131.1,276.1 122.5,294 173.5,317.9 	"/>
+	<polygon id="lg015" class="st3" points="150.8,361.2 102.2,336.3 84.7,372.6 133.1,394.9 	"/>
+	<polygon id="gourmet-market" class="st3" points="371.4,321.3 378.9,333.1 447.2,333.1 447.2,479 582.7,479 582.7,228.8 
+		550.3,228.8 550.3,163 494,163 494,136.1 427.2,136 427.2,179.8 372,179.8 	"/>
+	<rect id="gm15" x="569.7" y="181.3" class="st3" width="22.7" height="20.2"/>
+	<rect id="gm16" x="592.3" y="181.3" class="st3" width="32.8" height="20.2"/>
+	<polygon id="lg010" class="st3" points="228.9,401.8 202.5,415.3 202.5,455.6 238.7,455.6 238.7,418.8 	"/>
+	<polygon id="lg403" class="st3" points="226.1,315 200.8,337.6 190,326.4 215.3,303.8 	"/>
+	<polygon id="lg402" class="st3" points="306.1,343.9 294.9,350.8 277.1,324 288.3,317.1 	"/>
+	
+		<rect id="cinnabon" x="268.2" y="366.4" transform="matrix(0.8831 -0.4693 0.4693 0.8831 -140.2728 174.5437)" class="st3" width="23.7" height="4.5"/>
+	<rect id="gm05" x="512.4" y="136" class="st3" width="101.9" height="25"/>
+	<polygon id="gm01" class="st3" points="447.9,167.5 447.9,136 427.2,136.1 427.2,167.5 	"/>
+	<polygon id="gm02" class="st3" points="468.5,167.5 468.5,136 447.9,136.1 447.9,167.5 	"/>
+	<polygon id="gm03" class="st3" points="489.1,167.5 489.1,136 468.5,136.1 468.5,167.5 	"/>
+	<polygon id="gm04" class="st3" points="507.3,167.5 507.3,136 489.1,136.1 489.1,167.5 	"/>
+	<rect id="gm15_1_" x="475.8" y="186.2" class="st3" width="33.4" height="10.4"/>
+	<rect id="gm14" x="509.2" y="186.2" class="st3" width="33.4" height="10.4"/>
+	<rect id="gm11" x="388" y="186.7" class="st3" width="35.3" height="11"/>
+	<rect id="gm12" x="423.3" y="186.7" class="st3" width="35.3" height="11"/>
+	<polygon id="gm51" class="st3" points="378.9,333.1 479.6,333.1 479.6,357.4 394.1,357 	"/>
+	<rect id="gm21" x="388.4" y="218.8" class="st3" width="22" height="15"/>
+	<rect id="gm22" x="410.3" y="218.8" class="st3" width="22" height="15"/>
+	<rect id="gm23" x="432.3" y="218.8" class="st3" width="26.3" height="15"/>
+	<rect id="gm26" x="388.4" y="233.9" class="st3" width="22" height="15"/>
+	<rect id="gm27" x="410.3" y="233.9" class="st3" width="22" height="15"/>
+	<rect id="gm28" x="432.3" y="233.9" class="st3" width="26.3" height="15"/>
+	<rect id="gm24" x="476" y="218.8" class="st3" width="33" height="15"/>
+	<rect id="gm29" x="476" y="233.9" class="st3" width="33" height="15"/>
+	<rect id="gm30" x="509.4" y="233.9" class="st3" width="33" height="15"/>
+	<rect id="gm25" x="509.4" y="218.8" class="st3" width="33" height="15"/>
+	<rect id="gm31" x="388.4" y="266.8" class="st3" width="29.6" height="23.2"/>
+	<rect id="gm36" x="516.5" y="266.8" class="st3" width="29.6" height="23.2"/>
+	<rect id="gm32" x="417.9" y="266.9" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm33" x="417.9" y="278.4" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm41" x="388.4" y="307.5" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm42" x="429" y="307.5" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm43" x="475.8" y="307.5" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm44" x="516.5" y="307.5" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm34" x="475.8" y="266.9" class="st3" width="40.7" height="11.5"/>
+	<rect id="gm35" x="475.8" y="278.4" class="st3" width="40.7" height="11.5"/>
 </g>
 <g id="signs">
 	<g id="escalator">
-		<rect x="238.667" y="356.441" opacity="0.8" enable-background="new    " width="14.811" height="14.813"/>
-		<rect x="215.692" y="333.96" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
+		<rect x="238.7" y="356.4" class="st4" width="14.8" height="14.8"/>
+		<rect x="215.7" y="334" class="st4" width="14.8" height="14.8"/>
 	</g>
-	<rect id="parking" x="595.066" y="321.253" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
-	<rect id="handicapped-parking" x="595.066" y="296.405" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-	<rect id="entrance" x="561.513" y="207.03" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-	<rect id="lift" x="652.888" y="162.405" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+	<rect id="parking" x="595.1" y="321.3" class="st4" width="14.8" height="14.8"/>
+	<rect id="handicapped-parking" x="595.1" y="296.4" class="st4" width="14.8" height="14.8"/>
+	<rect id="entrance" x="561.5" y="207" class="st4" width="14.8" height="14.8"/>
+	<rect id="lift" x="652.9" y="162.4" class="st4" width="14.8" height="14.8"/>
 	<g id="toilet">
-		<rect x="309.4" y="427.246" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect x="533.638" y="138.155" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect x="309.4" y="427.2" class="st4" width="14.8" height="14.8"/>
+		<rect x="533.6" y="138.2" class="st4" width="14.8" height="14.8"/>
 	</g>
 	<g id="fire-exit">
-		<rect x="215.692" y="458.914" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect x="343.898" y="393.074" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
-		<rect x="351.303" y="131.261" opacity="0.8" enable-background="new    " width="14.813" height="14.813"/>
+		<rect x="215.7" y="458.9" class="st4" width="14.8" height="14.8"/>
+		<rect x="343.9" y="393.1" class="st4" width="14.8" height="14.8"/>
+		<rect x="351.3" y="131.3" class="st4" width="14.8" height="14.8"/>
 	</g>
 	<g id="handicapped-toilet">
-		<rect x="331.595" y="427.246" opacity="0.8" enable-background="new    " width="14.813" height="14.811"/>
-		<rect x="556.167" y="138.155" opacity="0.8" enable-background="new    " width="14.811" height="14.811"/>
+		<rect x="331.6" y="427.2" class="st4" width="14.8" height="14.8"/>
+		<rect x="556.2" y="138.2" class="st4" width="14.8" height="14.8"/>
 	</g>
 </g>
+<rect x="479.6" y="333.1" class="st3" width="62.8" height="22"/>
 </svg>

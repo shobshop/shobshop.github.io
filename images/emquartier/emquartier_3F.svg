@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
@@ -42,6 +42,12 @@
 		C664.628,555.079,656.5,528,656.5,528z"/>
 	<path id="q3c-2" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M733.25,723.75l-0.25-8c0,0-31.75-52-37-54
 		c0.274-0.274-11.667-40.59-22.489-76.883l-38.037,9.922L671.5,723.75H733.25z"/>
+	<polygon id="q3c-3" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="739.5,669.5 728.916,676.766 739.5,692.782 
+		750.225,685.75 	"/>
+	<path id="q3c-4" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M553.181,579.245l-39.294,11.176l18.209,56.754
+		l38.319-12.549C561.531,604.839,553.181,579.245,553.181,579.245z"/>
+	<path id="q3c-5" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M577.571,571.821l-24.39,7.424l22.861,73.464
+		l23.313-7.849C590.471,615.073,577.571,571.821,577.571,571.821z"/>
 	<polygon id="q3b-6" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="638.75,473.75 647.25,511.75 677.558,503.619 
 		659.295,458.341 	"/>
 	<polygon id="q3b-7" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="659.295,458.341 677.558,503.619 
@@ -112,5 +118,13 @@
 		<rect id="toilet-3" x="1064" y="729" width="45" height="45"/>
 	</g>
 	<rect id="entrance" x="555.5" y="519" width="45" height="45"/>
+	<g id="atm_6_">
+		<rect id="atm-1_1_" x="1062.5" y="703.5" width="45" height="45"/>
+		<rect id="atm-2_1_" x="862.642" y="394.103" width="45" height="45"/>
+		<rect id="atm-3" x="770.5" y="412.25" width="45" height="45"/>
+		<rect id="atm-4" x="693" y="436.5" width="45" height="45"/>
+		<rect id="atm-5" x="601.5" y="572.289" width="45" height="45"/>
+		<rect id="atm-6" x="624.131" y="642.5" width="45" height="45"/>
+	</g>
 </g>
 </svg>

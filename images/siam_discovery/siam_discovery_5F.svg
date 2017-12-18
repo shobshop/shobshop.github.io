@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1716px" height="1408px" viewBox="0 0 1716 1408" enable-background="new 0 0 1716 1408" xml:space="preserve">
@@ -16,16 +16,18 @@
 	<polygon fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" points="838.199,1213.425 761.587,1132.604 793.606,1100.584 
 		739.607,1046.585 695.946,1002.924 619.674,1079.645 807.029,1267 876.102,1267 876.102,1253.409 	"/>
 	
-		<rect x="157.333" y="564.977" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -373.3512 298.6046)" fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" width="32.878" height="69.999"/>
+		<rect x="157.327" y="564.975" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 720.8832 901.348)" fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" width="32.878" height="69.998"/>
 	<polygon fill="#94BFAF" stroke="#679B8C" stroke-miterlimit="10" points="898.602,1010.589 900.852,1008.339 897.102,1004.589 
 		900.852,1008.339 980.39,928.8 964.795,912.366 965.871,834.872 642.86,511.86 598.613,556.108 914.349,871.844 788.04,998.152 
 		908.692,1126.848 864.748,1171.726 793.606,1100.584 761.587,1132.604 838.199,1213.425 971.82,1079.309 900.852,1008.339 	"/>
+	<polyline fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" points="876.102,744.867 939.126,681.845 708.802,445.919 
+		642.86,511.86 958.501,827.502 	"/>
 </g>
 <g id="rooms">
-	<polygon id="asa" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="908.692,1126.848 788.04,998.152 
+	<polygon id="asa" fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" points="908.692,1126.848 788.04,998.152 
 		739.607,1046.585 793.606,1100.584 793.606,1100.584 864.748,1171.726 	"/>
-	<polygon id="retail-innovation-lab" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="708.802,445.919 
-		698.358,456.363 642.86,511.86 965.871,834.872 964.795,912.366 980.39,928.8 1049.362,1001.479 1151.982,898.479 	"/>
+	<polygon id="discovery-hubba" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="875.984,744.985 965.871,834.872 
+		964.795,912.366 980.39,928.8 1049.362,1001.479 1151.982,898.479 939.424,681.546 	"/>
 	<polygon id="virgin-active" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="423.872,730.85 399.123,706.101 
 		673.609,431.614 698.358,456.363 708.802,445.919 831.102,323.62 831.102,150 556.617,150 421.624,150 333.128,150 236.667,150 
 		234,150 169.634,150 169.634,377.617 137,377.617 137,586.472 137.392,586.863 160.641,563.615 210.138,613.113 186.89,636.361 

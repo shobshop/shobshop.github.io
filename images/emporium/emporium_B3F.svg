@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
+<g id="background">
+</g>
+<g id="etc">
+	<polygon fill="#868686" stroke="#494949" stroke-miterlimit="10" points="705,448 704,90 640,90 480,90 479,268 409,269.087 
+		157,273 69,736 632,782 637,746 847,759 862,448 	"/>
+	<path id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" d="M302,383l80,1c0,0,1,45,12,75c3,4-77,24-77,24
+		S289,438,302,383z"/>
+	<polygon id="parking-lobby_2_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
+		"/>
+	<polygon id="parking-lobby_1_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
+		"/>
+</g>
+<g id="signs">
+	<g id="lift">
+		<rect id="lift-1" x="414.924" y="255.253" width="45" height="45"/>
+		<rect id="lift-2" x="684.418" y="457.718" width="45" height="45"/>
+		<rect id="lift-3" x="360.63" y="367.751" width="45" height="45"/>
+	</g>
+	<rect id="escalator_1_" x="276.057" y="355.279" width="45" height="45"/>
+	<rect id="parking" x="441.614" y="512.594" width="45" height="45"/>
+</g>
+<g id="rooms">
+	<path id="edsb3-3" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M394,459c0,0,2.992,2.811-50.941,17.218
+		L339.5,464.25c0,0,48.532-13.361,51.204-15.681C390.704,448.57,392,453.375,394,459z"/>
+	<path id="edsb3-2" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M388.136,437.847c0,0,1.809,8.081,2.568,10.723
+		c0,0-10.963,4.644-35.333,11.225l-3.12-10.974C352.25,448.821,383.271,440.069,388.136,437.847z"/>
+	<path id="edsb3-1" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M386.076,427.589l2.06,11.258
+		c0,0-27.068,9.145-52.011,14.903l-3-12C333.125,441.75,363.706,434.211,386.076,427.589z"/>
+</g>
+</svg>

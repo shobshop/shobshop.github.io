@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1338px"
-	 height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
 <g id="background">
 </g>
 <g id="etc">
@@ -26,13 +26,24 @@
 		s38-9.5,53,23.5s-6,57-22.5,63s-78.435,28-78.435,28S987,701.5,967.5,656z"/>
 	<path id="quartier-water-garden" fill="#868686" stroke="#494949" stroke-miterlimit="10" d="M854.5,656l2.5-3l50-20l59,12
 		c0,0-2-36,38-51c2,2-10-24-10-24l132-47l-13-40l-269,94c0,0-32,16-12,42L854.5,656z"/>
+	<polygon fill="#BFBFBF" stroke="#494949" stroke-miterlimit="10" points="1089.438,412.322 1113.229,483.707 1154.052,469.856 
+		1129.494,398.226 	"/>
 </g>
 <g id="rooms">
 	<polygon id="virgin-active-fitness-club" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="1011.331,263.684 
 		1011.331,263.684 1011.331,263.684 1043.515,239.288 1043.515,239.288 1043.515,239.288 1101.417,318.559 1141.481,289.941 
 		1040.613,147.733 758.052,347.32 857.314,492.582 1068.19,343.426 	"/>
-	<path id="kasikorn-wisdom-lounge" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M967.71,629.437l0.454,0.859
-		l43.003-20.686L1004,594C980.556,602.288,971.136,616.632,967.71,629.437z"/>
+	<path id="q5b-2" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M857.314,492.582l210.876-149.156l-56.859-79.742
+		l32.184-24.396l57.902,79.271l40.064-28.618l-100.868-142.208L1145,74l87.348,115.494c0,0,12.937,13.794,10.934,30.257
+		s-9.577,37.706-9.577,37.706l-22.217,89.507c0,0-5.325,23.324-28.804,32.001C1159.205,387.642,857.314,492.582,857.314,492.582z"/>
+	<g id="q5a-1">
+		<path fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M857,653l50-20l58.203,12.852c0,0,2.933,14.132,2.323,18.222
+			s1.804,4.872-15.996,16.258C933.73,691.718,892,717.5,892,717.5L855,658C855,658,853.573,655.255,857,653z"/>
+		<path fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M1113.229,483.707L1126,523l-132,47l10,24l77.182-25.768
+			c0,0,47.248-7.379,54.457,41.336L1163,632.11L1141,734h-82.935v48.51l67.935,0.595c0,0,18.981,4.31,22-23.605l16.958-90.31
+			c0,0,2.87-17.565,27.468-31.031c24.598-13.466,50.23-22.498,63.996-47.039c13.765-24.541,7.131-121.007,7.131-121.007
+			s-3.409-32.187-36.053-25.113L1113.229,483.707z"/>
+	</g>
 </g>
 <g id="signs">
 	<g id="toilet">

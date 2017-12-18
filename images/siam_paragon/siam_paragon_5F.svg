@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="677px" height="803.07px" viewBox="0 0 677 803.07" enable-background="new 0 0 677 803.07" xml:space="preserve">
@@ -63,7 +63,7 @@
 		c2-0.666,22.001-15.332,37.334,7.168c11-0.5,42,0,42,0s3-5.668,13.5-5.668c0,0.771,0,1.484,0,2.168h0.166h4.5v-16.168
 		L493.333,525.166L493.333,525.166z"/>
 	
-		<ellipse transform="matrix(0.6783 -0.7348 0.7348 0.6783 -363.5844 346.1866)" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" cx="213.559" cy="588.313" rx="21.661" ry="41.388"/>
+		<ellipse transform="matrix(-0.6783 0.7348 -0.7348 -0.6783 790.709 830.4277)" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" cx="213.565" cy="588.308" rx="21.661" ry="41.389"/>
 	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M135.75,596.625L130.375,593l-8.125,3.625l0.188,4.375
 		l0.229,1.668l-5.333,3l2.667,6l-6.667,4.334l4.667,4.666l-4.667,5.666l2.667,4.668l-2.667,6l4.667,3.332l-2,6.668l6.667,3l-1.667,7
 		l5.333,1.666v5.334l7,1.666l1.667,5.666h6l3.333,6H151l3,3.668l5.667-3l4.667,5l5.667-4.668l5.333,4.668l4.333-5.668l6,3.668
@@ -135,20 +135,22 @@
 		440,369.5 440,369.5 445.297,369.5 449.25,365.651 449.25,341.902 445.707,337.5 439.5,337.5 439.5,337.5 439.5,337.5 	"/>
 	<polygon id="paragon-hall-1" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="163.75,243.5 163.75,250.078 
 		163.75,283.5 163.75,493.5 245,493.634 245,243.5 	"/>
+	<g id="r5a-1-5a-5">
+		
+			<rect id="r5a-1" x="211.923" y="561.913" transform="matrix(-0.8039 -0.5947 0.5947 -0.8039 67.4457 1152.3116)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="23.495" height="6.251"/>
+		
+			<rect id="r5a-5" x="231.873" y="582.994" transform="matrix(-0.4999 -0.8661 0.8661 -0.4999 -142.2167 1090.1174)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="23.506" height="6.249"/>
+	</g>
 	
-		<rect id="r5a-1" x="211.908" y="561.909" transform="matrix(-0.8039 -0.5947 0.5947 -0.8039 67.4358 1152.3008)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="23.497" height="6.251"/>
-	
-		<rect id="r5a-5" x="231.892" y="583.009" transform="matrix(-0.4999 -0.8661 0.8661 -0.4999 -142.2129 1090.1472)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="23.506" height="6.249"/>
-	
-		<rect id="haagen-dazs" x="465.907" y="561.17" transform="matrix(-0.9866 -0.163 0.163 -0.9866 853.6866 1232.3218)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="22.997" height="39.928"/>
+		<rect id="haagen-dazs" x="465.884" y="561.184" transform="matrix(-0.9866 -0.163 0.163 -0.9866 853.65 1232.3373)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="22.995" height="39.926"/>
 	<polygon id="starbucks-coffee" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="385.592,696.984 324.693,690.404 
 		327.344,665.544 388.248,672.039 	"/>
+	<polygon id="play-cafe" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="456.548,704.499 426.101,701.209 
+		428.752,676.349 459.204,679.554 	"/>
 	<polygon id="mc-cafe" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="475.334,524.447 455.062,519.093 
 		458.205,507.197 478.372,512.578 	"/>
 	<path id="r5a-6" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M214.801,139.199l-2.896,2.896l0,0l0,0l-2.001-1.819
 		C192.314,158.813,176,173.5,176,173.5l4,4c0,0-1.191,1.486-2.704,3.356l10.633,9.215l40.352-40.352L214.801,139.199z"/>
-	
-		<rect id="custard-no-4" x="201.799" y="613.642" transform="matrix(-0.8831 -0.4691 0.4691 -0.8831 112.8122 1261.6379)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="23.501" height="6.251"/>
 </g>
 <g id="signs">
 	<g id="lift">

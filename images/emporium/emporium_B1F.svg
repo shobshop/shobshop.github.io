@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
+<g id="background">
+</g>
+<g id="etc">
+	<polygon fill="#868686" stroke="#494949" stroke-miterlimit="10" points="705,448 704,90 640,90 640,325 640,325 640,325 617,325 
+		617,359 617,359 617,359 409,359 409,359 409,359 409,269.087 157,273 69,736 632,782 637,746 847,759 862,448 	"/>
+	<path id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" d="M302,383l80,1c0,0,1,45,12,75c3,4-77,24-77,24
+		S289,438,302,383z"/>
+	<polygon id="parking-lobby_2_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
+		"/>
+	<polygon id="parking-lobby_1_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
+		"/>
+</g>
+<g id="rooms">
+	<polygon id="edsb1-5" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="310.82,470.695 349.833,461.166 
+		354.198,473.177 317,483 	"/>
+	<path id="edsb1-4" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M349.833,461.166l41.15-11.589L394,459
+		c0,0,4.396,1.688-39.802,14.177L349.833,461.166z"/>
+	<rect id="edsb1-1" x="409" y="269.087" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="70" height="89.913"/>
+	<polygon id="edsb1-2" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="480,90 479,359 617,359 617,325 640,325 
+		640,90 	"/>
+</g>
+<g id="signs">
+	<g id="lift">
+		<rect id="lift-1" x="400.613" y="253.615" width="45" height="45"/>
+		<rect id="lift-2" x="670.106" y="464.11" width="45" height="45"/>
+	</g>
+	<g id="escalator">
+		<rect id="escalator-1" x="539.606" y="270.114" width="45" height="45"/>
+		<rect id="escalator-2" x="319.117" y="386.613" width="45" height="45"/>
+	</g>
+	<rect id="information" x="604.604" y="285.114" width="45" height="45"/>
+	<rect id="parking" x="441.614" y="512.594" width="45" height="45"/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1338px" height="892px" viewBox="0 0 1338 892" enable-background="new 0 0 1338 892" xml:space="preserve">
+<g id="background">
+</g>
+<g id="etc">
+	<polygon fill="#868686" stroke="#494949" stroke-miterlimit="10" points="705,448 704,90 640,90 480,90 479,268 409,269.087 
+		157,273 69,736 632,782 637,746 847,759 862,448 	"/>
+	<path id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" d="M302,383l80,1c0,0,1,45,12,75c3,4-77,24-77,24
+		S289,438,302,383z"/>
+	<polygon id="parking-lobby_2_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
+		"/>
+	<polygon id="parking-lobby_1_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
+		"/>
+</g>
+<path id="edsb2-1" fill="#494949" stroke="#212121" stroke-miterlimit="10" d="M341.617,476.605c0,0-7.367-15.854-8.117-20.229
+	l55.112-16.317c0,0,3.013,14.192,5.388,18.942C394,459,399.109,461.334,341.617,476.605z"/>
+<g id="signs">
+	<g id="lift">
+		<rect id="lift-1" x="400.613" y="253.615" width="45" height="45"/>
+		<rect id="lift-2" x="670.106" y="464.11" width="45" height="45"/>
+	</g>
+	<g id="escalator">
+		<rect id="escalator-2" x="319.117" y="386.613" width="45" height="45"/>
+	</g>
+	<rect id="parking" x="441.614" y="512.594" width="45" height="45"/>
+</g>
+</svg>

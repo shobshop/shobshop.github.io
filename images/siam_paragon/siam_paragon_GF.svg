@@ -1,62 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="677px" height="803.07px" viewBox="0 0 677 803.07" enable-background="new 0 0 677 803.07" xml:space="preserve">
 <g id="Background">
 </g>
 <g id="Etc">
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="389,44 358,44 358,80 379.667,80 379.667,80 389,80 	"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="351.667,165.667 388.667,165.667 388.667,104 
-		379.667,104 379.667,104 351.667,104 	"/>
-	<rect x="488.33" y="511.996" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="66" height="41.332"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M633.671,395c0-20.333-15.667-29.333-15.667-29.333h5.334V277
-		h-5.334c0,0,15.667-7.333,15.667-29.667s-15-31-15-31h4.666V119h-15.666c0,0,25.667-33.333,0-59.333
-		c-34.833-34.833-66.338-4.333-66.338-4.333V44H389v36h-9.333v24h9v61.667h99.663l0,0h0.003h-0.003v346.329h66l0,0h29.334l0,0h32.34
-		v-0.66h7.334V425h-6C617.338,425,633.671,415.333,633.671,395z"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="339.516,733.438 368.671,737 369.338,733 
-		398.671,737.333 399.338,734.666 462.338,741.333 466.324,706.783 343.491,692.097 	"/>
-	<path fill="#DDD1BA" stroke="#3F3628" stroke-miterlimit="10" d="M616.004,542.667v-0.006h-32.34V542.5v-30.504H554.33v41.332h-66
-		v-41.332V165.667h-99.663h-37V104l0,0h28V80H358V44h-6.333v8c0,0-105.667,0-129.333,0C221.333,69.333,210,89,204,98.333
-		s-28.333,30-28.333,30s-9,5.667-18.333,18.333C130.333,178,128.667,226,128.667,226v43.333h-6L122.498,513l-0.148,212.5H189V743
-		h13.004l2.667-18l103.667,12l0.667-5l29.667,4v-2.666l0.845,0.104l3.978-41.34L343.5,692l-0.009,0.098l122.833,14.688l0.014-0.117
-		l16,1.334v33.666h86.333l3.666-23.334l29.667,3l20-178.666h-6V542.667z M185,392.5L185,392.5L185,392.5v-27l0,0V342l0,0l0,0l0,0
-		v23.5l0,0V392.5L185,392.5z"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="122.35,725.5 122.337,743 189,743 189,725.5 	"/>
-	<rect x="583.664" y="542.5" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="32.34" height="0.162"/>
-	<rect x="583.664" y="511.996" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="32.34" height="30.504"/>
-	<circle fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" cx="494.996" cy="632.669" r="26"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M417.667,646.333l42.667,5c0,0-8-13.332-1.667-31.666
-		c-11-4-34-13.668-34-13.668S416,621,417.667,646.333z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M430,596l31,18.668c0,0,4.334-14.002,23.667-18.334
-		c-5-11.666-15-35.334-15-35.334S440.333,574.333,430,596z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M486.667,575.667l5.667,18.666c0,0,11.332-1.334,24.666,7
-		C528,589.667,533.667,581,533.667,581S508.334,569.667,486.667,575.667z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M523,606.333c0,0,23.112,23.666,2.667,50.332
-		c2.045,4,4.488,7.668,4.488,7.668s33.179-11.334,38.505-35c3.406-24-24.875-42-24.875-42L523,606.333z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M622.125,542.625h-43.75l-4.625,43.625
-		c0,0,15.25,15.25,9.25,43.75s-30.5,33.5-30.5,33.5l-16,2l-0.5,4l70.917,7.584L622.125,542.625z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M192.5,713c0,0-21.5,3.5-26.5-10s22-7.5,22-7.5s10,3,11.5,7
-		S192.5,713,192.5,713z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M229.5,609.5l28-33.5c0,0,15,20,5.5,34
-		C255.5,622.5,229.5,609.5,229.5,609.5z"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="143,485.667 122.5,485.667 122.649,513 143,513 	"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="122.649,513 122.333,537.667 143,537.667 143,513 	"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M148.667,158.675l70,49.667c0,0,52.066-31.798,72-71.667
-		c12.333-24.667,17.667-43,17.667-84.667l-86-0.008c0,0-4.186,30.93-25,55.008C180.333,126.675,155.667,142.342,148.667,158.675z"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="210.5,424 210.5,456.5 181.125,456.5 181.125,424.125 	
-		"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="203.25,336 203.25,289.5 196.75,289.5 196.75,278.75 
-		176.768,278.75 176.885,342 185,342 185,342 185,342 185,365.5 185,365.5 185,392.5 185,392.5 185,392.5 176.978,392.5 177,404.5 
-		203.25,404.5 203.25,370.5 199.75,370.5 199.75,336 	"/>
-	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="143,544.689 143,537.667 122.333,537.667 
-		122.333,544.625 	"/>
-	<rect x="389" y="165.667" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="31" height="10"/>
-	<rect x="488" y="481" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="9.167" height="30.668"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M511.25,706.5c-10.77,0-19.5,5.652-19.5,12.625
-		s8.73,12.625,19.5,12.625c2.188,0,4.286-0.244,6.25-0.674v-23.9C515.536,706.744,513.438,706.5,511.25,706.5z"/>
-	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M530.75,719.125c0-5.555-5.55-10.262-13.25-11.949v23.9
-		C525.2,729.388,530.75,724.681,530.75,719.125z"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="389.572,43.521 358.572,43.521 358.572,79.521 
+		380.239,79.521 380.239,79.521 389.572,79.521 	"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="352.239,165.188 389.239,165.188 389.239,103.521 
+		380.239,103.521 380.239,103.521 352.239,103.521 	"/>
+	<rect x="488.902" y="511.517" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="66" height="41.332"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M634.243,394.521c0-20.333-15.667-29.333-15.667-29.333h5.334
+		v-88.667h-5.334c0,0,15.667-7.333,15.667-29.667s-15-31-15-31h4.666v-97.333h-15.666c0,0,25.667-33.333,0-59.333
+		c-34.833-34.833-66.338-4.333-66.338-4.333V43.521H389.572v36h-9.333v24h9v61.667h99.663l0,0h0.003h-0.003v346.329h66l0,0h29.334
+		l0,0h32.34v-0.66h7.334v-86.336h-6C617.91,424.521,634.243,414.854,634.243,394.521z"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="340.088,732.959 369.243,736.521 369.91,732.521 
+		399.243,736.854 399.91,734.187 462.91,740.854 466.896,706.304 344.063,691.618 	"/>
+	<path fill="#DDD1BA" stroke="#3F3628" stroke-miterlimit="10" d="M616.051,542.188v-0.006h-32.34v-0.161v-30.504h-29.334v41.332
+		h-66v-41.332V165.188h-99.663h-37v-61.667l0,0h28v-24h-21.667v-36h-6.333v8c0,0-105.667,0-129.333,0
+		c-1.001,17.333-12.334,37-18.334,46.333s-28.333,30-28.333,30s-9,5.667-18.333,18.333c-27.001,31.334-28.667,79.334-28.667,79.334
+		v43.333h-6l-0.169,243.667l-0.148,212.5h66.65v17.5h13.004l2.667-18l103.667,12l0.667-5l29.667,4v-2.666l0.845,0.104l3.979-41.34
+		l0.004-0.098l-0.009,0.098l122.833,14.688l0.014-0.117l16,1.334v33.666h86.333l3.666-23.334l29.667,3l20-178.666h-6V542.188z"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="122.922,725.021 122.909,742.521 189.572,742.521 
+		189.572,725.021 	"/>
+	<rect x="584.236" y="542.021" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="32.34" height="0.162"/>
+	<rect x="584.236" y="511.517" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="32.34" height="30.504"/>
+	<circle fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" cx="495.568" cy="632.19" r="26"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M418.239,645.854l42.667,5c0,0-8-13.332-1.667-31.666
+		c-11-4-34-13.668-34-13.668S416.572,620.521,418.239,645.854z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M430.572,595.521l31,18.668c0,0,4.334-14.002,23.667-18.334
+		c-5-11.666-15-35.334-15-35.334S440.905,573.854,430.572,595.521z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M487.239,575.188l5.667,18.666c0,0,11.332-1.334,24.666,7
+		c11-11.666,16.667-20.333,16.667-20.333S508.906,569.188,487.239,575.188z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M523.572,605.854c0,0,23.112,23.666,2.667,50.332
+		c2.045,4,4.488,7.668,4.488,7.668s33.179-11.334,38.505-35c3.406-24-24.875-42-24.875-42L523.572,605.854z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M622.697,542.146h-43.75l-4.625,43.625
+		c0,0,15.25,15.25,9.25,43.75s-30.5,33.5-30.5,33.5l-16,2l-0.5,4l70.917,7.584L622.697,542.146z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M193.072,712.521c0,0-21.5,3.5-26.5-10s22-7.5,22-7.5s10,3,11.5,7
+		S193.072,712.521,193.072,712.521z"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="143.572,485.188 123.072,485.188 123.221,512.521 
+		143.572,512.521 	"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="123.221,512.521 122.905,537.188 143.572,537.188 
+		143.572,512.521 	"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" points="143.572,544.21 143.572,537.188 122.905,537.188 
+		122.905,544.146 	"/>
+	<rect x="389.572" y="165.188" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="31" height="10"/>
+	<rect x="488.572" y="480.521" fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" width="9.167" height="30.668"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M511.822,706.021c-10.77,0-19.5,5.652-19.5,12.625
+		s8.73,12.625,19.5,12.625c2.188,0,4.286-0.244,6.25-0.674v-23.9C516.108,706.265,514.01,706.021,511.822,706.021z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M531.322,718.646c0-5.555-5.55-10.262-13.25-11.949v23.9
+		C525.772,728.909,531.322,724.202,531.322,718.646z"/>
+	<path fill="#CCBB9A" stroke="#A58C65" stroke-miterlimit="10" d="M128.5,230.25c0,0,56.914-64.424,67.619-75.963
+		c10.704-11.54,15.427-24.414,20.779-31.829c5.352-7.415,19.834-26.305,30.853-30.083c11.019-3.778,8.815-30.853,8.815-30.853
+		l0.18-10h-34.364c0,0-4.69,33.33-22.693,52s-19.391,20.849-23.974,24.333C171.131,131.339,134.5,153.827,128.5,230.25z"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-width="0.874" stroke-miterlimit="10" points="257.578,140.917 277.306,153.292 
+		295.649,117.463 273.123,109.036 	"/>
+	
+		<rect id="_x3C_path_x3E_" x="358.411" y="526" fill="#CCBB9A" stroke="#A58C65" stroke-width="0.9891" stroke-miterlimit="10" width="89.088" height="41.664"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-width="0.9891" stroke-miterlimit="10" points="347.373,551.701 343.734,551.701 
+		343.734,567.13 347.373,567.518 	"/>
+	<polygon fill="#CCBB9A" stroke="#A58C65" stroke-width="0.9891" stroke-miterlimit="10" points="345.88,537.78 299.039,537.78 
+		285.232,554.984 296.048,554.984 296.048,551.656 345.88,551.656 	"/>
 </g>
 <g id="Rooms">
 	<path id="krispy-kreme" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M122.25,682.75l30.75-0.082
@@ -73,23 +78,23 @@
 	<path id="iberry" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M215.633,659.867C218.141,662.64,221,662.5,221,662.5
 		s14.5,0.5,17.5-14.5c0.862-4.309,0.96-8.146,0.466-11.467L215.633,659.867z"/>
 	<polygon id="take-home" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="307.954,448.104 240.225,498.552 
-		271,559.365 352.666,568.083 352.666,485.333 341,485.333 	"/>
+		271,559.365 295.286,530.281 352.666,530.281 352.666,485.333 341,485.333 	"/>
 	
-		<rect id="market-hall" x="352.666" y="485.333" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="135.334" height="70.666"/>
-	<g id="foodhall">
-		<path id="g40" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M242.028,548.001
-			c-17.311-16.633-38.239-22.676-49.263-13.291c-2.117,1.803-3.729,4.059-4.857,6.664l30.434,28.34L242.028,548.001z"/>
-		<path id="g41" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M187.908,541.375
-			c-4.92,11.357-0.624,29.396,11.358,45.826l19.076-17.486L187.908,541.375z"/>
-		<path id="g42" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M206.364,595.757c3.191,3.385,6.541,6.4,9.958,9.016
-			l19.688-18.604l-9.461-8.811L206.364,595.757z"/>
-		<path id="g43" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M249.623,556.324l-23.074,21.033l9.461,8.811
-			l20.728-19.584C254.707,563.117,252.319,559.675,249.623,556.324z"/>
-	</g>
+		<rect id="mx-cakes-bakery" x="352.666" y="503" fill="#AA9774" stroke="#725D41" stroke-width="1.006" stroke-miterlimit="10" width="43.747" height="17.667"/>
+	
+		<rect id="s-p" x="396.413" y="503" fill="#AA9774" stroke="#725D41" stroke-width="1.006" stroke-miterlimit="10" width="51.087" height="17.667"/>
+	
+		<rect id="cinnabon" x="447.5" y="503" fill="#AA9774" stroke="#725D41" stroke-width="0.8944" stroke-miterlimit="10" width="41.072" height="17.667"/>
+	<path id="chingcha-chalee" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M242.028,548.001
+		c-17.311-16.633-38.239-22.676-49.263-13.291c-2.117,1.803-3.729,4.059-4.857,6.664l30.434,28.34L242.028,548.001z"/>
+	<path id="piri-piri" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M187.908,541.375
+		c-4.92,11.357-0.624,29.396,11.358,45.826l19.076-17.486L187.908,541.375z"/>
+	<path id="g42" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M206.364,595.757c3.191,3.385,6.541,6.4,9.958,9.018
+		l19.688-18.604l-9.461-8.811L206.364,595.757z"/>
+	<path id="the-ninth-cafe" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M249.623,556.324l-23.074,21.033l9.461,8.811
+		l20.728-19.584C254.707,563.117,252.319,559.675,249.623,556.324z"/>
 	<polygon id="goumet-market" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="488,200.5 338.333,200.666 
 		288.333,252 288.333,426 341,485.333 488,485.333 	"/>
-	
-		<rect id="speciality-food" x="282.736" y="567.685" transform="matrix(-0.9941 -0.1082 0.1082 -0.9941 626.8438 1239.9993)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="128.656" height="70.617"/>
 	<path id="g08b" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M559.962,672.107L533,669.25
 		c0.226,18.811,8.232,30.633,16.964,37.947l7.21-6.008L559.962,672.107z"/>
 	<path id="g08c" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M559.962,672.107l-2.788,29.082l0,0l0,0l-7.21,6.008
@@ -126,21 +131,14 @@
 		262,372.667 268.333,366.333 268.333,336.333 	"/>
 	<path id="g17-g19" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M223.625,287l3.708,3.667h41.333v-43.333
 		L291,225.667L263.333,195h-5c0,0-31,28-34.667,47.333C223.667,266,223.625,287,223.625,287z"/>
-	<polygon id="c08" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="196.75,278.75 196.75,278.75 196.75,289.5 
-		203.25,289.5 203.25,269 176.75,269 176.768,278.75 	"/>
-	<path id="c14" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M199.75,370.5h3.417l0.167,23c0,0,4.017,0.288,5-0.167
-		c2.167-1,3.167-3.333,3.167-3.333s0-11.667,0.167-16.333c-0.5-2.667-4-3-4-3L207.5,336h-7.75V370.5z"/>
-	<polygon id="c21" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="185,342 176.885,342 176.928,365.5 185,365.5 	
-		"/>
-	<polygon id="c20" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="176.928,365.5 176.978,392.5 185,392.5 
-		185,365.5 	"/>
 	<polygon id="g30" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="168.25,340.75 145.25,340.75 145.25,345.25 
 		122.5,345.25 122.5,365.25 168.25,365.25 	"/>
 	<polygon id="g31" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="122.5,365.25 122.5,399 162.25,399 
 		168.25,393.25 168.25,365.25 	"/>
 	<polygon id="g27" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="168.75,240.125 128.75,240.125 128.75,275.375 
-		122.5,275.375 122.5,297.875 168.75,297.875 	"/>
-	<rect id="g29" x="122.5" y="292" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="46.25" height="44.25"/>
+		122.5,275.375 122.5,283.829 168.75,283.829 	"/>
+	<rect id="g28" x="122.5" y="283.829" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="46.25" height="26.155"/>
+	<rect id="g29" x="122.5" y="309.984" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="46.25" height="26.266"/>
 	<path id="g25-26" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M128.5,230.25H171c0,0,4.25-22.5,19-42.5
 		c-7.25-5-41.75-29.25-41.75-29.25S128.5,194.5,128.5,230.25z"/>
 	<path id="g20" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M286.375,171.125L319.5,196.75l22.5-23h9.5V102h-33.75
@@ -149,23 +147,173 @@
 		c0.223-0.334,23.866-20.279,21.199-52.029c0.5-0.5-44.833-0.75-44.833-0.75v48.5H141L141,592.5z"/>
 	<path id="starbucks-coffee" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M141,592.5h-18.5v63h22.75
 		c0,0,3.75-4.5,3.75-11.5s-8.5-17.25-8.5-28.5c0-9.588,4.346-16.795,5.634-18.721L141,592.5z"/>
-	<rect id="c19" x="181.125" y="456.439" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="29.375" height="13.75"/>
-	<rect id="sweet-avenue" x="279.292" y="252" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="9.042" height="172"/>
-	<path id="fauchon" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M266.152,593.785c0,0,9.348,3.973,7.848,10.986
-		c-1.5,7.013-12.122,6.764-12.122,6.764S267.805,604.285,266.152,593.785z"/>
-	<path id="chikalicious" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M184.333,673.039c0,0-0.118,0.351-0.187,0.972
-		l22.026,7.664l8.541-14.125C187.275,660.21,184.333,673.039,184.333,673.039z"/>
+	<path id="fauchon" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M268.47,594.29c0,0,7.03,3.468,5.53,10.481
+		c-1.5,7.013-14.163,7.09-14.163,7.09S268.638,606.213,268.47,594.29z"/>
 	<path id="boots" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M215.757,667.826
-		c-0.357-0.103-0.693-0.185-1.043-0.276l-8.541,14.125l23.989,8.35c0.2-0.296,0.295-0.476,0.295-0.476S237,676.706,215.757,667.826z
-		"/>
-	<path id="mori" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M184.146,674.01
-		c-0.298,2.699,0.373,10.582,15.92,17.765l6.106-10.101L184.146,674.01z"/>
-	<path id="code" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M206.173,681.674l-6.106,10.101
-		c0.727,0.336,1.474,0.67,2.266,1.002c19.076,7.983,26.359-0.591,27.829-2.753L206.173,681.674z"/>
+		c-0.357-0.104-0.693-0.187-1.043-0.276l-8.541,14.125l23.989,8.352c0.2-0.298,0.295-0.478,0.295-0.478S237,676.706,215.757,667.826
+		z"/>
+	<g id="pablo">
+		<path id="chikalicious" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M184.333,673.039c0,0-0.118,0.351-0.187,0.972
+			l22.026,7.664l8.541-14.125C187.275,660.21,184.333,673.039,184.333,673.039z"/>
+		<path id="mori" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M184.146,674.01
+			c-0.298,2.699,0.373,10.582,15.92,17.767l6.106-10.103L184.146,674.01z"/>
+		<path id="code" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M206.173,681.674l-6.106,10.103
+			c0.727,0.336,1.474,0.67,2.266,1.002c19.076,7.981,26.359-0.593,27.829-2.753L206.173,681.674z"/>
+	</g>
 	
-		<rect id="the-jewel" x="172" y="609.661" transform="matrix(0.7122 0.702 -0.702 0.7122 485.748 54.8646)" fill="#AA9774" stroke="#5E513F" stroke-miterlimit="10" width="7.927" height="20.338"/>
+		<rect id="the-jewel" x="171.947" y="609.697" transform="matrix(-0.7122 -0.702 0.702 -0.7122 -133.9456 1184.8136)" fill="#AA9774" stroke="#5E513F" stroke-miterlimit="10" width="7.927" height="20.337"/>
 	
 		<rect id="chanoir" x="256.738" y="375.667" fill="#AA9774" stroke="#5E513F" stroke-miterlimit="10" width="17.425" height="9.458"/>
+	<rect id="citibank" x="279.358" y="252" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="17" height="29.004"/>
+	
+		<rect id="yogurtland" x="279.358" y="280.98" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="17" height="29.004"/>
+	
+		<rect id="the-mango-garden" x="279.358" y="309.984" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="17" height="29.004"/>
+	
+		<rect id="pancake-cafe" x="279.358" y="338.988" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="17" height="29.004"/>
+	
+		<rect id="after-you-durian" x="279.358" y="367.992" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="17" height="29.004"/>
+	
+		<rect id="after-you" x="279.358" y="396.996" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="17" height="29.004"/>
+	<path id="ben-s-cookies" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M256.328,575.81
+		c0,0,21.269,8.977,8.449,30.859L243.709,592.5l13.029-16.5"/>
+	<path id="jamba-juice" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M264.347,607.273
+		c-15.406,18.16-34.847,2.227-34.847,2.227l14.209-17l21.068,14.169L264.347,607.273"/>
+	<polygon id="umami-fallabella" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="299.963,636.597 279.298,634.353 
+		281.821,610.314 302.486,612.559 	"/>
+	
+		<rect id="bankara-ramen" x="301.567" y="604.571" transform="matrix(0.9942 0.108 -0.108 0.9942 68.8961 -30.0515)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="maisen" x="322.261" y="606.802" transform="matrix(0.9942 0.108 -0.108 0.9942 69.2579 -32.2729)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="cafe-fish" x="284.589" y="569.535" transform="matrix(0.9942 0.108 -0.108 0.9942 65.0138 -28.4232)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="miyatake-sanuki-udon" x="305.123" y="571.789" transform="matrix(0.9942 0.108 -0.108 0.9942 65.3773 -30.6271)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="dressed" x="325.817" y="574.02" transform="matrix(0.9942 0.108 -0.108 0.9942 65.7391 -32.8484)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="fumi" x="349.108" y="609.936" transform="matrix(0.9942 0.108 -0.108 0.9942 69.7532 -35.1532)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="nantsuttei" x="369.642" y="612.19" transform="matrix(0.9942 0.108 -0.108 0.9942 70.1167 -37.3572)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="the-bibimbab" x="390.336" y="614.421" transform="matrix(0.9942 0.108 -0.108 0.9942 70.4785 -39.5785)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="royal-india" x="352.837" y="576.913" transform="matrix(0.9942 0.108 -0.108 0.9942 66.2095 -35.7489)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="grand-palace" x="373.371" y="579.168" transform="matrix(0.9942 0.108 -0.108 0.9942 66.5729 -37.9529)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	
+		<rect id="peppery" x="394.065" y="581.398" transform="matrix(0.9942 0.108 -0.108 0.9942 66.9347 -40.1742)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="20.786" height="33.256"/>
+	<polygon id="sweet-g" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="302.486,612.559 281.797,610.544 
+		282.854,601.571 303.519,603.815 	"/>
+	<path id="subway" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M443.84,649.4v-13.565l12.539,1.494
+		c0,0,0.727,8.924,3.955,14.004L443.84,649.4z"/>
+	<path id="coco-ichibanya" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M443.84,649.4v-22.084l-25.162-2.326
+		c0,0-2.039,13.585-1.011,21.342L443.84,649.4z"/>
+	<polygon id="nomimono" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="443.84,627.316 430.609,626.094 
+		431.587,618.901 443.84,620.859 	"/>
+	<polygon id="potato-corner" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="443.84,620.859 431.587,618.901 
+		432.68,609.298 443.84,613.893 	"/>
+	<path id="beard-papa" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M432.68,609.298l-1.093,9.602l-11.127-2.243
+		c0,0,0.822-3.262,4.207-10.659L432.68,609.298z"/>
+	<path id="nara-thai-cuisine" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M273.142,51.508h19.953v35.695
+		c0,0-15.244,7.668-19.953,10.166V51.508z"/>
+	<path id="mugendai-steakhouse" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M293.095,51.508h20.712V81.2
+		c0,0-12.594,1.903-20.712,6.002V51.508z"/>
+	<path id="clinton-street-baking-company" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M346.183,51.508v28.084
+		c0,0-3.62,3.821-7.641,3.217c-4.022-0.603-5.832-1.81-9.451-1.81V51.508H346.183z"/>
+	<path id="la-creperie" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" d="M329.09,51.508h-15.283V81.2
+		c0,0,8.815-2.363,15.283-0.201V51.508z"/>
+	<polygon id="another-hound-cafe" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="201.567,195.773 
+		209.012,188.751 212.44,167.903 207.979,154.068 187.243,140.843 181.783,144.951 164.13,146.949 163.317,168.81 	"/>
+	<g id="town-house_1_">
+		<polygon id="town-house" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="273.142,51.508 243.18,51.508 
+			243.18,78.226 273.142,97.369 		"/>
+		
+			<rect x="214.411" y="116.497" transform="matrix(0.7969 0.6041 -0.6041 0.7969 122.1177 -113.254)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="30.177" height="17"/>
+	</g>
+	<polygon id="koi" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="241.547,182.389 250.79,185.286 250.79,191.494 
+		244.582,196.461 237.821,186.252 	"/>
+	<polygon id="gokoku" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="228.674,173.137 236.753,180.292 
+		232.714,188.036 220.135,190.448 217.365,189.425 217.365,183.985 222.443,175.037 	"/>
+	<polygon id="whittard-of-chelsea" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="219.673,194.602 
+		233.752,192.294 236.753,193.448 241.166,198.194 241.166,201.035 228.621,215.613 225.811,215.613 217.365,208.032 
+		217.365,197.214 	"/>
+	<polygon id="veganerie-soul" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="202.592,226.995 209.431,226.995 
+		215.762,229.781 215.762,233.177 206.283,263.739 202.592,263.739 	"/>
+	<polygon id="tsujiri" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="185.201,238.271 189.021,239.403 
+		189.021,264.304 179.542,263.739 177.561,260.909 178.551,247.184 	"/>
+	<polygon id="brix-dessert-bar" fill="#AA9774" stroke="#725D41" stroke-width="0.86" stroke-miterlimit="10" points="
+		197.551,292.436 210.05,292.436 212.155,294.738 212.155,305.263 209.77,308.07 203.595,310.877 200.788,310.877 194.894,296.983 	
+		"/>
+	<polygon id="qq-dessert" fill="#AA9774" stroke="#725D41" stroke-width="0.86" stroke-miterlimit="10" points="187.877,303.86 
+		192.087,302.597 196.437,310.877 196.437,322.104 187.035,329.121 185.491,329.121 183.947,312.28 	"/>
+	<polygon id="bake-a-wish" fill="#AA9774" stroke="#725D41" stroke-width="0.86" stroke-miterlimit="10" points="207.945,317.613 
+		212.155,321.262 210.05,331.507 205.559,334.454 198.683,329.963 199.946,323.227 	"/>
+	<polygon id="tokyo-milk-cheese-factory" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="188.82,332.261 
+		190.941,333.077 195.347,344.173 195.347,346.784 190.941,349.232 188.82,349.232 180.824,340.746 182.782,333.077 	"/>
+	<polygon id="milch" fill="#AA9774" stroke="#725D41" stroke-width="0.86" stroke-miterlimit="10" points="200.648,343.436 
+		206.261,340.489 211.594,343.436 212.155,347.787 208.787,357.61 206.402,359.575 200.648,358.172 	"/>
+	<polygon id="bakesmith" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="180.824,354.943 186.617,352.985 
+		196.49,369.63 190.941,376.973 180.824,381.216 179.355,367.101 	"/>
+	<polygon id="ihop" fill="#AA9774" stroke="#725D41" stroke-width="0.86" stroke-miterlimit="10" points="206.402,364.627 
+		210.892,363.715 212.155,387.362 210.752,390.731 201.349,393.397 198.683,391.994 193.771,384.556 193.771,381.047 	"/>
+	
+		<rect id="harrods-signature-shop" x="180.824" y="421" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="31.106" height="38.5"/>
+	<polygon id="cha-tra-mue" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="257.578,140.917 266.994,121.605 
+		262.286,118.892 252.268,136.849 	"/>
+	<polygon id="harnn" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="285.433,153.292 297.863,125.33 
+		292.49,123.217 279.05,149.884 	"/>
+	<polygon id="botanique" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="273.123,109.036 295.649,117.463 
+		297.863,111.953 275.948,103.521 	"/>
+	<circle id="panpuri" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" cx="241.166" cy="156.444" r="8.745"/>
+	<circle id="donna-chang" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" cx="259.631" cy="170.188" r="8.745"/>
+	<polygon id="kyo-bar" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="282.341,185.855 283.607,204.384 
+		291.035,212.281 303.846,196.884 285.308,180.817 	"/>
+	<polygon id="kyo-roll-en" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="303.846,196.884 291.035,212.281 
+		296.382,217.965 310.193,202.384 	"/>
+	<polygon id="bangwan" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="323.201,192.967 328.56,196.461 
+		342.624,181.792 351.5,181.792 351.5,173.75 342,173.75 	"/>
+	
+		<rect id="flavor-field" x="352.666" y="485.333" fill="#AA9774" stroke="#725D41" stroke-width="0.8944" stroke-miterlimit="10" width="76.134" height="17.667"/>
+	
+		<rect id="bread-talk_1_" x="428.829" y="485.333" fill="#AA9774" stroke="#725D41" stroke-width="0.7923" stroke-miterlimit="10" width="59.743" height="17.667"/>
+	<polygon id="royce" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="352.666,551.701 347.373,551.701 
+		347.373,567.518 352.666,568.083 	"/>
+	<polygon id="hokkaido-soft" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="343.734,551.701 327.716,551.701 
+		327.716,565.501 343.734,567.13 	"/>
+	<polygon id="stickhouse" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="327.716,551.701 312.464,551.701 
+		312.464,563.791 327.716,565.501 	"/>
+	<polygon id="dunkin-donuts" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="312.464,551.701 296.048,551.656 
+		296.048,562.039 312.464,563.791 	"/>
+	<polygon id="coco-fresh-tea-juice" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="296.048,554.984 
+		285.232,554.984 293.515,544.341 284.6,543.418 271,559.365 296.048,562.039 	"/>
+	<polygon id="ginda-co" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="289.759,536.912 299.039,537.78 
+		293.495,544.321 284.6,543.418 	"/>
+	<polygon id="mad-about-juice" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="289.759,536.912 299.039,537.78 
+		319.156,537.78 319.156,530.281 295.286,530.281 	"/>
+	<rect id="kanom" x="319.156" y="530.281" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="33.51" height="7.499"/>
+	
+		<rect id="dairy-queen" x="345.88" y="537.78" fill="#AA9774" stroke="#725D41" stroke-width="0.9278" stroke-miterlimit="10" width="6.786" height="13.921"/>
+	<polygon id="kloset" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="249.27,516.529 240.225,498.66 
+		248.621,492.403 257.605,510.344 	"/>
+	<polygon id="happy-beef" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="257.666,510.273 248.621,492.403 
+		256.448,486.365 265.329,504.468 	"/>
+	<polygon id="la-monita-truck-by-la-monita" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="265.329,504.468 
+		256.448,486.365 264.603,480.338 273.895,497.964 	"/>
+	<polygon id="hokkai-don" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="273.551,498.495 264.46,480.473 
+		272.442,474.531 282.012,491.872 	"/>
+	<polygon id="it-s-happened-to-be-a-closet" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="258.343,534.399 
+		249.298,516.529 257.693,510.273 266.677,528.213 	"/>
+	<polygon id="nippon-kai" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="266.884,528.148 257.838,510.279 
+		265.666,504.241 274.547,522.344 	"/>
+	<polygon id="bangkok-burger-co-" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="274.547,522.337 
+		265.666,504.234 273.82,498.208 283.113,515.833 	"/>
+	<polygon id="teraoka-gyoza" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="283.113,515.871 273.68,498.43 
+		282.012,492.038 291.679,509.366 	"/>
+	
+		<rect id="rosni-yom" x="246.287" y="486.441" transform="matrix(0.7952 -0.6063 0.6063 0.7952 -244.4492 252.3368)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="10.105" height="3.23"/>
+	
+		<rect id="pho" x="277.645" y="523.789" transform="matrix(0.5999 0.8001 -0.8001 0.5999 535.4621 -16.8718)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="13.91" height="6.307"/>
 </g>
 <g id="Signs">
 	<rect id="limousine" x="483.75" y="697.75" fill="#5E513F" width="45" height="45"/>
