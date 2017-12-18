@@ -160,7 +160,7 @@
 		<rect id="r1b-1" x="173.885" y="395.801" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="40.536" height="14.199"/>
 	
 		<rect id="r158" x="410.479" y="616.009" transform="matrix(0.9971 0.0765 -0.0765 0.9971 49.3058 -30.6691)" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="29.004" height="24.504"/>
-	<polygon id="r121_1_" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="143,531.5 143,540 141.958,540 121,540 
+	<polygon id="r121" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="143,531.5 143,540 141.958,540 121,540 
 		121,554.666 128.667,554.666 128.667,554.75 128.667,568.25 163.477,568.25 169.5,573.662 169.5,548.515 169.5,540 169.5,531.5 	
 		"/>
 	

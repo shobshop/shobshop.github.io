@@ -6,7 +6,7 @@
 <g id="background">
 	<rect y="0" fill="#DDDDDD" width="612" height="229.411"/>
 </g>
-<g id="etc_1_">
+<g id="etc">
 	<g>
 		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" d="M544.568,42.659H530.23v-8.914h-3.201h-71.213v4.373h-54.318
 			v-4.302h-28.031v8.843h-13.215v-8.843h-29.32v4.302h-54.725v-4.302h-69.779v4.302h-55.441v-4.302H76.453h-0.024v6.859H62.808
@@ -78,7 +78,7 @@
 	
 		<rect id="_x3C_path_x3E__8_" x="330.973" y="34.65" fill="#999999" stroke="#FFFFFF" stroke-miterlimit="10" width="14.171" height="29.345"/>
 </g>
-<g id="rooms_1_">
+<g id="rooms">
 	<polygon id="r363-365" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" points="137.168,41.509 137.168,34.65 
 		122.352,34.65 122.352,41.509 108.492,41.509 108.492,34.65 76.47,34.65 76.47,41.509 62.849,41.509 62.849,43.013 62.849,63.564 
 		62.849,79.099 80.293,79.099 80.293,63.564 108.492,63.564 108.492,69.779 145.293,69.779 145.293,63.564 145.293,41.509 	"/>
@@ -202,7 +202,7 @@
 		<rect id="entrance-1" x="526.425" y="79.577" width="10.754" height="10.753"/>
 	</g>
 	<g id="escalator">
-		<rect id="escalator-4_1_" x="82.432" y="85.431" width="10.754" height="10.754"/>
+		<rect id="escalator-4" x="82.432" y="85.431" width="10.754" height="10.754"/>
 		<rect id="escalator-3" x="170.457" y="103.952" width="10.754" height="10.753"/>
 		<rect id="escalator-2" x="298.377" y="95.468" width="10.754" height="10.752"/>
 		<rect id="escalator-1" x="423.479" y="95.468" width="10.754" height="10.752"/>

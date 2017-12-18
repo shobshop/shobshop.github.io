@@ -64,7 +64,7 @@
 		<rect id="discovery-atrium" x="537.546" y="710.69" transform="matrix(0.707 0.7072 -0.7072 0.707 769.4368 -302.7973)" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" width="425.216" height="133.037"/>
 	<polyline id="pandora" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="409.345,430.235 457.128,383.213 
 		422.64,349.855 324.343,446.235 358.827,480.839 409.345,430.235 	"/>
-	<polygon id="her-lab-1_1_" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="1178.667,150.667 1170,142 1104,142 
+	<polygon id="her-lab-1" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="1178.667,150.667 1170,142 1104,142 
 		1058,188 1020,150 256,150 256,199.5 365.5,309 439,309 584.5,454.5 741,298 692,249 714,227 708.5,221.5 763,167 1000.5,404.5 
 		946,459 946.167,459.167 1097,308.333 1059.001,270.333 	"/>
 	<polygon id="sunglass-hut" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="414.832,535.272 466.052,484.052 

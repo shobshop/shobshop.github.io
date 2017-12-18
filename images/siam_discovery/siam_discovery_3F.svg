@@ -106,12 +106,12 @@
 		<rect id="stairs-1" x="1123" y="347.5" fill="#26665A" width="45" height="45"/>
 		<rect id="stairs-2" x="964" y="516.5" fill="#26665A" width="45" height="45"/>
 	</g>
-	<g id="escalator_3_">
+	<g id="escalator">
 		<rect id="escalator-2" x="437.5" y="506.721" fill="#26665A" width="45" height="45"/>
 		<rect id="escalator-1" x="1036" y="917" fill="#26665A" width="45" height="45"/>
 	</g>
 	<rect id="parking" x="1504.426" y="338.5" fill="#26665A" width="45" height="45"/>
-	<g id="lift_2_">
+	<g id="lift">
 		<rect id="lift-2" x="1081" y="385.5" fill="#26665A" width="45" height="45"/>
 		<rect id="lift-1" x="1445" y="1190.5" fill="#26665A" width="45" height="45"/>
 	</g>

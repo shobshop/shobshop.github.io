@@ -9,7 +9,7 @@
 		<rect y="281.295" fill="#DDDDDD" width="612" height="229.41"/>
 	</g>
 </g>
-<g id="etc_1_">
+<g id="etc">
 	<g id="etc">
 		<rect x="64.606" y="315.945" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="480.304" height="159.417"/>
 		<rect x="107.942" y="385.677" fill="#999999" stroke="#FFFFFF" stroke-miterlimit="10" width="15.414" height="15.413"/>
@@ -30,7 +30,7 @@
 		461.984,475.361 477.365,475.361 497.318,475.361 497.318,468.875 503.75,468.875 503.75,463.532 497.318,463.532 497.318,452.421 
 			"/>
 </g>
-<g id="rooms_1_">
+<g id="rooms">
 	
 		<rect id="r430-431" x="63.231" y="315.945" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="31.902" height="43.922"/>
 	

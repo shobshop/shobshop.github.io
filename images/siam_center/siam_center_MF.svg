@@ -6,7 +6,7 @@
 <g id="background">
 	<rect y="0" fill="#DDDDDD" width="612" height="229.41"/>
 </g>
-<g id="etc_1_">
+<g id="etc">
 	<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" points="543.424,77.736 543.424,45.309 530.352,45.309 
 		530.352,34.292 497.564,34.292 497.564,42.082 483.586,42.082 483.586,34.292 455.627,34.292 455.627,47.459 401.5,47.459 
 		401.5,34.292 373.158,34.292 373.158,43.516 359.561,43.516 359.561,34.292 330.145,34.292 330.145,47.459 275.181,47.459 
@@ -24,7 +24,7 @@
 	<polygon fill="#999999" stroke="#FFFFFF" stroke-miterlimit="10" points="205.784,48.652 151.06,48.652 163.96,63.084 
 		163.96,63.205 192.282,63.205 	"/>
 </g>
-<g id="rooms_1_">
+<g id="rooms">
 	<polygon id="r211" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" points="309.465,47.507 309.465,63.327 318.785,63.327 
 		330.615,51.378 330.615,47.507 	"/>
 	<polygon id="r212" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" points="275.651,47.507 275.651,51.378 280.072,51.378 
@@ -96,7 +96,7 @@
 	<rect id="h212" x="415.949" y="161.256" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="19.998" height="13.352"/>
 	<rect id="h202-1" x="404.881" y="129.762" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="5.258" height="21.51"/>
 	
-		<rect id="h202-2_2_" x="404.881" y="107.178" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="5.258" height="21.51"/>
+		<rect id="h202-2" x="404.881" y="107.178" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="5.258" height="21.51"/>
 	<rect id="h210" x="166.792" y="87.966" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="21.51" height="5.375"/>
 	
 		<rect id="g-shock" x="133.538" y="138.297" fill="#CCCCCC" stroke="#FFFFFF" stroke-width="0.4359" stroke-miterlimit="10" width="14.667" height="14.667"/>

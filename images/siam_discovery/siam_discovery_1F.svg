@@ -68,7 +68,7 @@
 		l26.146-26.65c0,0,22,0,23.5-15c-6-9-10.5-11.5-10.5-11.5s6.5-10.312,18.5-10.406c12-0.093,39,6.406,36-31.594
 		C693.5,964,735.475,923.962,735.475,923.962z"/>
 	<g id="levi-s">
-		<path id="e-jeans_1_" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" d="M403,832h58l33,33l46.5-48
+		<path id="e-jeans" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" d="M403,832h58l33,33l46.5-48
 			c0,0-9.487-48.014,43.256-44.757l-118.5-118.499L414,706.112c0,0-34.5-9.612-32,37.388c-0.5,18-19.5,20.5-19.5,20.5l-9-9.5
 			c0,0-3.5,6.5-0.5,12c-5,5-38.557,36.053-38.557,36.053L343.708,832H403"/>
 	</g>
@@ -79,7 +79,7 @@
 		185.218,672.52 263.379,594.359 333.128,524.61 	"/>
 	
 		<rect id="palladium" x="333.128" y="150" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" width="88.495" height="121.123"/>
-	<polygon id="cazh_1_" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="985.965,150 556.617,150 556.617,271.123 
+	<polygon id="cazh" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="985.965,150 556.617,150 556.617,271.123 
 		856.602,271.123 	"/>
 	<polygon id="alpha-runner" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="1059.091,281.624 1095.09,245.625 
 		1046.342,196.878 914.35,328.87 1003.595,418.116 1099.589,322.122 	"/>
@@ -109,7 +109,7 @@
 	
 		<rect id="smart-travel" x="948.343" y="1069.089" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" width="97.248" height="198.911"/>
 	
-		<rect id="discovery-lab-2_1_" x="893.995" y="1005.5" fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" width="142.667" height="50.667"/>
+		<rect id="discovery-lab-2" x="893.995" y="1005.5" fill="#83B7AD" stroke="#1D937D" stroke-miterlimit="10" width="142.667" height="50.667"/>
 	<polygon id="selvedgework" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="985.965,150 1035.152,150 
 		1065.576,180.424 915.74,330.26 856.602,271.122 	"/>
 </g>

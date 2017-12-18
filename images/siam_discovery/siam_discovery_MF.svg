@@ -79,7 +79,7 @@
 	<polygon id="issey-miyake" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" points="1350,704 1267,787 1169,689 1140,718 
 		1140,722 1140,818 1062,818 1013,867 1046,900 1364,900 1364,718 	"/>
 	
-		<rect id="brooks_brothers" x="1046.004" y="1146" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" width="181.996" height="122"/>
+		<rect id="brooks-brothers" x="1046.004" y="1146" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" width="181.996" height="122"/>
 	
 		<rect id="asia-books" x="1220.788" y="942.223" fill="#5F9E93" stroke="#3B7F72" stroke-miterlimit="10" width="100.495" height="167.992"/>
 </g>

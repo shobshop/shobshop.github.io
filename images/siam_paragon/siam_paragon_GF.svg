@@ -225,7 +225,7 @@
 		c0,0,8.815-2.363,15.283-0.201V51.508z"/>
 	<polygon id="another-hound-cafe" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="201.567,195.773 
 		209.012,188.751 212.44,167.903 207.979,154.068 187.243,140.843 181.783,144.951 164.13,146.949 163.317,168.81 	"/>
-	<g id="town-house_1_">
+	<g id="town-house">
 		<polygon id="town-house" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="273.142,51.508 243.18,51.508 
 			243.18,78.226 273.142,97.369 		"/>
 		
@@ -276,7 +276,7 @@
 	
 		<rect id="flavor-field" x="352.666" y="485.333" fill="#AA9774" stroke="#725D41" stroke-width="0.8944" stroke-miterlimit="10" width="76.134" height="17.667"/>
 	
-		<rect id="bread-talk_1_" x="428.829" y="485.333" fill="#AA9774" stroke="#725D41" stroke-width="0.7923" stroke-miterlimit="10" width="59.743" height="17.667"/>
+		<rect id="bread-talk" x="428.829" y="485.333" fill="#AA9774" stroke="#725D41" stroke-width="0.7923" stroke-miterlimit="10" width="59.743" height="17.667"/>
 	<polygon id="royce" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="352.666,551.701 347.373,551.701 
 		347.373,567.518 352.666,568.083 	"/>
 	<polygon id="hokkaido-soft" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="343.734,551.701 327.716,551.701 
@@ -358,13 +358,13 @@
 		<rect id="escalator-2" x="174.833" y="217.005" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-3" x="381.5" y="159.339" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-4" x="174.833" y="401.535" fill="#5E513F" width="45" height="45"/>
-		<rect id="escalator-1_1_" x="175.833" y="189.339" fill="#5E513F" width="45" height="45"/>
+		<rect id="escalator-1-1" x="175.833" y="189.339" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-5" x="173.833" y="445.535" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-6" x="451.833" y="465.339" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-7" x="224.834" y="575.339" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-8" x="145.834" y="706" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-9" x="468.334" y="592.335" fill="#5E513F" width="45" height="45"/>
-		<rect id="escalator-9_1_" x="488.834" y="631.335" fill="#5E513F" width="45" height="45"/>
+		<rect id="escalator-9-1" x="488.834" y="631.335" fill="#5E513F" width="45" height="45"/>
 		<rect id="escalator-10" x="529.75" y="717.25" fill="#5E513F" width="45" height="45"/>
 	</g>
 	<rect id="currency-exchange" x="488.834" y="665.666" fill="#5E513F" width="45" height="45"/>

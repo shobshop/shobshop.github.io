@@ -203,7 +203,7 @@
 	<rect id="osim" x="121.189" y="442.5" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" width="45.478" height="15"/>
 	<polygon id="premier" fill="#AA9774" stroke="#725D41" stroke-miterlimit="10" points="218.917,217.835 226.052,209.114 
 		204.338,191.331 197.203,200.637 	"/>
-	<polygon id="primanest_1_" fill="#AA9774" stroke="#725D41" stroke-width="1.0331" stroke-miterlimit="10" points="
+	<polygon id="primanest" fill="#AA9774" stroke="#725D41" stroke-width="1.0331" stroke-miterlimit="10" points="
 		232.963,201.535 241.665,193.804 222.42,172.118 213.622,180.445 	"/>
 </g>
 <g id="signs">

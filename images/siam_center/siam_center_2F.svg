@@ -8,7 +8,7 @@
 		<rect y="0" fill="#DDDDDD" width="612" height="229.41"/>
 	</g>
 </g>
-<g id="etc_1_">
+<g id="etc">
 	<g id="etc">
 		<rect x="64.606" y="34.65" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="480.304" height="159.417"/>
 		<rect x="107.942" y="104.382" fill="#999999" stroke="#FFFFFF" stroke-miterlimit="10" width="15.414" height="15.413"/>
@@ -28,7 +28,7 @@
 		461.984,194.066 477.365,194.066 497.318,194.066 497.318,187.58 503.75,187.58 503.75,182.237 497.318,182.237 497.318,171.126 	
 		"/>
 </g>
-<g id="rooms_1_">
+<g id="rooms">
 	
 		<rect id="r430-431" x="63.231" y="34.648" fill="#CCCCCC" stroke="#FFFFFF" stroke-miterlimit="10" width="31.902" height="43.922"/>
 	

@@ -230,9 +230,9 @@
 		<rect id="bobbi-brown" x="476.5" y="552.666" fill="#A58C65" stroke="#725D41" stroke-width="0.9596" stroke-miterlimit="10" width="15.162" height="14.308"/>
 	
 		<rect id="tom-ford" x="476.5" y="566.974" fill="#A58C65" stroke="#725D41" stroke-width="0.9596" stroke-miterlimit="10" width="15.162" height="14.308"/>
-	<polygon id="la-mer_1_" fill="#A58C65" stroke="#725D41" stroke-width="1.0159" stroke-miterlimit="10" points="463.247,568.7 
+	<polygon id="la-mer" fill="#A58C65" stroke="#725D41" stroke-width="1.0159" stroke-miterlimit="10" points="463.247,568.7 
 		446.127,568.7 448.085,552.666 463.247,552.666 	"/>
-	<polygon id="origins_1_" fill="#A58C65" stroke="#725D41" stroke-width="1.0159" stroke-miterlimit="10" points="463.247,584.735 
+	<polygon id="origins" fill="#A58C65" stroke="#725D41" stroke-width="1.0159" stroke-miterlimit="10" points="463.247,584.735 
 		444.393,584.735 446.127,568.7 463.247,568.7 	"/>
 	<polygon id="m-a-c-cometics" fill="#A58C65" stroke="#725D41" stroke-width="1.0159" stroke-miterlimit="10" points="
 		463.247,600.769 461.25,602.666 442.66,600.769 444.393,584.735 463.247,584.735 	"/>
@@ -243,7 +243,7 @@
 	
 		<rect id="fresh" x="476.408" y="539.419" fill="#A58C65" stroke="#725D41" stroke-width="0.9631" stroke-miterlimit="10" width="24.68" height="13.247"/>
 	
-		<rect id="l-occitane_1_" x="476.5" y="457.907" fill="#A58C65" stroke="#725D41" stroke-miterlimit="10" width="24.496" height="14.593"/>
+		<rect id="l-occitane" x="476.5" y="457.907" fill="#A58C65" stroke="#725D41" stroke-miterlimit="10" width="24.496" height="14.593"/>
 	
 		<rect id="sisley" x="326.004" y="489.034" fill="#A58C65" stroke="#725D41" stroke-miterlimit="10" width="18.74" height="17.756"/>
 	
@@ -254,7 +254,7 @@
 	<rect id="sk-ii" x="400.501" y="489.034" fill="#A58C65" stroke="#725D41" stroke-miterlimit="10" width="18.74" height="17.756"/>
 	<polyline id="aesop" fill="#A58C65" stroke="#725D41" stroke-width="0.8776" stroke-miterlimit="10" points="444.406,485.368 
 		454.619,480.636 462.623,497.912 452.598,502.557 	"/>
-	<polygon id="biotherm_1_" fill="#A58C65" stroke="#725D41" stroke-width="0.8776" stroke-miterlimit="10" points="452.598,502.557 
+	<polygon id="biotherm" fill="#A58C65" stroke="#725D41" stroke-width="0.8776" stroke-miterlimit="10" points="452.598,502.557 
 		441.242,507.818 433.238,490.543 444.406,485.368 	"/>
 	
 		<rect id="make-up-forever" x="436.326" y="462.676" fill="#A58C65" stroke="#725D41" stroke-miterlimit="10" width="16.273" height="9.824"/>
