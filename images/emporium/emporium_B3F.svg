@@ -10,9 +10,9 @@
 		157,273 69,736 632,782 637,746 847,759 862,448 	"/>
 	<path id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" d="M302,383l80,1c0,0,1,45,12,75c3,4-77,24-77,24
 		S289,438,302,383z"/>
-	<polygon id="parking-lobby_2_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
+	<polygon id="parking-lobby-2" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
 		"/>
-	<polygon id="parking-lobby_1_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
+	<polygon id="parking-lobby-1" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
 		"/>
 </g>
 <g id="signs">
@@ -21,7 +21,7 @@
 		<rect id="lift-2" x="684.418" y="457.718" width="45" height="45"/>
 		<rect id="lift-3" x="360.63" y="367.751" width="45" height="45"/>
 	</g>
-	<rect id="escalator_1_" x="276.057" y="355.279" width="45" height="45"/>
+	<rect id="escalator" x="276.057" y="355.279" width="45" height="45"/>
 	<rect id="parking" x="441.614" y="512.594" width="45" height="45"/>
 </g>
 <g id="rooms">

@@ -157,7 +157,7 @@
 		489.587,122.2 489.587,154.169 395.605,154.169 395.605,135.874 334.172,135.874 334.172,154.169 250.592,154.169 	"/>
 	
 		<rect id="b1105" x="673.699" y="468.787" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="62.781" height="57.393"/>
-	<polygon id="b1103_1_" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="753.687,191.346 
+	<polygon id="b1103" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" points="753.687,191.346 
 		744.771,202.692 753.125,209.149 761.607,197.35 	"/>
 	<path id="central-food-hall" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" d="M271.765,511.724
 		l-219.96-0.375v-89.256l8.829-5.959h36.032l12.345-12.333l12.344,12.333h118.771c0,0,21.909,0.334,31.64,16.334L271.765,511.724
@@ -214,7 +214,7 @@
 	
 		<rect id="hokkaido-bake-cheesetart" x="185.688" y="404.234" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="18.44" height="6.238"/>
 	
-		<rect id="hokkaido-milk_1_" x="199.251" y="385.094" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="7.242" height="7.952"/>
+		<rect id="hokkaido-milk" x="199.251" y="385.094" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="7.242" height="7.952"/>
 	
 		<rect id="gindaco" x="192.01" y="385.094" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="7.241" height="7.952"/>
 	
@@ -233,17 +233,17 @@
 		<rect id="owlvee-soft" x="220.505" y="404.234" fill="#929497" stroke="#49494A" stroke-width="0.5" stroke-miterlimit="10" width="5.94" height="6.238"/>
 </g>
 <g id="signs">
-	<g id="toilet_4_">
+	<g id="toilet">
 		
-			<rect id="toilet" x="499.033" y="303.962" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.811"/>
+			<rect id="toilet-4" x="499.033" y="303.962" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.811"/>
 		
-			<rect id="toilet_3_" x="66.933" y="367.938" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.813"/>
+			<rect id="toilet0-3" x="66.933" y="367.938" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.813"/>
 	</g>
 	<g id="parking">
 		
-			<rect id="toilet_1_" x="374.595" y="229.796" opacity="0.8" fill="#231F20" enable-background="new    " width="14.812" height="14.813"/>
+			<rect id="toilet-1" x="374.595" y="229.796" opacity="0.8" fill="#231F20" enable-background="new    " width="14.812" height="14.813"/>
 		
-			<rect id="toilet_2_" x="588.041" y="407.886" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.811"/>
+			<rect id="toilet-2" x="588.041" y="407.886" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.811"/>
 	</g>
 	<g id="lift">
 		<rect x="118.864" y="183.836" opacity="0.8" fill="#231F20" enable-background="new    " width="14.811" height="14.813"/>

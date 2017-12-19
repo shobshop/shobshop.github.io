@@ -143,7 +143,7 @@
 			</g>
 		</g>
 	</g>
-	<g id="parking_lot">
+	<g id="parking-lot">
 		<g>
 			<rect x="334.707" y="629.251" fill="#999999" width="0.732" height="5.234"/>
 			<rect x="338.504" y="629.251" fill="#999999" width="0.732" height="5.234"/>
@@ -2545,7 +2545,7 @@
 		231.22,564.762 231.22,577.859 262.985,577.859 	"/>
 </g>
 <g id="signs">
-	<g id="escalator_6_">
+	<g id="escalator">
 		<rect id="escalator_12_" x="729.051" y="516.407" width="12.203" height="12.204"/>
 		<rect id="escalator_19_" x="586.592" y="526.577" width="12.204" height="12.203"/>
 		<rect id="escalator_11_" x="636.031" y="449.151" width="12.203" height="12.202"/>
@@ -2555,7 +2555,7 @@
 		<rect id="escalator_7_" x="396.919" y="408.445" width="12.204" height="12.204"/>
 		<rect id="escalator_26_" x="418.02" y="528.611" width="12.202" height="12.203"/>
 	</g>
-	<g id="elevator_13_">
+	<g id="elevator">
 		<rect id="elevator_19_" x="599.338" y="559.527" width="12.204" height="12.203"/>
 		<rect id="elevator_18_" x="364.729" y="559.717" width="12.204" height="12.204"/>
 		<rect id="elevator_17_" x="272.278" y="464.419" width="12.204" height="12.204"/>
@@ -2563,7 +2563,7 @@
 		<rect id="elevator_15_" x="618.973" y="397.326" width="12.204" height="12.204"/>
 		<rect id="elevator_14_" x="750.771" y="548.896" width="12.204" height="12.202"/>
 	</g>
-	<g id="toilet_5_">
+	<g id="toilet">
 		<rect id="toilet_4_" x="377.23" y="473.884" width="12.203" height="12.204"/>
 		<rect id="toilet_3_" x="560.124" y="487.796" width="12.203" height="12.204"/>
 	</g>

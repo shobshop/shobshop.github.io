@@ -845,7 +845,7 @@
 	<polygon id="oppo" class="st5" points="686.5,480.8 673.5,515.9 682.6,520.3 696.6,485.6 	"/>
 	<polygon id="amas" class="st5" points="682.6,520.3 692,524.8 706.3,490.3 696.6,485.6 	"/>
 	<polygon id="r292" class="st5" points="736.8,505 725.3,499.4 709.2,532.8 721.2,532.7 	"/>
-	<polygon id="_x2E_life" class="st5" points="675.3,475.4 662,510.3 673.5,515.9 686.5,480.8 	"/>
+	<polygon id="x2e-life" class="st5" points="675.3,475.4 662,510.3 673.5,515.9 686.5,480.8 	"/>
 	<path id="r293-294" class="st5" d="M745.6,510.7l-11.5,21.4L745.6,510.7c-2.6-1.8-5.6-3.7-8.8-5.7l-15.5,27.5v0.2H734V532v0.7h24.4
 		v-13C758.3,519.7,753.6,516.1,745.6,510.7z"/>
 	<path class="st5" d="M582,493.9L582,493.9v0.2C582,494,582,494,582,493.9z"/>
@@ -969,7 +969,7 @@
 		<polygon class="st5" points="627.9,461.8 618.6,500.3 636.6,505.5 648.7,467.5 		"/>
 	</g>
 	<polygon id="r284" class="st5" points="608.2,456.4 599.8,494.9 618.6,500.3 627.9,461.8 	"/>
-	<g id="co-working-space_1_">
+	<g id="co-working-space">
 		<rect id="r280" x="544.3" y="494.6" class="st5" width="24.4" height="23.9"/>
 		<circle id="co-working-space" class="st5" cx="519.7" cy="425.6" r="13.7"/>
 		<path class="st5" d="M532.2,597h-14.8c-0.6,0-1.1-0.5-1.1-1.1v-14.8c0-0.6,0.5-1.1,1.1-1.1h14.8c0.6,0,1.1,0.5,1.1,1.1v14.8
@@ -983,67 +983,67 @@
 		C281.5,484.7,287.4,482.3,289,483.4z"/>
 </g>
 <g id="signs" class="st8">
-	<g id="escalator_6_" class="st9">
-		<rect id="escalator_17_" x="864.7" y="548.4" width="12.2" height="12.2"/>
-		<rect id="escalator_16_" x="673.1" y="578.7" width="12.2" height="12.2"/>
-		<rect id="escalator_15_" x="239.3" y="508.3" width="12.2" height="12.2"/>
-		<rect id="escalator_14_" x="272.4" y="539.8" width="12.2" height="12.2"/>
-		<rect id="escalator_13_" x="637.9" y="581.7" width="12.2" height="12.2"/>
-		<rect id="escalator_12_" x="745.9" y="484.2" width="12.2" height="12.2"/>
-		<rect id="escalator_19_" x="699.6" y="456.5" width="12.2" height="12.2"/>
-		<rect id="escalator_11_" x="605.2" y="428.6" width="12.2" height="12.2"/>
-		<rect id="escalator_10_" x="433.9" y="592.4" width="12.2" height="12.2"/>
-		<rect id="escalator_9_" x="470.5" y="434.7" width="12.2" height="12.2"/>
-		<rect id="escalator_8_" x="450.6" y="416.4" width="12.2" height="12.2"/>
-		<rect id="escalator_7_" x="421.7" y="437.9" width="12.2" height="12.2"/>
-		<rect id="escalator_26_" x="433.9" y="572.6" width="12.2" height="12.2"/>
+	<g id="escalator" class="st9">
+		<rect id="escalator-17" x="864.7" y="548.4" width="12.2" height="12.2"/>
+		<rect id="escalator-16" x="673.1" y="578.7" width="12.2" height="12.2"/>
+		<rect id="escalator-15" x="239.3" y="508.3" width="12.2" height="12.2"/>
+		<rect id="escalator-14" x="272.4" y="539.8" width="12.2" height="12.2"/>
+		<rect id="escalator-13" x="637.9" y="581.7" width="12.2" height="12.2"/>
+		<rect id="escalator-12" x="745.9" y="484.2" width="12.2" height="12.2"/>
+		<rect id="escalator-19" x="699.6" y="456.5" width="12.2" height="12.2"/>
+		<rect id="escalator-11" x="605.2" y="428.6" width="12.2" height="12.2"/>
+		<rect id="escalator-10" x="433.9" y="592.4" width="12.2" height="12.2"/>
+		<rect id="escalator-9" x="470.5" y="434.7" width="12.2" height="12.2"/>
+		<rect id="escalator-8" x="450.6" y="416.4" width="12.2" height="12.2"/>
+		<rect id="escalator-7" x="421.7" y="437.9" width="12.2" height="12.2"/>
+		<rect id="escalator-26" x="433.9" y="572.6" width="12.2" height="12.2"/>
 	</g>
-	<rect id="meeting_point" x="515.4" y="419.5" class="st9" width="12.2" height="12.2"/>
-	<rect id="meeting_point_1_" x="519.2" y="581.7" class="st9" width="12.2" height="12.2"/>
-	<g id="elevator_13_" class="st9">
-		<rect id="elevator_19_" x="693.5" y="625.6" width="12.2" height="12.2"/>
-		<rect id="elevator_18_" x="382.3" y="626.4" width="12.2" height="12.2"/>
-		<rect id="elevator_17_" x="269.7" y="508.3" width="12.2" height="12.2"/>
-		<rect id="elevator_16_" x="350.6" y="398" width="12.2" height="12.2"/>
-		<rect id="elevator_15_" x="726.9" y="416.1" width="12.2" height="12.2"/>
-		<rect id="elevator_14_" x="894.5" y="619.5" width="12.2" height="12.2"/>
+	<rect id="meeting-point" x="515.4" y="419.5" class="st9" width="12.2" height="12.2"/>
+	<rect id="meeting-point-1" x="519.2" y="581.7" class="st9" width="12.2" height="12.2"/>
+	<g id="elevator" class="st9">
+		<rect id="elevator-19" x="693.5" y="625.6" width="12.2" height="12.2"/>
+		<rect id="elevator-18" x="382.3" y="626.4" width="12.2" height="12.2"/>
+		<rect id="elevator-17" x="269.7" y="508.3" width="12.2" height="12.2"/>
+		<rect id="elevator-16" x="350.6" y="398" width="12.2" height="12.2"/>
+		<rect id="elevator-15" x="726.9" y="416.1" width="12.2" height="12.2"/>
+		<rect id="elevator-14" x="894.5" y="619.5" width="12.2" height="12.2"/>
 	</g>
-	<rect id="baby_change" x="170.6" y="460" class="st9" width="12.2" height="12.2"/>
-	<g id="family_room_4_" class="st9">
-		<rect id="family_room_3_" x="422.9" y="520.4" width="12.2" height="12.2"/>
-		<rect id="family_room_2_" x="631.8" y="520.4" width="12.2" height="12.2"/>
+	<rect id="baby-change" x="170.6" y="460" class="st9" width="12.2" height="12.2"/>
+	<g id="family-room" class="st9">
+		<rect id="family-room-3" x="422.9" y="520.4" width="12.2" height="12.2"/>
+		<rect id="family-room-2" x="631.8" y="520.4" width="12.2" height="12.2"/>
 	</g>
-	<g id="handicap_6_" class="st9">
-		<rect id="handicap_3_" x="613.3" y="520.4" width="12.2" height="12.2"/>
-		<rect id="handicap_2_" x="404.9" y="520.4" width="12.2" height="12.2"/>
-		<rect id="handicap_1_" x="188.5" y="444" width="12.2" height="12.2"/>
-		<rect id="handicap_4_" x="946.9" y="518.9" width="12.2" height="12.2"/>
+	<g id="handicap" class="st9">
+		<rect id="handicap-3" x="613.3" y="520.4" width="12.2" height="12.2"/>
+		<rect id="handicap-2" x="404.9" y="520.4" width="12.2" height="12.2"/>
+		<rect id="handicap-1" x="188.5" y="444" width="12.2" height="12.2"/>
+		<rect id="handicap-4" x="946.9" y="518.9" width="12.2" height="12.2"/>
 	</g>
-	<g id="toilet_1_" class="st9">
-		<rect id="toilet_4_" x="404.9" y="502.2" width="12.2" height="12.2"/>
-		<rect id="toilet_3_" x="613.3" y="502.2" width="12.2" height="12.2"/>
-		<rect id="toilet_6_" x="170.6" y="444" width="12.2" height="12.2"/>
-		<rect id="toilet_2_" x="946.9" y="502.2" width="12.2" height="12.2"/>
+	<g id="toilet" class="st9">
+		<rect id="toilet-4" x="404.9" y="502.2" width="12.2" height="12.2"/>
+		<rect id="toilet-3" x="613.3" y="502.2" width="12.2" height="12.2"/>
+		<rect id="toilet-6" x="170.6" y="444" width="12.2" height="12.2"/>
+		<rect id="toilet-2" x="946.9" y="502.2" width="12.2" height="12.2"/>
 	</g>
-	<g id="kid_toilet_2_" class="st9">
-		<rect id="kid_toilet" x="422.9" y="502.2" width="12.2" height="12.2"/>
-		<rect id="kid_toilet_1_" x="631.8" y="502.2" width="12.2" height="12.2"/>
+	<g id="kid-toilet" class="st9">
+		<rect id="kid-toilet-1" x="422.9" y="502.2" width="12.2" height="12.2"/>
+		<rect id="kid-toilet-2" x="631.8" y="502.2" width="12.2" height="12.2"/>
 	</g>
-	<g id="entrance_1_" class="st9">
+	<g id="entrance" class="st9">
 		<rect id="entrance" x="464.8" y="649.7" width="12.2" height="12.2"/>
-		<rect id="entrance_2_" x="370.1" y="661.8" width="12.2" height="12.2"/>
-		<rect id="entrance_3_" x="584" y="739.1" width="12.2" height="12.2"/>
-		<rect id="entrance_4_" x="782.4" y="662.8" width="12.2" height="12.2"/>
-		<rect id="entrance_5_" x="831.7" y="638.1" width="12.2" height="12.2"/>
-		<rect id="entrance_6_" x="450.6" y="334.5" width="12.2" height="12.2"/>
-		<rect id="entrance_7_" x="353.1" y="363.9" width="12.2" height="12.2"/>
-		<rect id="entrance_8_" x="68.9" y="544.7" width="12.2" height="12.2"/>
+		<rect id="entrance-2" x="370.1" y="661.8" width="12.2" height="12.2"/>
+		<rect id="entrance-3" x="584" y="739.1" width="12.2" height="12.2"/>
+		<rect id="entrance-4" x="782.4" y="662.8" width="12.2" height="12.2"/>
+		<rect id="entrance-5" x="831.7" y="638.1" width="12.2" height="12.2"/>
+		<rect id="entrance-6" x="450.6" y="334.5" width="12.2" height="12.2"/>
+		<rect id="entrance-7" x="353.1" y="363.9" width="12.2" height="12.2"/>
+		<rect id="entrance-8" x="68.9" y="544.7" width="12.2" height="12.2"/>
 	</g>
-	<rect id="infomation_1_" x="151.4" y="560.2" class="st9" width="12.2" height="12.2"/>
-	<g id="ATM_3_" class="st9">
-		<rect id="ATM_2_" x="382.3" y="643.6" width="12.2" height="12.2"/>
-		<rect id="ATM_1_" x="693.5" y="644.2" width="12.2" height="12.2"/>
+	<rect id="infomation" x="151.4" y="560.2" class="st9" width="12.2" height="12.2"/>
+	<g id="atm" class="st9">
+		<rect id="atm-2" x="382.3" y="643.6" width="12.2" height="12.2"/>
+		<rect id="atm-1" x="693.5" y="644.2" width="12.2" height="12.2"/>
 	</g>
-	<rect id="MRT" x="29.6" y="577.2" class="st9" width="12.2" height="12.2"/>
+	<rect id="mrt" x="29.6" y="577.2" class="st9" width="12.2" height="12.2"/>
 </g>
 </svg>

@@ -10,9 +10,9 @@
 		617,359 617,359 617,359 409,359 409,359 409,359 409,269.087 157,273 69,736 632,782 637,746 847,759 862,448 	"/>
 	<path id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" d="M302,383l80,1c0,0,1,45,12,75c3,4-77,24-77,24
 		S289,438,302,383z"/>
-	<polygon id="parking-lobby_2_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
+	<polygon id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="387,578 382,617 513,638 519,600 	
 		"/>
-	<polygon id="parking-lobby_1_" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
+	<polygon id="parking-lobby" fill="#595959" stroke="#212121" stroke-miterlimit="10" points="673,463 657,544 684,551 701,470 	
 		"/>
 </g>
 <g id="rooms">

@@ -172,13 +172,13 @@
 	
 		<rect id="edsm-35a" x="561.773" y="147.294" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
 	
-		<rect id="edsm-36d_1_" x="542.122" y="164.362" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
+		<rect id="edsm-36d" x="542.122" y="164.362" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
 	
-		<rect id="edsm-36c_1_" x="525.526" y="164.362" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
+		<rect id="edsm-36c" x="525.526" y="164.362" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
 	
-		<rect id="edsm-36b_1_" x="542.122" y="147.294" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
+		<rect id="edsm-36b" x="542.122" y="147.294" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
 	
-		<rect id="edsm-36a_1_" x="525.526" y="147.294" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
+		<rect id="edsm-36a" x="525.526" y="147.294" fill="#494949" stroke="#212121" stroke-miterlimit="10" width="16.597" height="17.068"/>
 	<polygon id="edsm-33" fill="#494949" stroke="#212121" stroke-miterlimit="10" points="519.341,186.111 519.341,147.294 
 		508.847,139.487 488.956,139.487 488.956,186.111 	"/>
 	

@@ -118,9 +118,9 @@
 		<rect id="toilet-3" x="1064" y="729" width="45" height="45"/>
 	</g>
 	<rect id="entrance" x="555.5" y="519" width="45" height="45"/>
-	<g id="atm_6_">
-		<rect id="atm-1_1_" x="1062.5" y="703.5" width="45" height="45"/>
-		<rect id="atm-2_1_" x="862.642" y="394.103" width="45" height="45"/>
+	<g id="atm">
+		<rect id="atm-1" x="1062.5" y="703.5" width="45" height="45"/>
+		<rect id="atm-2" x="862.642" y="394.103" width="45" height="45"/>
 		<rect id="atm-3" x="770.5" y="412.25" width="45" height="45"/>
 		<rect id="atm-4" x="693" y="436.5" width="45" height="45"/>
 		<rect id="atm-5" x="601.5" y="572.289" width="45" height="45"/>

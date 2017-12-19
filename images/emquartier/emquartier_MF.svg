@@ -160,7 +160,7 @@
 	<rect id="entrance" x="327.101" y="536.993" width="45" height="45"/>
 	<rect id="stairs" x="544.718" y="471.332" width="45" height="45"/>
 	<rect id="bts" x="1261.689" y="426.62" width="45" height="45"/>
-	<g id="atm_1_">
+	<g id="atm">
 		<rect id="atm-1" x="1051.594" y="714.947" width="45" height="45"/>
 		<rect id="atm-2" x="601.622" y="443.409" width="45" height="45"/>
 	</g>
