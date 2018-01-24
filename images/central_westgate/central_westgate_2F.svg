@@ -1108,7 +1108,7 @@
 		<rect id="entrance-7" x="353.1" y="363.9" width="12.2" height="12.2"/>
 		<rect id="entrance-8" x="68.9" y="544.7" width="12.2" height="12.2"/>
 	</g>
-	<rect id="infomation" x="151.4" y="560.2" display="inline" width="12.2" height="12.2"/>
+	<rect id="information" x="151.4" y="560.2" display="inline" width="12.2" height="12.2"/>
 	<g id="atm" display="inline">
 		<rect id="atm-2" x="382.3" y="643.6" width="12.2" height="12.2"/>
 		<rect id="atm-1" x="693.5" y="644.2" width="12.2" height="12.2"/>
