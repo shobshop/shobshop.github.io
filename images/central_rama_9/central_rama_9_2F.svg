@@ -4,10 +4,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="841.89px" height="595.281px" viewBox="0 0 841.89 595.281" enable-background="new 0 0 841.89 595.281"
 	 xml:space="preserve">
-<g id="Background">
+<g id="background">
 	<rect y="0" fill="#FFFFFF" width="841.89" height="595.281"/>
 </g>
-<g id="ETC">
+<g id="etc">
 	<path fill="#CECECE" stroke="#494949" stroke-miterlimit="10" d="M345.213,250.879h35.234v-17.495h92.46v18.226h120.283v-16.523
 		h95.023l-0.018-94.792h-567.53H50.095c0,0-8.394,59.663-14.928,109.857h263.147v15.188h46.896L345.213,250.879L345.213,250.879z"/>
 	<path fill="#CECECE" stroke="#494949" stroke-miterlimit="10" d="M792.205,348.199v-24.971h-34.082v24.971H688.23v-54.675
@@ -27,7 +27,7 @@
 	<path fill="#B5B5B5" stroke="#494949" stroke-miterlimit="10" d="M679.21,276.758h-20.17v35.302
 		c10.615,1.76,20.17,3.578,20.17,3.578V276.758z"/>
 </g>
-<g id="Rooms">
+<g id="rooms">
 	<path id="r225" fill="#939598" stroke="#494949" stroke-miterlimit="10" d="M298.314,412.352V250.15H35.167
 		c-3.094,23.766-5.771,45.41-6.942,57.59c-3.645,37.906,6.318,61.965,47.871,90.396c3.63,2.481,7.616,4.714,11.868,6.724
 		c44.422,20.979,117.892,17.335,117.892,17.335c0,3.398,3.159,10.205,10.935,12.146c2.414,0.604,7.873,1.42,15.552,2.371v-24.357
@@ -92,9 +92,9 @@
 	<path id="r215-1" fill="#939598" stroke="#494949" stroke-miterlimit="10" d="M511.301,373.557c0,0,13.292-0.993,16.28-1.205
 		v60.111c0,0-13.563-0.445-16.28-0.558V373.557z"/>
 	
-		<rect id="COFFEE-WORLD" x="455.112" y="320.498" fill="#939598" stroke="#494949" stroke-miterlimit="10" width="10.142" height="40.095"/>
+		<rect id="coffee-world" x="455.112" y="320.498" fill="#939598" stroke="#494949" stroke-miterlimit="10" width="10.142" height="40.095"/>
 </g>
-<g id="Signs">
+<g id="signs">
 	
 		<rect id="call-point-service" x="394.525" y="171.996" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
 	<rect id="lady-parking" x="352.025" y="171.996" opacity="0.8" enable-background="new    " width="14.811" height="14.812"/>
