@@ -3,12 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<g id="Background">
+<g id="background">
 	<rect y="146.455" fill="#FFFFFF" width="1000" height="707.091"/>
 </g>
-<g id="Original">
+<g id="original">
 </g>
-<g id="ETC">
+<g id="etc">
 	<polygon fill="#DEDEDE" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" points="181.732,437.226 245.397,406.699 
 		275.33,382.884 300.154,318.209 333.294,285.248 446.55,289.405 469.474,284.357 490.557,271.885 537.355,271.885 546.146,284.357 
 		554.994,267.134 643.069,267.134 689.274,292.434 872.847,475.531 830.681,517.639 846.775,534.743 879.974,502.138 
@@ -1167,8 +1167,7 @@
 		c4.632-0.476,9.562-0.772,14.551-0.594v-15.738H428.495L428.495,509.978z"/>
 	<path id="r028" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M462.882,510.394v17.104
 		c2.078-1.366,7.305-4.395,15.382-5.82v-11.283H462.882L462.882,510.394z"/>
-	
-		<rect id="swensens" x="462.882" y="497.624" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="15.382" height="12.77"/>
+	<rect id="swensen-s" x="462.882" y="497.624" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" width="15.382" height="12.77"/>
 	<path id="r025" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M556.123,517.758h-14.669v8.136
 		c4.335-0.06,9.265-0.06,14.669,0.238v-6.355V517.758z"/>
 	<path id="r027" fill="#939598" stroke="#494949" stroke-width="0.5" stroke-miterlimit="10" d="M505.701,510.155v11.166
@@ -1206,7 +1205,7 @@
 		l110.405-110.405l16.035,16.035l-30.645,36.881c-19.718-5.345-36.703,20.312-36.406,27.973
 		C292.493,625.49,294.987,627.807,298.254,630.122z"/>
 </g>
-<g id="Signs">
+<g id="signs">
 	<rect id="baby-change-room" x="584.155" y="501.366" opacity="0.8" enable-background="new    " width="8.789" height="8.789"/>
 	<g id="fire-exit">
 		<rect x="412.638" y="483.489" opacity="0.8" enable-background="new    " width="8.79" height="8.79"/>
