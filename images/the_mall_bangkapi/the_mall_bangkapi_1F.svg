@@ -3,11 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1000px" height="663px" viewBox="0 0 1000 663" enable-background="new 0 0 1000 663" xml:space="preserve">
-<g id="Original">
+<g id="original">
 </g>
-<g id="Background" display="none">
+<g id="background" display="none">
 </g>
-<g id="ETC">
+<g id="etc">
 	<path fill="#BFBFBF" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" d="M872.986,90.155v475.243H57.058l17.128-24.604
 		c0,0-1.312-11.096-12.525-15.15l79.568-114.761l-2.744-2.505l50.104-70.86l2.624,1.55l165.46-235.843
 		c0,0,10.273-6.562,27.862-5.488l5.183-7.582H872.986L872.986,90.155z"/>
@@ -57,7 +57,7 @@
 	
 		<rect x="612.922" y="396.36" fill="#BFBFBF" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" width="26.916" height="38.401"/>
 </g>
-<g id="Rooms">
+<g id="rooms">
 	<polygon id="r109" fill="#959595" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" points="136.916,452.149 
 		177.581,480.676 208.078,436.671 167.843,408.447 	"/>
 	<polygon id="r108" fill="#959595" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" points="167.843,408.447 
@@ -232,7 +232,7 @@
 	<polygon id="r154" fill="#959595" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" points="669.91,473.16 
 		672.694,471.119 672.694,434.761 639.838,434.762 639.838,473.16 	"/>
 </g>
-<g id="Signs">
+<g id="signs">
 	
 		<rect id="toilet" x="728.23" y="540.689" opacity="0.8" fill="#231F20" enable-background="new    " width="16.492" height="16.496"/>
 	<g id="entrance">

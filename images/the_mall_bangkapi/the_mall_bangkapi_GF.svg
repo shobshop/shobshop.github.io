@@ -3,11 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1000px" height="663px" viewBox="0 0 1000 663" enable-background="new 0 0 1000 663" xml:space="preserve">
-<g id="Original">
+<g id="original">
 </g>
-<g id="Background" display="none">
+<g id="background" display="none">
 </g>
-<g id="ETC">
+<g id="etc">
 	<polygon fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" points="645.778,489.866 598.907,489.866 
 		598.907,506.483 645.778,506.483 671.859,506.483 671.859,489.866 	"/>
 	<path fill="#BFBFBF" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" d="M872.986,90.155v475.243H57.058l17.128-24.604
@@ -38,7 +38,7 @@
 	<polygon fill="#BFBFBF" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" points="344.042,507.037 372.257,507.037 
 		372.257,488.849 356.851,488.849 	"/>
 </g>
-<g id="Rooms">
+<g id="rooms">
 	
 		<rect id="g41" x="488.646" y="489.637" fill="#959595" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" width="23.247" height="17.4"/>
 	
@@ -348,7 +348,7 @@
 	
 		<rect id="g53" x="654.875" y="489.866" fill="#959595" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" width="16.984" height="16.614"/>
 </g>
-<g id="Signs">
+<g id="signs">
 	
 		<rect id="toilet" x="725.426" y="539.34" opacity="0.8" fill="#231F20" enable-background="new    " width="16.495" height="16.496"/>
 	<g id="entrance">
