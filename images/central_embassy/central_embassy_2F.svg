@@ -104,9 +104,9 @@
 		<rect id="r202" x="213.449" y="209.383" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" width="25.34" height="42.552"/>
 	<path id="r201" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M149.888,209.383l-0.052,31.07
 		c0,0,0.022,11.431,12.708,11.48h50.904v-42.552L149.888,209.383L149.888,209.383z"/>
-	<polygon id="r224" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="200.756,315.339 
+	<polygon id="r225" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="200.756,315.339 
 		175.254,304.587 175.322,347.228 200.756,347.329 	"/>
-	<polygon id="r225" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="86.362,272.249 
+	<polygon id="r224" fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" points="86.362,272.249 
 		86.406,304.237 99.108,304.286 99.128,325.685 137.211,325.685 137.248,347.083 175.327,347.222 175.254,304.587 	"/>
 	<g id="r223">
 		<path fill="#939598" stroke="#FFFFFF" stroke-width="0.5" stroke-miterlimit="10" d="M225.182,369.544l-13.31-11.218
